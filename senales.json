@@ -262,5 +262,13 @@
     "sl": 0.1366,
     "tp": 0.131,
     "estado": "Abierto"
+  },
+  {
+    "par": "GRIFFAINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.011,
+    "sl": 0.0111,
+    "tp": 0.011,
+    "estado": "Abierto"
   }
 ]
