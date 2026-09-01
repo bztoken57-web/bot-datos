@@ -40,19 +40,19 @@
     "estado": "Abierto"
   },
   {
-    "par": "TWTUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.5309,
-    "sl": 0.5343,
-    "tp": 0.5258,
-    "estado": "\u274c SL (-0.64%)"
-  },
-  {
     "par": "QUSDT",
     "tipo": "SHORT",
     "entrada": 0.0237,
     "sl": 0.0239,
     "tp": 0.0236,
+    "estado": "Abierto"
+  },
+  {
+    "par": "TWTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5328,
+    "sl": 0.5376,
+    "tp": 0.5272,
     "estado": "Abierto"
   }
 ]
