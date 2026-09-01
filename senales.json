@@ -30,5 +30,13 @@
     "sl": 210,
     "tp": 180,
     "estado": "Abierto"
+  },
+  {
+    "par": "BLESSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0098,
+    "sl": 0.0099,
+    "tp": 0.0097,
+    "estado": "Abierto"
   }
 ]
