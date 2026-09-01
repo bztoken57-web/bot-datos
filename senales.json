@@ -88,14 +88,6 @@
     "estado": "\u274c SL (-0.60%)"
   },
   {
-    "par": "0GUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.2427,
-    "sl": 0.2455,
-    "tp": 0.2396,
-    "estado": "\u274c SL (-1.14%)"
-  },
-  {
     "par": "SKRUSDT",
     "tipo": "SHORT",
     "entrada": 0.0287,
@@ -166,5 +158,13 @@
     "sl": 0.1011,
     "tp": 0.0982,
     "estado": "\u274c SL (-1.17%)"
+  },
+  {
+    "par": "0GUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2387,
+    "sl": 0.2409,
+    "tp": 0.2366,
+    "estado": "Abierto"
   }
 ]
