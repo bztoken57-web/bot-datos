@@ -222,5 +222,13 @@
     "sl": 0.0049,
     "tp": 0.0048,
     "estado": "Abierto"
+  },
+  {
+    "par": "IOSTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0006,
+    "sl": 0.0006,
+    "tp": 0.0006,
+    "estado": "Abierto"
   }
 ]
