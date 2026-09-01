@@ -334,5 +334,13 @@
     "sl": 0.1048,
     "tp": 0.1006,
     "estado": "\u2705 TP (+2.53%)"
+  },
+  {
+    "par": "PLAYUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0378,
+    "sl": 0.0386,
+    "tp": 0.0375,
+    "estado": "Abierto"
   }
 ]
