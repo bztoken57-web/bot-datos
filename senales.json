@@ -456,14 +456,6 @@
     "estado": "\u2705 TP (+4.17%)"
   },
   {
-    "par": "ACEUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.2072,
-    "sl": 0.2087,
-    "tp": 0.2049,
-    "estado": "\u2705 TP (+1.11%)"
-  },
-  {
     "par": "UNIUSDT",
     "tipo": "SHORT",
     "entrada": 5.748,
@@ -509,6 +501,14 @@
     "entrada": 1.339,
     "sl": 1.345,
     "tp": 1.3335,
+    "estado": "Abierto"
+  },
+  {
+    "par": "ACEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2138,
+    "sl": 0.2154,
+    "tp": 0.2117,
     "estado": "Abierto"
   }
 ]
