@@ -286,5 +286,13 @@
     "sl": 0.0098,
     "tp": 0.0097,
     "estado": "\u274c SL (-0.48%)"
+  },
+  {
+    "par": "CVXUSDT",
+    "tipo": "SHORT",
+    "entrada": 2.403,
+    "sl": 2.415,
+    "tp": 2.3882,
+    "estado": "Abierto"
   }
 ]
