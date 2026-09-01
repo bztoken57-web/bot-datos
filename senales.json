@@ -102,5 +102,13 @@
     "sl": 0.0289,
     "tp": 0.0283,
     "estado": "Abierto"
+  },
+  {
+    "par": "OUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5834,
+    "sl": 0.5932,
+    "tp": 0.5777,
+    "estado": "Abierto"
   }
 ]
