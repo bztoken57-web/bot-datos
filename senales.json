@@ -360,14 +360,6 @@
     "estado": "\u2705 TP (+0.82%)"
   },
   {
-    "par": "MARSCOINUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0646,
-    "sl": 0.0657,
-    "tp": 0.0633,
-    "estado": "\u274c SL (-1.79%)"
-  },
-  {
     "par": "STBLUSDT",
     "tipo": "SHORT",
     "entrada": 0.0249,
@@ -454,5 +446,13 @@
     "sl": 0.5776,
     "tp": 0.5387,
     "estado": "\u274c SL (-3.62%)"
+  },
+  {
+    "par": "MARSCOINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0698,
+    "sl": 0.0707,
+    "tp": 0.0686,
+    "estado": "Abierto"
   }
 ]
