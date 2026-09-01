@@ -46,5 +46,13 @@
     "sl": 0.5343,
     "tp": 0.5258,
     "estado": "Abierto"
+  },
+  {
+    "par": "QUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0237,
+    "sl": 0.0239,
+    "tp": 0.0236,
+    "estado": "Abierto"
   }
 ]
