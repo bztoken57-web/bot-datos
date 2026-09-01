@@ -70,5 +70,13 @@
     "sl": 0.1246,
     "tp": 0.1197,
     "estado": "Abierto"
+  },
+  {
+    "par": "NOTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0005,
+    "sl": 0.0005,
+    "tp": 0.0005,
+    "estado": "Abierto"
   }
 ]
