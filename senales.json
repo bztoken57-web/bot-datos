@@ -120,14 +120,6 @@
     "estado": "\u274c SL (-1.09%)"
   },
   {
-    "par": "CYSUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.5457,
-    "sl": 0.5526,
-    "tp": 0.5353,
-    "estado": "\u2705 TP (+1.93%)"
-  },
-  {
     "par": "ENSUSDT",
     "tipo": "SHORT",
     "entrada": 6.306,
@@ -437,6 +429,14 @@
     "entrada": 0.0079,
     "sl": 0.008,
     "tp": 0.0079,
+    "estado": "Abierto"
+  },
+  {
+    "par": "CYSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.4496,
+    "sl": 0.456,
+    "tp": 0.4428,
     "estado": "Abierto"
   }
 ]
