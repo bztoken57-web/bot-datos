@@ -118,5 +118,13 @@
     "sl": 0.1362,
     "tp": 0.1309,
     "estado": "\u2705 TP (+2.26%)"
+  },
+  {
+    "par": "MAGMAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.3508,
+    "sl": 0.3561,
+    "tp": 0.3463,
+    "estado": "Abierto"
   }
 ]
