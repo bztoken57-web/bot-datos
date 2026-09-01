@@ -96,14 +96,6 @@
     "estado": "\u2705 TP (+0.99%)"
   },
   {
-    "par": "STARUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.1339,
-    "sl": 0.1362,
-    "tp": 0.1309,
-    "estado": "\u2705 TP (+2.26%)"
-  },
-  {
     "par": "MAGMAUSDT",
     "tipo": "SHORT",
     "entrada": 0.3508,
@@ -261,6 +253,14 @@
     "entrada": 0.0178,
     "sl": 0.018,
     "tp": 0.0177,
+    "estado": "Abierto"
+  },
+  {
+    "par": "STARUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1337,
+    "sl": 0.1366,
+    "tp": 0.131,
     "estado": "Abierto"
   }
 ]
