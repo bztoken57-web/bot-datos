@@ -168,14 +168,6 @@
     "estado": "\u274c SL (-0.90%)"
   },
   {
-    "par": "FFUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0824,
-    "sl": 0.0829,
-    "tp": 0.0818,
-    "estado": "\u274c SL (-0.62%)"
-  },
-  {
     "par": "VELODROMEUSDT",
     "tipo": "SHORT",
     "entrada": 0.023,
@@ -381,6 +373,14 @@
     "entrada": 0.0022,
     "sl": 0.0022,
     "tp": 0.0022,
+    "estado": "Abierto"
+  },
+  {
+    "par": "FFUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0967,
+    "sl": 0.0992,
+    "tp": 0.0929,
     "estado": "Abierto"
   }
 ]
