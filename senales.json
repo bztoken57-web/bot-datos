@@ -502,5 +502,13 @@
     "sl": 0.0147,
     "tp": 0.0146,
     "estado": "\u274c SL (-0.30%)"
+  },
+  {
+    "par": "RIVERUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.339,
+    "sl": 1.345,
+    "tp": 1.3335,
+    "estado": "Abierto"
   }
 ]
