@@ -174,5 +174,13 @@
     "sl": 0.1105,
     "tp": 0.1019,
     "estado": "Abierto"
+  },
+  {
+    "par": "ARUSDT",
+    "tipo": "SHORT",
+    "entrada": 2.191,
+    "sl": 2.211,
+    "tp": 2.1711,
+    "estado": "Abierto"
   }
 ]
