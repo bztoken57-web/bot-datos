@@ -390,5 +390,13 @@
     "sl": 0.0022,
     "tp": 0.0022,
     "estado": "Abierto"
+  },
+  {
+    "par": "WUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0096,
+    "sl": 0.0097,
+    "tp": 0.0096,
+    "estado": "Abierto"
   }
 ]
