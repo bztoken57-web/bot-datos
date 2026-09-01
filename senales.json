@@ -406,5 +406,13 @@
     "sl": 0.4829,
     "tp": 0.4696,
     "estado": "Abierto"
+  },
+  {
+    "par": "NAORISUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0248,
+    "sl": 0.0252,
+    "tp": 0.0246,
+    "estado": "Abierto"
   }
 ]
