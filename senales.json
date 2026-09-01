@@ -366,5 +366,13 @@
     "sl": 0.0285,
     "tp": 0.0281,
     "estado": "\u2705 TP (+0.76%)"
+  },
+  {
+    "par": "MUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.0735,
+    "sl": 1.0785,
+    "tp": 1.0671,
+    "estado": "Abierto"
   }
 ]
