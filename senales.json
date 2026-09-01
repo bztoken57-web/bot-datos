@@ -454,5 +454,13 @@
     "sl": 0.6032,
     "tp": 0.564,
     "estado": "Abierto"
+  },
+  {
+    "par": "ACEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2072,
+    "sl": 0.2087,
+    "tp": 0.2049,
+    "estado": "Abierto"
   }
 ]
