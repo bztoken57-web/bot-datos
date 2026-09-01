@@ -54,5 +54,13 @@
     "sl": 0.5376,
     "tp": 0.5272,
     "estado": "\u274c SL (-0.89%)"
+  },
+  {
+    "par": "BTRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1665,
+    "sl": 0.1702,
+    "tp": 0.161,
+    "estado": "Abierto"
   }
 ]
