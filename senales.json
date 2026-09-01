@@ -478,5 +478,13 @@
     "sl": 0.1084,
     "tp": 0.1071,
     "estado": "\u274c SL (-0.61%)"
+  },
+  {
+    "par": "TAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0643,
+    "sl": 0.0647,
+    "tp": 0.064,
+    "estado": "Abierto"
   }
 ]
