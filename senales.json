@@ -150,5 +150,13 @@
     "sl": 0.5526,
     "tp": 0.5353,
     "estado": "\u2705 TP (+1.93%)"
+  },
+  {
+    "par": "ENSUSDT",
+    "tipo": "SHORT",
+    "entrada": 6.306,
+    "sl": 6.3401,
+    "tp": 6.2548,
+    "estado": "Abierto"
   }
 ]
