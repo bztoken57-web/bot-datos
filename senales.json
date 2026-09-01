@@ -296,14 +296,6 @@
     "estado": "\u274c SL (-1.54%)"
   },
   {
-    "par": "SUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0283,
-    "sl": 0.0285,
-    "tp": 0.0281,
-    "estado": "\u2705 TP (+0.76%)"
-  },
-  {
     "par": "MUSDT",
     "tipo": "SHORT",
     "entrada": 1.0735,
@@ -454,5 +446,13 @@
     "sl": 0.5353,
     "tp": 0.5191,
     "estado": "\u274c SL (-1.46%)"
+  },
+  {
+    "par": "SUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0276,
+    "sl": 0.0278,
+    "tp": 0.0274,
+    "estado": "Abierto"
   }
 ]
