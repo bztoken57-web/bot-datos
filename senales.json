@@ -302,5 +302,13 @@
     "sl": 0.154,
     "tp": 0.1522,
     "estado": "Abierto"
+  },
+  {
+    "par": "USELESSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0949,
+    "sl": 0.0957,
+    "tp": 0.0937,
+    "estado": "Abierto"
   }
 ]
