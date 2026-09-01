@@ -62,5 +62,13 @@
     "sl": 0.1702,
     "tp": 0.161,
     "estado": "\u274c SL (-2.15%)"
+  },
+  {
+    "par": "SOMIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1214,
+    "sl": 0.1246,
+    "tp": 0.1197,
+    "estado": "Abierto"
   }
 ]
