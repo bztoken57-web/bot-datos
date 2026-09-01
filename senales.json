@@ -246,5 +246,13 @@
     "sl": 0.0239,
     "tp": 0.0247,
     "estado": "Abierto"
+  },
+  {
+    "par": "1MBABYDOGEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0004,
+    "sl": 0.0004,
+    "tp": 0.0004,
+    "estado": "Abierto"
   }
 ]
