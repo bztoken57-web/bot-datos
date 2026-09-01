@@ -358,5 +358,13 @@
     "sl": 0.0172,
     "tp": 0.0167,
     "estado": "\u274c SL (-1.54%)"
+  },
+  {
+    "par": "SUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0283,
+    "sl": 0.0285,
+    "tp": 0.0281,
+    "estado": "Abierto"
   }
 ]
