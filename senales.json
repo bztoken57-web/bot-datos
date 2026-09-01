@@ -296,14 +296,6 @@
     "estado": "\u274c SL (-1.30%)"
   },
   {
-    "par": "MARSCOINUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0862,
-    "sl": 0.088,
-    "tp": 0.0837,
-    "estado": "\u2705 TP (+3.00%)"
-  },
-  {
     "par": "PLAYUSDT",
     "tipo": "SHORT",
     "entrada": 0.0378,
@@ -414,5 +406,13 @@
     "sl": 0.1029,
     "tp": 0.101,
     "estado": "\u274c SL (-0.81%)"
+  },
+  {
+    "par": "MARSCOINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0646,
+    "sl": 0.0657,
+    "tp": 0.0633,
+    "estado": "Abierto"
   }
 ]
