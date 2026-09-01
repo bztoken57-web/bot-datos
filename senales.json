@@ -304,14 +304,6 @@
     "estado": "\u2705 TP (+3.00%)"
   },
   {
-    "par": "USELESSUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.1031,
-    "sl": 0.1048,
-    "tp": 0.1006,
-    "estado": "\u2705 TP (+2.53%)"
-  },
-  {
     "par": "PLAYUSDT",
     "tipo": "SHORT",
     "entrada": 0.0378,
@@ -413,6 +405,14 @@
     "entrada": 0.0248,
     "sl": 0.0252,
     "tp": 0.0246,
+    "estado": "Abierto"
+  },
+  {
+    "par": "USELESSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1021,
+    "sl": 0.1029,
+    "tp": 0.101,
     "estado": "Abierto"
   }
 ]
