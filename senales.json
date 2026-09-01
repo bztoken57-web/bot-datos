@@ -510,5 +510,13 @@
     "sl": 0.2154,
     "tp": 0.2117,
     "estado": "\u2705 TP (+0.97%)"
+  },
+  {
+    "par": "SPORTFUNUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0208,
+    "sl": 0.0209,
+    "tp": 0.0207,
+    "estado": "Abierto"
   }
 ]
