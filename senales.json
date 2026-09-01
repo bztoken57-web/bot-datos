@@ -422,5 +422,13 @@
     "sl": 0.1099,
     "tp": 0.1066,
     "estado": "\u2705 TP (+1.38%)"
+  },
+  {
+    "par": "TLMUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0014,
+    "sl": 0.0014,
+    "tp": 0.0014,
+    "estado": "Abierto"
   }
 ]
