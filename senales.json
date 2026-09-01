@@ -38,5 +38,13 @@
     "sl": 0.0099,
     "tp": 0.0097,
     "estado": "Abierto"
+  },
+  {
+    "par": "TWTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5309,
+    "sl": 0.5343,
+    "tp": 0.5258,
+    "estado": "Abierto"
   }
 ]
