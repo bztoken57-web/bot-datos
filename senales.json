@@ -190,5 +190,13 @@
     "sl": 0.0829,
     "tp": 0.0818,
     "estado": "\u274c SL (-0.62%)"
+  },
+  {
+    "par": "UAIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.3946,
+    "sl": 0.4042,
+    "tp": 0.3894,
+    "estado": "Abierto"
   }
 ]
