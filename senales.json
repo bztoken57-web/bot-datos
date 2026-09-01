@@ -310,5 +310,13 @@
     "sl": 0.0957,
     "tp": 0.0937,
     "estado": "\u274c SL (-0.82%)"
+  },
+  {
+    "par": "SUPERUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1095,
+    "sl": 0.1104,
+    "tp": 0.109,
+    "estado": "Abierto"
   }
 ]
