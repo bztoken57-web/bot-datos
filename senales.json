@@ -360,14 +360,6 @@
     "estado": "\u274c SL (-0.81%)"
   },
   {
-    "par": "UAIUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.4776,
-    "sl": 0.4829,
-    "tp": 0.4696,
-    "estado": "\u274c SL (-1.10%)"
-  },
-  {
     "par": "NAORISUSDT",
     "tipo": "SHORT",
     "entrada": 0.0248,
@@ -454,5 +446,13 @@
     "sl": 0.0014,
     "tp": 0.0014,
     "estado": "\u2705 TP (+0.55%)"
+  },
+  {
+    "par": "UAIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5275,
+    "sl": 0.5353,
+    "tp": 0.5191,
+    "estado": "Abierto"
   }
 ]
