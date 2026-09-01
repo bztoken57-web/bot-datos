@@ -126,5 +126,13 @@
     "sl": 0.3561,
     "tp": 0.3463,
     "estado": "Abierto"
+  },
+  {
+    "par": "TAGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0007,
+    "sl": 0.0007,
+    "tp": 0.0007,
+    "estado": "Abierto"
   }
 ]
