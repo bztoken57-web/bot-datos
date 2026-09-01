@@ -22,5 +22,13 @@
     "sl": 95,
     "tp": 110,
     "estado": "Abierto"
+  },
+  {
+    "par": "TESTSHORT",
+    "tipo": "SHORT",
+    "entrada": 200,
+    "sl": 210,
+    "tp": 180,
+    "estado": "Abierto"
   }
 ]
