@@ -160,14 +160,6 @@
     "estado": "\u2705 TP (+0.40%)"
   },
   {
-    "par": "ONGUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.1054,
-    "sl": 0.1105,
-    "tp": 0.1019,
-    "estado": "\u2705 TP (+3.43%)"
-  },
-  {
     "par": "ARUSDT",
     "tipo": "SHORT",
     "entrada": 2.191,
@@ -318,5 +310,13 @@
     "sl": 0.1104,
     "tp": 0.109,
     "estado": "\u2705 TP (+0.46%)"
+  },
+  {
+    "par": "ONGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1143,
+    "sl": 0.116,
+    "tp": 0.1119,
+    "estado": "Abierto"
   }
 ]
