@@ -230,5 +230,13 @@
     "sl": 0.0006,
     "tp": 0.0006,
     "estado": "\u274c SL (-0.60%)"
+  },
+  {
+    "par": "CKBUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0011,
+    "sl": 0.0011,
+    "tp": 0.001,
+    "estado": "Abierto"
   }
 ]
