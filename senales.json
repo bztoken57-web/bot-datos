@@ -134,5 +134,13 @@
     "sl": 0.0007,
     "tp": 0.0007,
     "estado": "Abierto"
+  },
+  {
+    "par": "HEMIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0157,
+    "sl": 0.0159,
+    "tp": 0.0154,
+    "estado": "Abierto"
   }
 ]
