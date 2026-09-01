@@ -270,5 +270,13 @@
     "sl": 0.0111,
     "tp": 0.011,
     "estado": "Abierto"
+  },
+  {
+    "par": "ANKRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0039,
+    "sl": 0.004,
+    "tp": 0.0039,
+    "estado": "Abierto"
   }
 ]
