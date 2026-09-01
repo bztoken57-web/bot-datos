@@ -368,14 +368,6 @@
     "estado": "\u274c SL (-0.46%)"
   },
   {
-    "par": "TACUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0022,
-    "sl": 0.0022,
-    "tp": 0.0022,
-    "estado": "\u274c SL (-0.86%)"
-  },
-  {
     "par": "FFUSDT",
     "tipo": "SHORT",
     "entrada": 0.0967,
@@ -389,6 +381,14 @@
     "entrada": 0.399,
     "sl": 0.4022,
     "tp": 0.3959,
+    "estado": "Abierto"
+  },
+  {
+    "par": "TACUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0022,
+    "sl": 0.0022,
+    "tp": 0.0022,
     "estado": "Abierto"
   }
 ]
