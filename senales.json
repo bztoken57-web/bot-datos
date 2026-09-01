@@ -110,5 +110,13 @@
     "sl": 0.5932,
     "tp": 0.5777,
     "estado": "\u2705 TP (+0.99%)"
+  },
+  {
+    "par": "STARUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1339,
+    "sl": 0.1362,
+    "tp": 0.1309,
+    "estado": "Abierto"
   }
 ]
