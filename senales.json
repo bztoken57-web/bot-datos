@@ -214,5 +214,13 @@
     "sl": 0.4367,
     "tp": 0.4197,
     "estado": "Abierto"
+  },
+  {
+    "par": "ACHUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0048,
+    "sl": 0.0049,
+    "tp": 0.0048,
+    "estado": "Abierto"
   }
 ]
