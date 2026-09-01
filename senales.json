@@ -94,5 +94,13 @@
     "sl": 0.2455,
     "tp": 0.2396,
     "estado": "\u274c SL (-1.14%)"
+  },
+  {
+    "par": "SKRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0287,
+    "sl": 0.0289,
+    "tp": 0.0283,
+    "estado": "Abierto"
   }
 ]
