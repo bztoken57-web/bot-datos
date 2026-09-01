@@ -254,5 +254,13 @@
     "sl": 0.0004,
     "tp": 0.0004,
     "estado": "Abierto"
+  },
+  {
+    "par": "PIPPINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0178,
+    "sl": 0.018,
+    "tp": 0.0177,
+    "estado": "Abierto"
   }
 ]
