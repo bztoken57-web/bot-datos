@@ -166,5 +166,13 @@
     "sl": 0.2426,
     "tp": 0.2387,
     "estado": "\u274c SL (-0.70%)"
+  },
+  {
+    "par": "CVCUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0204,
+    "sl": 0.0205,
+    "tp": 0.0203,
+    "estado": "Abierto"
   }
 ]
