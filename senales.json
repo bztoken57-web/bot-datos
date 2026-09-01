@@ -494,5 +494,13 @@
     "sl": 0.0018,
     "tp": 0.0018,
     "estado": "Abierto"
+  },
+  {
+    "par": "AGTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0147,
+    "sl": 0.0147,
+    "tp": 0.0146,
+    "estado": "Abierto"
   }
 ]
