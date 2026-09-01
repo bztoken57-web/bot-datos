@@ -158,5 +158,13 @@
     "sl": 6.3401,
     "tp": 6.2548,
     "estado": "\u2705 TP (+0.82%)"
+  },
+  {
+    "par": "ONGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0999,
+    "sl": 0.1011,
+    "tp": 0.0982,
+    "estado": "Abierto"
   }
 ]
