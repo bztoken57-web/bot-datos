@@ -278,5 +278,13 @@
     "sl": 0.004,
     "tp": 0.0039,
     "estado": "\u2705 TP (+0.40%)"
+  },
+  {
+    "par": "CTRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0097,
+    "sl": 0.0098,
+    "tp": 0.0097,
+    "estado": "Abierto"
   }
 ]
