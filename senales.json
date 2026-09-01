@@ -318,5 +318,13 @@
     "sl": 0.116,
     "tp": 0.1119,
     "estado": "\u274c SL (-1.39%)"
+  },
+  {
+    "par": "\u725b\u6765USDT",
+    "tipo": "SHORT",
+    "entrada": 0.0928,
+    "sl": 0.0941,
+    "tp": 0.0914,
+    "estado": "Abierto"
   }
 ]
