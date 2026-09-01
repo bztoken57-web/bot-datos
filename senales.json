@@ -438,5 +438,13 @@
     "sl": 0.456,
     "tp": 0.4428,
     "estado": "Abierto"
+  },
+  {
+    "par": "COLLECTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0831,
+    "sl": 0.0837,
+    "tp": 0.0825,
+    "estado": "Abierto"
   }
 ]
