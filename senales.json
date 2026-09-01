@@ -294,5 +294,13 @@
     "sl": 2.415,
     "tp": 2.3882,
     "estado": "Abierto"
+  },
+  {
+    "par": "PRLUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.153,
+    "sl": 0.154,
+    "tp": 0.1522,
+    "estado": "Abierto"
   }
 ]
