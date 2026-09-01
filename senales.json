@@ -86,5 +86,13 @@
     "sl": 0.015,
     "tp": 0.0148,
     "estado": "\u274c SL (-0.60%)"
+  },
+  {
+    "par": "0GUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2427,
+    "sl": 0.2455,
+    "tp": 0.2396,
+    "estado": "Abierto"
   }
 ]
