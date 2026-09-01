@@ -64,14 +64,6 @@
     "estado": "\u274c SL (-2.15%)"
   },
   {
-    "par": "SOMIUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.1214,
-    "sl": 0.1246,
-    "tp": 0.1197,
-    "estado": "\u274c SL (-2.57%)"
-  },
-  {
     "par": "NOTUSDT",
     "tipo": "SHORT",
     "entrada": 0.0005,
@@ -165,6 +157,14 @@
     "entrada": 0.2387,
     "sl": 0.2409,
     "tp": 0.2366,
+    "estado": "Abierto"
+  },
+  {
+    "par": "SOMIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1263,
+    "sl": 0.1279,
+    "tp": 0.1252,
     "estado": "Abierto"
   }
 ]
