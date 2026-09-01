@@ -400,14 +400,6 @@
     "estado": "\u2705 TP (+1.38%)"
   },
   {
-    "par": "TLMUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0014,
-    "sl": 0.0014,
-    "tp": 0.0014,
-    "estado": "\u2705 TP (+0.52%)"
-  },
-  {
     "par": "\u725b\u6765USDT",
     "tipo": "SHORT",
     "entrada": 0.0789,
@@ -454,5 +446,13 @@
     "sl": 0.4437,
     "tp": 0.4322,
     "estado": "\u2705 TP (+1.60%)"
+  },
+  {
+    "par": "TLMUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0014,
+    "sl": 0.0014,
+    "tp": 0.0014,
+    "estado": "Abierto"
   }
 ]
