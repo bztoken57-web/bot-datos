@@ -198,5 +198,13 @@
     "sl": 0.4042,
     "tp": 0.3894,
     "estado": "\u274c SL (-2.38%)"
+  },
+  {
+    "par": "VELODROMEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.023,
+    "sl": 0.0231,
+    "tp": 0.0229,
+    "estado": "Abierto"
   }
 ]
