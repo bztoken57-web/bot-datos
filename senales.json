@@ -414,5 +414,13 @@
     "sl": 0.0657,
     "tp": 0.0633,
     "estado": "\u274c SL (-1.79%)"
+  },
+  {
+    "par": "STBLUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0249,
+    "sl": 0.0251,
+    "tp": 0.0248,
+    "estado": "Abierto"
   }
 ]
