@@ -78,5 +78,13 @@
     "sl": 0.0005,
     "tp": 0.0005,
     "estado": "\u274c SL (-0.63%)"
+  },
+  {
+    "par": "PLUMEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0149,
+    "sl": 0.015,
+    "tp": 0.0148,
+    "estado": "Abierto"
   }
 ]
