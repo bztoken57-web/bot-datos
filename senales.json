@@ -462,5 +462,13 @@
     "sl": 0.2087,
     "tp": 0.2049,
     "estado": "\u2705 TP (+1.11%)"
+  },
+  {
+    "par": "UNIUSDT",
+    "tipo": "SHORT",
+    "entrada": 5.748,
+    "sl": 5.769,
+    "tp": 5.7207,
+    "estado": "Abierto"
   }
 ]
