@@ -1,0 +1,18 @@
+[
+  {
+    "par": "BTCUSDT",
+    "tipo": "LONG",
+    "entrada": 65000,
+    "sl": 64000,
+    "tp": 67000,
+    "estado": "Abierto"
+  },
+  {
+    "par": "ETHUSDT",
+    "tipo": "SHORT",
+    "entrada": 3200,
+    "sl": 3260,
+    "tp": 3050,
+    "estado": "Abierto"
+  }
+]
