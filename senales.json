@@ -382,5 +382,13 @@
     "sl": 0.0992,
     "tp": 0.0929,
     "estado": "\u2705 TP (+4.09%)"
+  },
+  {
+    "par": "BTWUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.399,
+    "sl": 0.4022,
+    "tp": 0.3959,
+    "estado": "Abierto"
   }
 ]
