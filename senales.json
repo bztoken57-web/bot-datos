@@ -342,5 +342,13 @@
     "sl": 0.0386,
     "tp": 0.0375,
     "estado": "Abierto"
+  },
+  {
+    "par": "GWEIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0256,
+    "sl": 0.0258,
+    "tp": 0.0253,
+    "estado": "Abierto"
   }
 ]
