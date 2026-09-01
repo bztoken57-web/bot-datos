@@ -398,5 +398,13 @@
     "sl": 0.0097,
     "tp": 0.0096,
     "estado": "\u274c SL (-0.71%)"
+  },
+  {
+    "par": "PTBUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0007,
+    "sl": 0.0007,
+    "tp": 0.0007,
+    "estado": "Abierto"
   }
 ]
