@@ -206,5 +206,13 @@
     "sl": 0.0231,
     "tp": 0.0229,
     "estado": "\u2705 TP (+0.32%)"
+  },
+  {
+    "par": "BABYUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.012,
+    "sl": 0.0122,
+    "tp": 0.0119,
+    "estado": "Abierto"
   }
 ]
