@@ -142,5 +142,13 @@
     "sl": 0.0159,
     "tp": 0.0154,
     "estado": "Abierto"
+  },
+  {
+    "par": "CYSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5457,
+    "sl": 0.5526,
+    "tp": 0.5353,
+    "estado": "Abierto"
   }
 ]
