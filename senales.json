@@ -238,5 +238,13 @@
     "sl": 0.0011,
     "tp": 0.001,
     "estado": "Abierto"
+  },
+  {
+    "par": "WALUSDT",
+    "tipo": "LONG",
+    "entrada": 0.0242,
+    "sl": 0.0239,
+    "tp": 0.0247,
+    "estado": "Abierto"
   }
 ]
