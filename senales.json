@@ -446,5 +446,13 @@
     "sl": 0.0837,
     "tp": 0.0825,
     "estado": "\u274c SL (-0.71%)"
+  },
+  {
+    "par": "BEATUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1333,
+    "sl": 0.1341,
+    "tp": 0.1323,
+    "estado": "Abierto"
   }
 ]
