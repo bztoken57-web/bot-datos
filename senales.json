@@ -326,5 +326,13 @@
     "sl": 0.0941,
     "tp": 0.0914,
     "estado": "Abierto"
+  },
+  {
+    "par": "MARSCOINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0862,
+    "sl": 0.088,
+    "tp": 0.0837,
+    "estado": "Abierto"
   }
 ]
