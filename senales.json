@@ -202,5 +202,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ACHUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.004966,
+    "sl": 0.00506,
+    "tp": 0.004928,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
