@@ -376,14 +376,6 @@
     "estado": "\u274c SL (-1.41%)"
   },
   {
-    "par": "ZORAUSDT",
-    "tipo": "SHORT",
-    "entrada": 0.0079,
-    "sl": 0.008,
-    "tp": 0.0079,
-    "estado": "\u274c SL (-0.48%)"
-  },
-  {
     "par": "CYSUSDT",
     "tipo": "SHORT",
     "entrada": 0.4496,
@@ -518,5 +510,13 @@
     "sl": 0.0253,
     "tp": 0.0251,
     "estado": "\u2705 TP (+0.32%)"
+  },
+  {
+    "par": "ZORAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0077,
+    "sl": 0.0078,
+    "tp": 0.0077,
+    "estado": "Abierto"
   }
 ]
