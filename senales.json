@@ -18,5 +18,15 @@
     "estado": "Abierto",
     "resultado": null,
     "return_pct": null
+  },
+  {
+    "par": "MUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.0544,
+    "sl": 1.0599,
+    "tp": 1.049596,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null
   }
 ]
