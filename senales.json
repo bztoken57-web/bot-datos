@@ -25,9 +25,9 @@
     "entrada": 1.0544,
     "sl": 1.0599,
     "tp": 1.049596,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.52
   },
   {
     "par": "\u9f99\u867eUSDT",
