@@ -197,11 +197,11 @@
     "entrada": 0.004191,
     "sl": 0.004217,
     "tp": 0.004178,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.62,
+    "salida": 0.004217,
+    "duracion": "10m"
   },
   {
     "par": "WIFUSDT",
