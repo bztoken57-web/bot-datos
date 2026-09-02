@@ -38,5 +38,15 @@
     "estado": "Cerrado",
     "resultado": "TP",
     "return_pct": 1.0
+  },
+  {
+    "par": "CHRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01463,
+    "sl": 0.01475,
+    "tp": 0.014567,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null
   }
 ]
