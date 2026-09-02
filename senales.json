@@ -209,10 +209,10 @@
     "entrada": 0.1989,
     "sl": 0.2,
     "tp": 0.19748,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.55,
+    "salida": 0.2,
+    "duracion": "9m"
   }
 ]
