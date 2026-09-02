@@ -80,5 +80,17 @@
     "return_pct": 2.47,
     "salida": 0.072579,
     "duracion": "0m"
+  },
+  {
+    "par": "MUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.0544,
+    "sl": 1.0599,
+    "tp": 1.049596,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
