@@ -173,11 +173,11 @@
     "entrada": 835.41,
     "sl": 839.09,
     "tp": 832.944364,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.44,
+    "salida": 839.09,
+    "duracion": "22m"
   },
   {
     "par": "MUBARAKUSDT",
