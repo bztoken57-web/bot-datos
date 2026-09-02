@@ -1014,5 +1014,21 @@
     "return_pct": -1.93,
     "salida": 0.061,
     "duracion": "7m"
+  },
+  {
+    "par": "BASEDUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0686,
+    "sl": 0.06893,
+    "sl_pct": 0.48,
+    "tp": 0.06825,
+    "tp_pct": -0.51,
+    "impulso": 0.76,
+    "rsi": 81.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
