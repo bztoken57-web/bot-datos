@@ -334,5 +334,17 @@
     "return_pct": 1.14,
     "salida": 0.014671,
     "duracion": "0m"
+  },
+  {
+    "par": "XPINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.001036,
+    "sl": 0.001043,
+    "tp": 0.00103,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
