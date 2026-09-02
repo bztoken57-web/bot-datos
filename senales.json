@@ -190,5 +190,17 @@
     "return_pct": 1.97,
     "salida": 0.556903,
     "duracion": "1m"
+  },
+  {
+    "par": "ZKCUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.04935,
+    "sl": 0.049594,
+    "tp": 0.048983,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
