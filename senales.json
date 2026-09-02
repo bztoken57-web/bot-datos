@@ -625,11 +625,11 @@
     "tp_pct": -0.86,
     "impulso": 0.55,
     "rsi": 87.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.57,
+    "salida": 0.114041,
+    "duracion": "18m"
   },
   {
     "par": "BROCCOLI714USDT",
