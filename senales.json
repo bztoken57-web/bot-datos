@@ -1345,11 +1345,11 @@
     "tp_pct": -10.25,
     "impulso": 20.46,
     "rsi": 92.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -14.03,
+    "salida": 0.030677,
+    "duracion": "1m"
   },
   {
     "par": "BULLAUSDT",
