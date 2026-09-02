@@ -286,5 +286,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "UNIUSDT",
+    "tipo": "SHORT",
+    "entrada": 6.273,
+    "sl": 6.358,
+    "tp": 6.211237,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
