@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "par": "TRADOORUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5862,
+    "sl": 0.5891,
+    "tp": 0.583797,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
+  }
+]
