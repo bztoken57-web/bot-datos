@@ -1073,11 +1073,11 @@
     "tp_pct": -3.49,
     "impulso": 2.27,
     "rsi": 80.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.27,
+    "salida": 0.018344,
+    "duracion": "11m"
   },
   {
     "par": "XVGUSDT",
