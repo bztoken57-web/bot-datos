@@ -833,11 +833,11 @@
     "tp_pct": -0.74,
     "impulso": 1.0,
     "rsi": 78.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.74,
+    "salida": 0.107322,
+    "duracion": "1h 13m"
   },
   {
     "par": "LAUSDT",
