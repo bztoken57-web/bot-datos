@@ -341,11 +341,11 @@
     "entrada": 0.001036,
     "sl": 0.001043,
     "tp": 0.00103,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.67,
+    "salida": 0.001043,
+    "duracion": "19m"
   },
   {
     "par": "TUSDT",
