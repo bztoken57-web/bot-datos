@@ -526,5 +526,13 @@
     "sl": 0.004,
     "tp": 0.004,
     "estado": "Abierto"
+  },
+  {
+    "par": "TUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0037,
+    "sl": 0.0037,
+    "tp": 0.0037,
+    "estado": "Abierto"
   }
 ]
