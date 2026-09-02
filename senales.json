@@ -1238,5 +1238,21 @@
     "return_pct": 1.19,
     "salida": 0.006494,
     "duracion": "1m"
+  },
+  {
+    "par": "JELLYJELLYUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05748,
+    "sl": 0.05788,
+    "sl_pct": 0.7,
+    "tp": 0.05725,
+    "tp_pct": -0.4,
+    "impulso": 0.68,
+    "rsi": 76.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
