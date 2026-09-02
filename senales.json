@@ -694,5 +694,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "XPINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.001053,
+    "sl": 0.001066,
+    "sl_pct": 1.23,
+    "tp": 0.001045,
+    "tp_pct": -0.78,
+    "impulso": 0.86,
+    "rsi": 81.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
