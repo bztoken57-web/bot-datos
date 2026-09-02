@@ -262,5 +262,17 @@
     "return_pct": -0.78,
     "salida": 4.767,
     "duracion": "3m"
+  },
+  {
+    "par": "CELOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.07743,
+    "sl": 0.07781,
+    "tp": 0.07696,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
