@@ -298,5 +298,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "FFUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.10828,
+    "sl": 0.109044,
+    "tp": 0.107134,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
