@@ -518,5 +518,13 @@
     "sl": 0.0078,
     "tp": 0.0077,
     "estado": "\u2705 TP (+0.56%)"
+  },
+  {
+    "par": "TRIAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.004,
+    "sl": 0.004,
+    "tp": 0.004,
+    "estado": "Abierto"
   }
 ]
