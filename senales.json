@@ -742,5 +742,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "BMTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01965,
+    "sl": 0.02003,
+    "sl_pct": 1.93,
+    "tp": 0.019427,
+    "tp_pct": -1.13,
+    "impulso": 0.6,
+    "rsi": 77.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
