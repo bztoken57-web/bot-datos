@@ -518,5 +518,21 @@
     "return_pct": -1.16,
     "salida": 0.022429,
     "duracion": "15m"
+  },
+  {
+    "par": "RUNEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.4748,
+    "sl": 0.4784,
+    "sl_pct": 0.76,
+    "tp": 0.472619,
+    "tp_pct": -0.46,
+    "impulso": 0.74,
+    "rsi": 92.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
