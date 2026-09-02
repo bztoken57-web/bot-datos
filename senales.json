@@ -34,5 +34,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "OUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5476,
+    "sl": 0.559,
+    "tp": 0.542322,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
