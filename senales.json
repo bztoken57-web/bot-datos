@@ -8,5 +8,15 @@
     "estado": "Cerrado",
     "resultado": "TP",
     "return_pct": 2.47
+  },
+  {
+    "par": "CYSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.4134,
+    "sl": 0.4284,
+    "tp": 0.403339,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null
   }
 ]
