@@ -55,9 +55,11 @@
     "entrada": 0.007264,
     "sl": 0.00733,
     "tp": 0.007194,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.9,
+    "salida": 0.00733,
+    "duracion": "21m"
   },
   {
     "par": "BTRUSDT",
