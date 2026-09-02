@@ -1206,5 +1206,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "OUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5575,
+    "sl": 0.5642,
+    "sl_pct": 1.2,
+    "tp": 0.550201,
+    "tp_pct": -1.31,
+    "impulso": 2.05,
+    "rsi": 76.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
