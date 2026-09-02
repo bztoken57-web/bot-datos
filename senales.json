@@ -1217,10 +1217,10 @@
     "tp_pct": -1.31,
     "impulso": 2.05,
     "rsi": 76.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.33,
+    "salida": 0.550201,
+    "duracion": "2m"
   }
 ]
