@@ -454,5 +454,17 @@
     "return_pct": -0.83,
     "salida": 0.102092,
     "duracion": "1m"
+  },
+  {
+    "par": "LITUSDT",
+    "tipo": "SHORT",
+    "entrada": 3.6141,
+    "sl": 3.6563,
+    "tp": 3.590337,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
