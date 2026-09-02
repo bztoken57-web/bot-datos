@@ -281,11 +281,11 @@
     "entrada": 0.260051,
     "sl": 0.255991,
     "tp": 0.26614,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.34,
+    "salida": 0.26614,
+    "duracion": "14m"
   },
   {
     "par": "ARCUSDT",
