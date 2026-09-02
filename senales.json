@@ -286,5 +286,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ARCUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06649,
+    "sl": 0.06735,
+    "tp": 0.066071,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
