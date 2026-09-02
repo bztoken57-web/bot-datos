@@ -726,5 +726,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "XVGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.002641,
+    "sl": 0.002665,
+    "sl_pct": 0.91,
+    "tp": 0.002623,
+    "tp_pct": -0.69,
+    "impulso": 0.64,
+    "rsi": 76.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
