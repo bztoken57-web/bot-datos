@@ -233,11 +233,11 @@
     "entrada": 0.541,
     "sl": 0.5456,
     "tp": 0.538357,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.49,
+    "salida": 0.538357,
+    "duracion": "10m"
   },
   {
     "par": "牛来USDT",
