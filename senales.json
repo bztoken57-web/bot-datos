@@ -58,5 +58,17 @@
     "return_pct": 2.12,
     "salida": 0.018753,
     "duracion": "0m"
+  },
+  {
+    "par": "ICNTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.114,
+    "sl": 0.1154,
+    "tp": 0.112098,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
