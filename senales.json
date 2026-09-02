@@ -646,5 +646,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ASTERUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.7288,
+    "sl": 0.7348,
+    "sl_pct": 0.82,
+    "tp": 0.723427,
+    "tp_pct": -0.74,
+    "impulso": 0.55,
+    "rsi": 76.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
