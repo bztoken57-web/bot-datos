@@ -1542,5 +1542,21 @@
     "return_pct": -2.04,
     "salida": 0.021811,
     "duracion": "1m"
+  },
+  {
+    "par": "AIAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.07754,
+    "sl": 0.07929,
+    "sl_pct": 2.26,
+    "tp": 0.076693,
+    "tp_pct": -1.09,
+    "impulso": 1.09,
+    "rsi": 88.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
