@@ -317,11 +317,11 @@
     "entrada": 0.0638,
     "sl": 0.06448,
     "tp": 0.063148,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.05,
+    "salida": 0.06448,
+    "duracion": "8m"
   },
   {
     "par": "HEMIUSDT",
