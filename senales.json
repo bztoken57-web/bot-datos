@@ -226,5 +226,17 @@
     "return_pct": -1.31,
     "salida": 0.077215,
     "duracion": "1m"
+  },
+  {
+    "par": "TWTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.541,
+    "sl": 0.5456,
+    "tp": 0.538357,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
