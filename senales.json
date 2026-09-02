@@ -1377,11 +1377,11 @@
     "tp_pct": -0.75,
     "impulso": 0.58,
     "rsi": 79.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.76,
+    "salida": 0.062545,
+    "duracion": "28m"
   },
   {
     "par": "AKEUSDT",
