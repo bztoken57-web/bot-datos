@@ -5,11 +5,11 @@
     "entrada": 0.5862,
     "sl": 0.5891,
     "tp": 0.583797,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.41,
+    "salida": 0.583797,
+    "duracion": "57m"
   },
   {
     "par": "ETHFIUSDT",
