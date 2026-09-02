@@ -1302,5 +1302,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "BULLAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.026651,
+    "sl": 0.027263,
+    "sl_pct": 2.3,
+    "tp": 0.026176,
+    "tp_pct": -1.78,
+    "impulso": 0.73,
+    "rsi": 76.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
