@@ -870,5 +870,21 @@
     "return_pct": -1.14,
     "salida": 0.024166,
     "duracion": "2m"
+  },
+  {
+    "par": "SKYAIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05701,
+    "sl": 0.05751,
+    "sl_pct": 0.88,
+    "tp": 0.056443,
+    "tp_pct": -0.99,
+    "impulso": 0.85,
+    "rsi": 89.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
