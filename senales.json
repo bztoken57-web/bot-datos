@@ -118,5 +118,17 @@
     "return_pct": -0.8,
     "salida": 0.154924,
     "duracion": "8m"
+  },
+  {
+    "par": "BTWUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.44421,
+    "sl": 0.46204,
+    "tp": 0.434131,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
