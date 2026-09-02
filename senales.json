@@ -370,5 +370,17 @@
     "return_pct": -0.71,
     "salida": 0.065311,
     "duracion": "1m"
+  },
+  {
+    "par": "TUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.004958,
+    "sl": 0.005067,
+    "tp": 0.004824,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
