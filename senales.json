@@ -461,11 +461,11 @@
     "entrada": 3.6141,
     "sl": 3.6563,
     "tp": 3.590337,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.66,
+    "salida": 3.590337,
+    "duracion": "25m"
   },
   {
     "par": "USELESSUSDT",
