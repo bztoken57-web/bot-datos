@@ -274,5 +274,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "FORMUSDT",
+    "tipo": "LONG",
+    "entrada": 0.260051,
+    "sl": 0.255991,
+    "tp": 0.26614,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
