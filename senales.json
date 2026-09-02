@@ -945,10 +945,10 @@
     "tp_pct": -0.36,
     "impulso": 0.62,
     "rsi": 77.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.36,
+    "salida": 0.016142,
+    "duracion": "19m"
   }
 ]
