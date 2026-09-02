@@ -1249,11 +1249,11 @@
     "tp_pct": -0.4,
     "impulso": 0.68,
     "rsi": 76.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.4,
+    "salida": 0.05725,
+    "duracion": "1h 53m"
   },
   {
     "par": "MARSCOINUSDT",
