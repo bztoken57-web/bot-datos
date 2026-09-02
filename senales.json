@@ -466,5 +466,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "USELESSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.10409,
+    "sl": 0.105374,
+    "tp": 0.102164,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
