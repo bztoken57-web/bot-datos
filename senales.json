@@ -142,5 +142,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ZKPUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.04469,
+    "sl": 0.04504,
+    "tp": 0.044404,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
