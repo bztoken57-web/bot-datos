@@ -317,10 +317,10 @@
     "entrada": 0.48221,
     "sl": 0.486,
     "tp": 0.477219,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.78,
+    "salida": 0.486,
+    "duracion": "0m"
   }
 ]
