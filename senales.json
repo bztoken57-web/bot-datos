@@ -1457,11 +1457,11 @@
     "tp_pct": -2.06,
     "impulso": 2.95,
     "rsi": 86.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -3.44,
+    "salida": 0.0767,
+    "duracion": "23m"
   },
   {
     "par": "PYTHUSDT",
