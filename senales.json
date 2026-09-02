@@ -137,11 +137,11 @@
     "entrada": 0.017027,
     "sl": 0.017118,
     "tp": 0.016891,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.8,
+    "salida": 0.016891,
+    "duracion": "1m"
   },
   {
     "par": "ZKPUSDT",
