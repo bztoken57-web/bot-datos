@@ -101,11 +101,11 @@
     "entrada": 0.019084,
     "sl": 0.019376,
     "tp": 0.018746,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.51,
+    "salida": 0.019376,
+    "duracion": "1h 53m"
   },
   {
     "par": "SONICUSDT",
