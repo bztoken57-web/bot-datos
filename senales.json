@@ -1521,11 +1521,11 @@
     "tp_pct": -1.57,
     "impulso": 0.51,
     "rsi": 78.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.68,
+    "salida": 0.07863,
+    "duracion": "18m"
   },
   {
     "par": "BULLAUSDT",
