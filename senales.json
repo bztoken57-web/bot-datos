@@ -534,5 +534,13 @@
     "sl": 0.5756,
     "tp": 0.5603,
     "estado": "Abierto"
+  },
+  {
+    "par": "PYTHUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0531,
+    "sl": 0.0535,
+    "tp": 0.0526,
+    "estado": "Abierto"
   }
 ]
