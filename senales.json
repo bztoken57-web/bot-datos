@@ -353,11 +353,11 @@
     "entrada": 0.004938,
     "sl": 0.005018,
     "tp": 0.004817,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.6,
+    "salida": 0.005018,
+    "duracion": "6m"
   },
   {
     "par": "LAUSDT",
