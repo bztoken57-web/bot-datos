@@ -673,11 +673,11 @@
     "tp_pct": -1.08,
     "impulso": 0.98,
     "rsi": 76.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.09,
+    "salida": 0.020384,
+    "duracion": "2m"
   },
   {
     "par": "ROBOUSDT",
