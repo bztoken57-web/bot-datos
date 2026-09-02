@@ -377,11 +377,11 @@
     "entrada": 0.004958,
     "sl": 0.005067,
     "tp": 0.004824,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.15,
+    "salida": 0.005067,
+    "duracion": "37m"
   },
   {
     "par": "NAORISUSDT",
