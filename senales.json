@@ -238,5 +238,17 @@
     "return_pct": -0.62,
     "salida": 0.004305,
     "duracion": "7m"
+  },
+  {
+    "par": "ORDERUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.03483,
+    "sl": 0.0351,
+    "tp": 0.034578,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
