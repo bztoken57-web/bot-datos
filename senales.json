@@ -250,5 +250,17 @@
     "return_pct": 0.79,
     "salida": 0.085781,
     "duracion": "3m"
+  },
+  {
+    "par": "HEMIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.013366,
+    "sl": 0.013674,
+    "tp": 0.012904,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
