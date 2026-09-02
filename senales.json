@@ -678,5 +678,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ROBOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01467,
+    "sl": 0.014783,
+    "sl_pct": 0.77,
+    "tp": 0.014501,
+    "tp_pct": -1.15,
+    "impulso": 0.89,
+    "rsi": 80.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
