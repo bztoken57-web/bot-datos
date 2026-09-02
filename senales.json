@@ -10,5 +10,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ETHFIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5773,
+    "sl": 0.5809,
+    "tp": 0.574295,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
