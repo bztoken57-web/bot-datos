@@ -1281,11 +1281,11 @@
     "tp_pct": -0.49,
     "impulso": 0.7,
     "rsi": 85.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.58,
+    "salida": 43.13,
+    "duracion": "2m"
   },
   {
     "par": "RESOLVUSDT",
