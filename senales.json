@@ -310,5 +310,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "MAGMAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.48221,
+    "sl": 0.486,
+    "tp": 0.477219,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
