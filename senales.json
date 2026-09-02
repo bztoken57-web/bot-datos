@@ -529,11 +529,11 @@
     "tp_pct": -0.46,
     "impulso": 0.74,
     "rsi": 92.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.46,
+    "salida": 0.472619,
+    "duracion": "5m"
   },
   {
     "par": "SPXUSDT",
