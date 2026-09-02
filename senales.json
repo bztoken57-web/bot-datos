@@ -1414,5 +1414,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "BRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2372,
+    "sl": 0.239268,
+    "sl_pct": 0.87,
+    "tp": 0.234097,
+    "tp_pct": -1.31,
+    "impulso": 0.69,
+    "rsi": 80.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
