@@ -48,5 +48,15 @@
     "estado": "Cerrado",
     "resultado": "TP",
     "return_pct": 0.43
+  },
+  {
+    "par": "FOGOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.007264,
+    "sl": 0.00733,
+    "tp": 0.007194,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null
   }
 ]
