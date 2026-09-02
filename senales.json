@@ -1430,5 +1430,21 @@
     "return_pct": -0.86,
     "salida": 0.239268,
     "duracion": "0m"
+  },
+  {
+    "par": "ZORAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.007372,
+    "sl": 0.007413,
+    "sl_pct": 0.56,
+    "tp": 0.007334,
+    "tp_pct": -0.52,
+    "impulso": 0.69,
+    "rsi": 75.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
