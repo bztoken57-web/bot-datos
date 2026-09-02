@@ -430,5 +430,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "BEAMXUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.001529,
+    "sl": 0.001541,
+    "tp": 0.001521,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
