@@ -1110,5 +1110,21 @@
     "return_pct": -0.81,
     "salida": 0.005034,
     "duracion": "5m"
+  },
+  {
+    "par": "MAGMAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.55303,
+    "sl": 0.559124,
+    "sl_pct": 1.1,
+    "tp": 0.54389,
+    "tp_pct": -1.65,
+    "impulso": 0.95,
+    "rsi": 79.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
