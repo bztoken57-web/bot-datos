@@ -425,11 +425,11 @@
     "entrada": 0.005477,
     "sl": 0.005569,
     "tp": 0.005339,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.65,
+    "salida": 0.005569,
+    "duracion": "16m"
   },
   {
     "par": "BEAMXUSDT",
