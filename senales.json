@@ -65,8 +65,8 @@
     "entrada": 0.09319,
     "sl": 0.09662,
     "tp": 0.08885,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -3.55
   }
 ]
