@@ -106,5 +106,17 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "SONICUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.02217,
+    "sl": 0.02249,
+    "tp": 0.022002,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
