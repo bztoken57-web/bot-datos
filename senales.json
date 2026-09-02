@@ -401,11 +401,11 @@
     "entrada": 0.013663,
     "sl": 0.013918,
     "tp": 0.013488,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.83,
+    "salida": 0.013918,
+    "duracion": "23m"
   },
   {
     "par": "ZESTUSDT",
