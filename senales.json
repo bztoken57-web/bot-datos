@@ -104,5 +104,17 @@
     "return_pct": 1.0,
     "salida": 0.065113,
     "duracion": "7m"
+  },
+  {
+    "par": "CLOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.15368,
+    "sl": 0.154924,
+    "tp": 0.151814,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
