@@ -1334,5 +1334,21 @@
     "return_pct": -2.59,
     "salida": 0.025139,
     "duracion": "0m"
+  },
+  {
+    "par": "AKEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.026372,
+    "sl": 0.030677,
+    "sl_pct": 16.32,
+    "tp": 0.023668,
+    "tp_pct": -10.25,
+    "impulso": 20.46,
+    "rsi": 92.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
