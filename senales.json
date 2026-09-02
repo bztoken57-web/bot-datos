@@ -178,5 +178,17 @@
     "return_pct": 1.03,
     "salida": 0.034239,
     "duracion": "0m"
+  },
+  {
+    "par": "UAIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5679,
+    "sl": 0.575231,
+    "tp": 0.556903,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
