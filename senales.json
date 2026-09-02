@@ -961,11 +961,11 @@
     "tp_pct": -0.59,
     "impulso": 0.55,
     "rsi": 83.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.46,
+    "salida": 0.008673,
+    "duracion": "10m"
   },
   {
     "par": "MARSCOINUSDT",
