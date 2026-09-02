@@ -257,10 +257,10 @@
     "entrada": 4.73,
     "sl": 4.767,
     "tp": 4.684142,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.78,
+    "salida": 4.767,
+    "duracion": "3m"
   }
 ]
