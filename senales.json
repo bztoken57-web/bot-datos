@@ -934,5 +934,21 @@
     "return_pct": -1.1,
     "salida": 0.005193,
     "duracion": "10m"
+  },
+  {
+    "par": "1000000BOBUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0162,
+    "sl": 0.01627,
+    "sl_pct": 0.43,
+    "tp": 0.016142,
+    "tp_pct": -0.36,
+    "impulso": 0.62,
+    "rsi": 77.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
