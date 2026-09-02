@@ -41,11 +41,11 @@
     "entrada": 0.5476,
     "sl": 0.559,
     "tp": 0.542322,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.97,
+    "salida": 0.542322,
+    "duracion": "3h 53m"
   },
   {
     "par": "BULLAUSDT",
