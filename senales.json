@@ -1222,5 +1222,21 @@
     "return_pct": 1.33,
     "salida": 0.550201,
     "duracion": "2m"
+  },
+  {
+    "par": "XNYUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.006571,
+    "sl": 0.00677,
+    "sl_pct": 3.03,
+    "tp": 0.006494,
+    "tp_pct": -1.17,
+    "impulso": 0.9,
+    "rsi": 87.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
