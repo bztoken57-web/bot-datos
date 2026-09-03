@@ -1606,5 +1606,21 @@
     "return_pct": -0.46,
     "salida": 0.14346,
     "duracion": "7m"
+  },
+  {
+    "par": "KERNELUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.03684,
+    "sl": 0.03699,
+    "sl_pct": 0.41,
+    "tp": 0.036707,
+    "tp_pct": -0.36,
+    "impulso": 0.52,
+    "rsi": 86.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
