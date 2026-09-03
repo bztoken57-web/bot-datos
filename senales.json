@@ -2310,5 +2310,21 @@
     "return_pct": 0.81,
     "salida": 0.011616,
     "duracion": "56m"
+  },
+  {
+    "par": "OUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5748,
+    "sl": 0.5792,
+    "sl_pct": 0.77,
+    "tp": 0.569392,
+    "tp_pct": -0.94,
+    "impulso": 1.05,
+    "rsi": 97.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
