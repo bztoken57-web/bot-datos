@@ -2470,5 +2470,21 @@
     "return_pct": 0.67,
     "salida": 6.225415,
     "duracion": "11m"
+  },
+  {
+    "par": "UMAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.3749,
+    "sl": 0.3777,
+    "sl_pct": 0.75,
+    "tp": 0.371509,
+    "tp_pct": -0.9,
+    "impulso": 0.88,
+    "rsi": 87.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
