@@ -1830,5 +1830,21 @@
     "return_pct": 1.22,
     "salida": 0.023589,
     "duracion": "0m"
+  },
+  {
+    "par": "MERLUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.02119,
+    "sl": 0.02138,
+    "sl_pct": 0.9,
+    "tp": 0.021047,
+    "tp_pct": -0.67,
+    "impulso": 0.66,
+    "rsi": 83.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
