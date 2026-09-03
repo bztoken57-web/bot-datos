@@ -2433,10 +2433,10 @@
     "tp_pct": -0.79,
     "impulso": 0.91,
     "rsi": 93.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.82,
+    "salida": 0.5754,
+    "duracion": "31m"
   }
 ]
