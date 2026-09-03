@@ -2774,5 +2774,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ZAMAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05646,
+    "sl": 0.05683,
+    "sl_pct": 0.66,
+    "tp": 0.056109,
+    "tp_pct": -0.62,
+    "impulso": 0.82,
+    "rsi": 87.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
