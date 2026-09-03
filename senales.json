@@ -2726,5 +2726,21 @@
     "return_pct": -0.95,
     "salida": 0.004274,
     "duracion": "25m"
+  },
+  {
+    "par": "DOLOUSDT",
+    "tipo": "LONG",
+    "entrada": 0.025506,
+    "sl": 0.024981,
+    "sl_pct": -2.06,
+    "tp": 0.026016,
+    "tp_pct": 2.0,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
