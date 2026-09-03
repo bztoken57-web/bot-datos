@@ -2177,10 +2177,10 @@
     "tp_pct": -0.77,
     "impulso": 0.52,
     "rsi": 77.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.77,
+    "salida": 0.038562,
+    "duracion": "1m"
   }
 ]
