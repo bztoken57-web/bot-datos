@@ -2646,5 +2646,21 @@
     "return_pct": 1.93,
     "salida": 0.057968,
     "duracion": "0m"
+  },
+  {
+    "par": "GRVTUSDT",
+    "tipo": "LONG",
+    "entrada": 0.172977,
+    "sl": 0.171248,
+    "sl_pct": -1.0,
+    "tp": 0.177533,
+    "tp_pct": 2.63,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
