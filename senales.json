@@ -2710,5 +2710,21 @@
     "return_pct": 2.88,
     "salida": 0.070252,
     "duracion": "41m"
+  },
+  {
+    "par": "MANTRAUSDT",
+    "tipo": "LONG",
+    "entrada": 0.004315,
+    "sl": 0.004274,
+    "sl_pct": -0.95,
+    "tp": 0.004402,
+    "tp_pct": 2.0,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
