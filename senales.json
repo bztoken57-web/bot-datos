@@ -1766,5 +1766,21 @@
     "return_pct": 0.43,
     "salida": 0.003012,
     "duracion": "0m"
+  },
+  {
+    "par": "CGPTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01929,
+    "sl": 0.01945,
+    "sl_pct": 0.83,
+    "tp": 0.019159,
+    "tp_pct": -0.68,
+    "impulso": 0.83,
+    "rsi": 89.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
