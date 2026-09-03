@@ -1777,11 +1777,11 @@
     "tp_pct": -0.68,
     "impulso": 0.83,
     "rsi": 89.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.82,
+    "salida": 0.01945,
+    "duracion": "5m"
   },
   {
     "par": "TSTUSDT",
