@@ -1990,5 +1990,21 @@
     "return_pct": 0.72,
     "salida": 0.014604,
     "duracion": "13m"
+  },
+  {
+    "par": "KOMAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.013379,
+    "sl": 0.013827,
+    "sl_pct": 3.35,
+    "tp": 0.013216,
+    "tp_pct": -1.22,
+    "impulso": 1.05,
+    "rsi": 87.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
