@@ -2785,11 +2785,11 @@
     "tp_pct": -0.62,
     "impulso": 0.82,
     "rsi": 87.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.65,
+    "salida": 0.05683,
+    "duracion": "9m"
   },
   {
     "par": "UAIUSDT",
