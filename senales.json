@@ -1713,11 +1713,11 @@
     "tp_pct": -1.33,
     "impulso": 1.16,
     "rsi": 82.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.55,
+    "salida": 0.1222,
+    "duracion": "27m"
   },
   {
     "par": "LISTAUSDT",
