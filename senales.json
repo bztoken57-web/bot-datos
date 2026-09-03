@@ -1718,5 +1718,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "LISTAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06859,
+    "sl": 0.06954,
+    "sl_pct": 1.39,
+    "tp": 0.068245,
+    "tp_pct": -0.5,
+    "impulso": 0.62,
+    "rsi": 85.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
