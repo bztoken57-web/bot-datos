@@ -2721,10 +2721,10 @@
     "tp_pct": 2.0,
     "impulso": null,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.95,
+    "salida": 0.004274,
+    "duracion": "25m"
   }
 ]
