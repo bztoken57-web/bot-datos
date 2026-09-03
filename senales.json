@@ -2609,10 +2609,10 @@
     "tp_pct": 2.0,
     "impulso": null,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.1,
+    "salida": 0.383501,
+    "duracion": "0m"
   }
 ]
