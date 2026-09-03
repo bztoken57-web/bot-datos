@@ -1974,5 +1974,21 @@
     "return_pct": 0.8,
     "salida": 0.482474,
     "duracion": "9m"
+  },
+  {
+    "par": "ESPORTSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01471,
+    "sl": 0.01489,
+    "sl_pct": 1.22,
+    "tp": 0.014604,
+    "tp_pct": -0.72,
+    "impulso": 0.95,
+    "rsi": 82.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
