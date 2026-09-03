@@ -2326,5 +2326,21 @@
     "return_pct": 0.95,
     "salida": 0.569392,
     "duracion": "5m"
+  },
+  {
+    "par": "ONGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.10356,
+    "sl": 0.105017,
+    "sl_pct": 1.41,
+    "tp": 0.101374,
+    "tp_pct": -2.11,
+    "impulso": 0.7,
+    "rsi": 85.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
