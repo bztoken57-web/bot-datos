@@ -2390,5 +2390,21 @@
     "return_pct": 2.1,
     "salida": 0.015358,
     "duracion": "0m"
+  },
+  {
+    "par": "PORTALUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01634,
+    "sl": 0.0166,
+    "sl_pct": 1.59,
+    "tp": 0.01595,
+    "tp_pct": -2.39,
+    "impulso": 0.92,
+    "rsi": 79.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
