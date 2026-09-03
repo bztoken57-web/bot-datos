@@ -2502,5 +2502,21 @@
     "return_pct": 0.72,
     "salida": 0.11656,
     "duracion": "25m"
+  },
+  {
+    "par": "TAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06206,
+    "sl": 0.0625,
+    "sl_pct": 0.71,
+    "tp": 0.061687,
+    "tp_pct": -0.6,
+    "impulso": 0.78,
+    "rsi": 81.1,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
