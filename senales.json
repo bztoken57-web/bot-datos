@@ -2641,10 +2641,10 @@
     "tp_pct": 1.93,
     "impulso": null,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.93,
+    "salida": 0.057968,
+    "duracion": "0m"
   }
 ]
