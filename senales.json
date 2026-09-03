@@ -1793,11 +1793,11 @@
     "tp_pct": -0.48,
     "impulso": 0.59,
     "rsi": 82.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.77,
+    "salida": 0.01697,
+    "duracion": "24m"
   },
   {
     "par": "SUIUSDT",
