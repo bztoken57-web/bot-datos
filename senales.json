@@ -2849,10 +2849,10 @@
     "tp_pct": 2.77,
     "impulso": null,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.77,
+    "salida": 0.058204,
+    "duracion": "26m"
   }
 ]
