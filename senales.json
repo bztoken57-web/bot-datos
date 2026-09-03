@@ -1798,5 +1798,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "SUIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.7744,
+    "sl": 0.7811,
+    "sl_pct": 0.87,
+    "tp": 0.769339,
+    "tp_pct": -0.65,
+    "impulso": 0.71,
+    "rsi": 85.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
