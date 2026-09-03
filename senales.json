@@ -2662,5 +2662,21 @@
     "return_pct": 2.63,
     "salida": 0.177533,
     "duracion": "0m"
+  },
+  {
+    "par": "BMTUSDT",
+    "tipo": "LONG",
+    "entrada": 0.022655,
+    "sl": 0.022278,
+    "sl_pct": -1.66,
+    "tp": 0.023108,
+    "tp_pct": 2.0,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
