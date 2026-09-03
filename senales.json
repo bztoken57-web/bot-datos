@@ -2806,5 +2806,21 @@
     "return_pct": -0.82,
     "salida": 0.277323,
     "duracion": "29m"
+  },
+  {
+    "par": "ACUUSDT",
+    "tipo": "LONG",
+    "entrada": 0.127197,
+    "sl": 0.125925,
+    "sl_pct": -1.0,
+    "tp": 0.129576,
+    "tp_pct": 1.87,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
