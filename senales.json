@@ -1670,5 +1670,21 @@
     "return_pct": -1.65,
     "salida": 0.02328,
     "duracion": "5m"
+  },
+  {
+    "par": "SKRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.023088,
+    "sl": 0.023768,
+    "sl_pct": 2.95,
+    "tp": 0.022636,
+    "tp_pct": -1.96,
+    "impulso": 1.82,
+    "rsi": 83.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
