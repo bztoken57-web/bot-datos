@@ -2022,5 +2022,21 @@
     "return_pct": 1.44,
     "salida": 0.06752,
     "duracion": "8m"
+  },
+  {
+    "par": "TAGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.000697,
+    "sl": 0.000703,
+    "sl_pct": 0.93,
+    "tp": 0.000687,
+    "tp_pct": -1.4,
+    "impulso": 0.57,
+    "rsi": 81.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
