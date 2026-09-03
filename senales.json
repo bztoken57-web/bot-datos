@@ -1857,11 +1857,11 @@
     "tp_pct": -0.4,
     "impulso": 0.68,
     "rsi": 80.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.4,
+    "salida": 0.001327,
+    "duracion": "2h 43m"
   },
   {
     "par": "MUBARAKUSDT",
