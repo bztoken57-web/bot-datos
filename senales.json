@@ -2822,5 +2822,21 @@
     "return_pct": 1.87,
     "salida": 0.129576,
     "duracion": "20m"
+  },
+  {
+    "par": "B2USDT",
+    "tipo": "LONG",
+    "entrada": 0.449038,
+    "sl": 0.444548,
+    "sl_pct": -1.0,
+    "tp": 0.455001,
+    "tp_pct": 1.33,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
