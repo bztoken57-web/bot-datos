@@ -2950,5 +2950,21 @@
     "return_pct": 0.99,
     "salida": 6.387718,
     "duracion": "1m"
+  },
+  {
+    "par": "CHIPUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05655,
+    "sl": 0.05683,
+    "sl_pct": 0.5,
+    "tp": 0.056137,
+    "tp_pct": -0.73,
+    "impulso": 0.71,
+    "rsi": 81.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
