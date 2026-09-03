@@ -1569,11 +1569,11 @@
     "tp_pct": -0.53,
     "impulso": 0.81,
     "rsi": 96.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.53,
+    "salida": 0.014781,
+    "duracion": "29m"
   },
   {
     "par": "FHEUSDT",
