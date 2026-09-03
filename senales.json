@@ -2737,10 +2737,10 @@
     "tp_pct": 2.0,
     "impulso": null,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.06,
+    "salida": 0.024981,
+    "duracion": "11h 21m"
   }
 ]
