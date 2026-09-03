@@ -2582,5 +2582,21 @@
     "return_pct": 1.43,
     "salida": 0.090863,
     "duracion": "20m"
+  },
+  {
+    "par": "BTWUSDT",
+    "tipo": "LONG",
+    "entrada": 0.408602,
+    "sl": 0.404516,
+    "sl_pct": -1.0,
+    "tp": 0.416774,
+    "tp_pct": 2.0,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
