@@ -2289,10 +2289,10 @@
     "tp_pct": -0.62,
     "impulso": 0.57,
     "rsi": 83.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.46,
+    "salida": 0.06172,
+    "duracion": "1h 29m"
   }
 ]
