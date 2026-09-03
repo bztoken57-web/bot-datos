@@ -2198,5 +2198,21 @@
     "return_pct": 0.92,
     "salida": 0.036534,
     "duracion": "1m"
+  },
+  {
+    "par": "LSKUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.10155,
+    "sl": 0.10186,
+    "sl_pct": 0.31,
+    "tp": 0.101204,
+    "tp_pct": -0.34,
+    "impulso": 0.5,
+    "rsi": 83.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
