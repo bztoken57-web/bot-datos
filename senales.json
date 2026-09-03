@@ -2598,5 +2598,21 @@
     "return_pct": -1.0,
     "salida": 0.404516,
     "duracion": "0m"
+  },
+  {
+    "par": "EDGEUSDT",
+    "tipo": "LONG",
+    "entrada": 0.387759,
+    "sl": 0.383501,
+    "sl_pct": -1.1,
+    "tp": 0.395515,
+    "tp_pct": 2.0,
+    "impulso": null,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
