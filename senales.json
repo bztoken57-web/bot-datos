@@ -1590,5 +1590,21 @@
     "return_pct": -1.16,
     "salida": 0.02151,
     "duracion": "0m"
+  },
+  {
+    "par": "HEIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1428,
+    "sl": 0.14346,
+    "sl_pct": 0.46,
+    "tp": 0.142001,
+    "tp_pct": -0.56,
+    "impulso": 0.51,
+    "rsi": 79.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
