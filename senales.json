@@ -2353,10 +2353,10 @@
     "tp_pct": -0.88,
     "impulso": 0.58,
     "rsi": 84.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.89,
+    "salida": 0.001895,
+    "duracion": "7m"
   }
 ]
