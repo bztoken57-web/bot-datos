@@ -1574,5 +1574,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "FHEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.02126,
+    "sl": 0.02151,
+    "sl_pct": 1.18,
+    "tp": 0.020987,
+    "tp_pct": -1.29,
+    "impulso": 1.03,
+    "rsi": 90.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
