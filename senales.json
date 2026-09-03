@@ -2422,5 +2422,21 @@
     "return_pct": 2.5,
     "salida": 0.016302,
     "duracion": "3m"
+  },
+  {
+    "par": "ETHFIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.5707,
+    "sl": 0.5754,
+    "sl_pct": 0.82,
+    "tp": 0.566216,
+    "tp_pct": -0.79,
+    "impulso": 0.91,
+    "rsi": 93.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
