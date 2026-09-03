@@ -2086,5 +2086,21 @@
     "return_pct": -1.93,
     "salida": 0.102581,
     "duracion": "1m"
+  },
+  {
+    "par": "AGTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.016945,
+    "sl": 0.017029,
+    "sl_pct": 0.5,
+    "tp": 0.016818,
+    "tp_pct": -0.75,
+    "impulso": 0.6,
+    "rsi": 77.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
