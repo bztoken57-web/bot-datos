@@ -3414,5 +3414,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "BLESSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.008889,
+    "sl": 0.009,
+    "sl_pct": 1.25,
+    "tp": 0.008822,
+    "tp_pct": -0.76,
+    "impulso": 0.56,
+    "rsi": 78.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
