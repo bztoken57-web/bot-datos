@@ -1553,11 +1553,11 @@
     "tp_pct": -1.09,
     "impulso": 1.09,
     "rsi": 88.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.21,
+    "salida": 0.07929,
+    "duracion": "25h 29m"
   },
   {
     "par": "ESPORTSUSDT",
