@@ -3153,11 +3153,11 @@
     "tp_pct": -1.41,
     "impulso": 0.62,
     "rsi": 77.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.43,
+    "salida": 0.251894,
+    "duracion": "29m"
   },
   {
     "par": "4USDT",
