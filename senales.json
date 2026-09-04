@@ -3366,5 +3366,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ENSOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.8801,
+    "sl": 0.8837,
+    "sl_pct": 0.41,
+    "tp": 0.876532,
+    "tp_pct": -0.41,
+    "impulso": 0.66,
+    "rsi": 79.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
