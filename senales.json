@@ -3409,11 +3409,11 @@
     "tp_pct": -1.66,
     "impulso": 0.91,
     "rsi": 78.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.69,
+    "salida": 0.217577,
+    "duracion": "17m"
   },
   {
     "par": "BLESSUSDT",
