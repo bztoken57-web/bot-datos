@@ -3265,11 +3265,11 @@
     "tp_pct": -2.09,
     "impulso": 1.05,
     "rsi": 97.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.13,
+    "salida": 0.060012,
+    "duracion": "19m"
   },
   {
     "par": "CAPUSDT",
