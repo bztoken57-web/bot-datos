@@ -3281,10 +3281,10 @@
     "tp_pct": -2.31,
     "impulso": 1.88,
     "rsi": 81.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.05,
+    "salida": 0.04921,
+    "duracion": "25m"
   }
 ]
