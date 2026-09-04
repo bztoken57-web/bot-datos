@@ -3254,5 +3254,21 @@
     "return_pct": -0.84,
     "salida": 0.012888,
     "duracion": "3m"
+  },
+  {
+    "par": "MANTAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06129,
+    "sl": 0.06331,
+    "sl_pct": 3.3,
+    "tp": 0.060012,
+    "tp_pct": -2.09,
+    "impulso": 1.05,
+    "rsi": 97.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
