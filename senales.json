@@ -3110,5 +3110,21 @@
     "return_pct": -0.4,
     "salida": 0.4715,
     "duracion": "1m"
+  },
+  {
+    "par": "BTRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05384,
+    "sl": 0.05478,
+    "sl_pct": 1.75,
+    "tp": 0.052768,
+    "tp_pct": -1.99,
+    "impulso": 0.94,
+    "rsi": 82.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
