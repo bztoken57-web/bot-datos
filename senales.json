@@ -3585,11 +3585,11 @@
     "tp_pct": -1.09,
     "impulso": 0.66,
     "rsi": 86.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.1,
+    "salida": 60.086225,
+    "duracion": "2m"
   },
   {
     "par": "AINUSDT",
