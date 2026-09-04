@@ -3142,5 +3142,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "CYSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2555,
+    "sl": 0.2602,
+    "sl_pct": 1.84,
+    "tp": 0.251894,
+    "tp_pct": -1.41,
+    "impulso": 0.62,
+    "rsi": 77.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
