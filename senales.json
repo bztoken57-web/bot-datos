@@ -3137,11 +3137,11 @@
     "tp_pct": -1.55,
     "impulso": 0.92,
     "rsi": 77.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.02,
+    "salida": 0.095544,
+    "duracion": "9m"
   },
   {
     "par": "CYSUSDT",
