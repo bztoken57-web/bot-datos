@@ -3030,5 +3030,21 @@
     "return_pct": -1.35,
     "salida": 0.06433,
     "duracion": "1m"
+  },
+  {
+    "par": "VANAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.9238,
+    "sl": 0.9303,
+    "sl_pct": 0.7,
+    "tp": 0.916113,
+    "tp_pct": -0.83,
+    "impulso": 1.05,
+    "rsi": 94.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
