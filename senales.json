@@ -3361,11 +3361,11 @@
     "tp_pct": -0.58,
     "impulso": 0.7,
     "rsi": 83.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.59,
+    "salida": 0.072742,
+    "duracion": "24m"
   },
   {
     "par": "ENSOUSDT",
