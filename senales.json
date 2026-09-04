@@ -3446,5 +3446,21 @@
     "return_pct": 0.8,
     "salida": 0.070903,
     "duracion": "1m"
+  },
+  {
+    "par": "TRIAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.004497,
+    "sl": 0.004632,
+    "sl_pct": 3.0,
+    "tp": 0.004391,
+    "tp_pct": -2.35,
+    "impulso": 0.63,
+    "rsi": 76.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
