@@ -3521,10 +3521,10 @@
     "tp_pct": -0.63,
     "impulso": 0.86,
     "rsi": 88.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.64,
+    "salida": 0.074466,
+    "duracion": "9m"
   }
 ]
