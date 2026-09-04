@@ -3377,11 +3377,11 @@
     "tp_pct": -0.41,
     "impulso": 0.66,
     "rsi": 79.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.41,
+    "salida": 0.876532,
+    "duracion": "31m"
   },
   {
     "par": "ELSAUSDT",
