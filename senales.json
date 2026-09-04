@@ -3238,5 +3238,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "GRIFFAINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01278,
+    "sl": 0.012888,
+    "sl_pct": 0.85,
+    "tp": 0.012628,
+    "tp_pct": -1.19,
+    "impulso": 1.1,
+    "rsi": 77.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
