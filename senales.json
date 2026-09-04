@@ -3350,5 +3350,21 @@
     "return_pct": 0.77,
     "salida": 0.008881,
     "duracion": "0m"
+  },
+  {
+    "par": "DUSKUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.07317,
+    "sl": 0.07398,
+    "sl_pct": 1.11,
+    "tp": 0.072742,
+    "tp_pct": -0.58,
+    "impulso": 0.7,
+    "rsi": 83.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
