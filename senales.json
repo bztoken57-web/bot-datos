@@ -3398,5 +3398,21 @@
     "return_pct": 1.33,
     "salida": 0.049246,
     "duracion": "16m"
+  },
+  {
+    "par": "USELESSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.22126,
+    "sl": 0.22488,
+    "sl_pct": 1.64,
+    "tp": 0.217577,
+    "tp_pct": -1.66,
+    "impulso": 0.91,
+    "rsi": 78.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
