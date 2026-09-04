@@ -3201,11 +3201,11 @@
     "tp_pct": -2.11,
     "impulso": 2.41,
     "rsi": 83.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.15,
+    "salida": 0.638652,
+    "duracion": "3m"
   },
   {
     "par": "GRIFFAINUSDT",
