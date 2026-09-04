@@ -3014,5 +3014,21 @@
     "return_pct": 4.22,
     "salida": 0.122577,
     "duracion": "19m"
+  },
+  {
+    "par": "LAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06346,
+    "sl": 0.06433,
+    "sl_pct": 1.37,
+    "tp": 0.062519,
+    "tp_pct": -1.48,
+    "impulso": 0.8,
+    "rsi": 76.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
