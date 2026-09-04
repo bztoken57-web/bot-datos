@@ -3217,10 +3217,10 @@
     "tp_pct": -0.48,
     "impulso": 0.51,
     "rsi": 88.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.37,
+    "salida": 0.012523,
+    "duracion": "1m"
   }
 ]
