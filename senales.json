@@ -3270,5 +3270,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "CAPUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0482,
+    "sl": 0.04921,
+    "sl_pct": 2.1,
+    "tp": 0.047089,
+    "tp_pct": -2.31,
+    "impulso": 1.88,
+    "rsi": 81.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
