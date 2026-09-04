@@ -3569,11 +3569,11 @@
     "tp_pct": -0.7,
     "impulso": 0.5,
     "rsi": 79.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.82,
+    "salida": 0.002202,
+    "duracion": "12m"
   },
   {
     "par": "DASHUSDT",
