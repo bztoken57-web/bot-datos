@@ -3249,10 +3249,10 @@
     "tp_pct": -1.19,
     "impulso": 1.1,
     "rsi": 77.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.84,
+    "salida": 0.012888,
+    "duracion": "3m"
   }
 ]
