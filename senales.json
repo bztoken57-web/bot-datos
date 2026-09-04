@@ -3222,5 +3222,21 @@
     "return_pct": -0.37,
     "salida": 0.012523,
     "duracion": "1m"
+  },
+  {
+    "par": "AZTECUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01404,
+    "sl": 0.01413,
+    "sl_pct": 0.64,
+    "tp": 0.013962,
+    "tp_pct": -0.55,
+    "impulso": 1.0,
+    "rsi": 86.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
