@@ -3590,5 +3590,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "AINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.07092,
+    "sl": 0.07135,
+    "sl_pct": 0.61,
+    "tp": 0.070713,
+    "tp_pct": -0.29,
+    "impulso": 0.51,
+    "rsi": 82.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
