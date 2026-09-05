@@ -4550,5 +4550,21 @@
     "return_pct": 1.16,
     "salida": 0.549143,
     "duracion": "45m"
+  },
+  {
+    "par": "牛来USDT",
+    "tipo": "SHORT",
+    "entrada": 0.13234,
+    "sl": 0.13557,
+    "sl_pct": 2.44,
+    "tp": 0.12786,
+    "tp_pct": -3.38,
+    "impulso": 3.32,
+    "rsi": 75.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
