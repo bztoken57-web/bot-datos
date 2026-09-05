@@ -4177,11 +4177,11 @@
     "tp_pct": -1.67,
     "impulso": 1.3,
     "rsi": 89.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -3.04,
+    "salida": 0.2432,
+    "duracion": "2h 53m"
   },
   {
     "par": "币安人生USDT",
