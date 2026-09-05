@@ -4902,5 +4902,21 @@
     "return_pct": -0.68,
     "salida": 0.1759,
     "duracion": "6m"
+  },
+  {
+    "par": "BUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1763,
+    "sl": 0.1773,
+    "sl_pct": 0.57,
+    "tp": 0.175176,
+    "tp_pct": -0.64,
+    "impulso": 0.68,
+    "rsi": 79.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
