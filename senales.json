@@ -3777,11 +3777,11 @@
     "tp_pct": -1.01,
     "impulso": 0.54,
     "rsi": 84.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.02,
+    "salida": 0.02182,
+    "duracion": "11m"
   },
   {
     "par": "XPINUSDT",
