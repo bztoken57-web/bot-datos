@@ -3985,11 +3985,11 @@
     "tp_pct": -1.35,
     "impulso": 0.54,
     "rsi": 78.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.36,
+    "salida": 0.015082,
+    "duracion": "23m"
   },
   {
     "par": "MAGMAUSDT",
