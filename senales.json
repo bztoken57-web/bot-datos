@@ -4081,10 +4081,10 @@
     "tp_pct": -1.27,
     "impulso": 0.9,
     "rsi": 88.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.29,
+    "salida": 0.058258,
+    "duracion": "38m"
   }
 ]
