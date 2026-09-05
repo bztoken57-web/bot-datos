@@ -4289,11 +4289,11 @@
     "tp_pct": -0.68,
     "impulso": 1.15,
     "rsi": 88.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.69,
+    "salida": 0.035755,
+    "duracion": "11m"
   },
   {
     "par": "FLOCKUSDT",
