@@ -4662,5 +4662,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "CUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06067,
+    "sl": 0.06093,
+    "sl_pct": 0.43,
+    "tp": 0.060534,
+    "tp_pct": -0.22,
+    "impulso": 0.56,
+    "rsi": 84.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
