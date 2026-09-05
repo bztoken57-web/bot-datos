@@ -4118,5 +4118,21 @@
     "return_pct": -0.72,
     "salida": 0.0161,
     "duracion": "0m"
+  },
+  {
+    "par": "TRADOORUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.7023,
+    "sl": 0.7151,
+    "sl_pct": 1.82,
+    "tp": 0.687483,
+    "tp_pct": -2.11,
+    "impulso": 0.62,
+    "rsi": 82.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
