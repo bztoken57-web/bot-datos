@@ -3638,5 +3638,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "AGTUSDT",
+    "tipo": "LONG",
+    "entrada": 0.01622,
+    "sl": 0.016001,
+    "sl_pct": -1.35,
+    "tp": 0.016547,
+    "tp_pct": 2.02,
+    "impulso": 6.22,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
