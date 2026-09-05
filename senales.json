@@ -3857,11 +3857,11 @@
     "tp_pct": -0.26,
     "impulso": 0.53,
     "rsi": 85.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.26,
+    "salida": 0.069396,
+    "duracion": "1h 12m"
   },
   {
     "par": "龙虾USDT",
