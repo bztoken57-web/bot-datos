@@ -4721,11 +4721,11 @@
     "tp_pct": -1.02,
     "impulso": 0.61,
     "rsi": 78.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.65,
+    "salida": 0.07562,
+    "duracion": "46m"
   },
   {
     "par": "OPUSDT",
