@@ -3809,11 +3809,11 @@
     "tp_pct": -1.05,
     "impulso": 0.63,
     "rsi": 77.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.06,
+    "salida": 0.005037,
+    "duracion": "5m"
   },
   {
     "par": "FIDAUSDT",
