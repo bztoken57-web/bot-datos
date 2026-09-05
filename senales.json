@@ -4358,5 +4358,21 @@
     "return_pct": 0.92,
     "salida": 0.130302,
     "duracion": "0m"
+  },
+  {
+    "par": "LIGHTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1983,
+    "sl": 0.199,
+    "sl_pct": 0.35,
+    "tp": 0.197297,
+    "tp_pct": -0.51,
+    "impulso": 0.51,
+    "rsi": 82.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
