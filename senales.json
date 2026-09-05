@@ -4193,10 +4193,10 @@
     "tp_pct": -0.97,
     "impulso": 0.58,
     "rsi": 80.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.98,
+    "salida": 0.53236,
+    "duracion": "10m"
   }
 ]
