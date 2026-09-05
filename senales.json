@@ -3921,10 +3921,10 @@
     "tp_pct": -0.7,
     "impulso": 0.6,
     "rsi": 80.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.46,
+    "salida": 0.023419,
+    "duracion": "2m"
   }
 ]
