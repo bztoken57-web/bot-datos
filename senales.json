@@ -4406,5 +4406,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "COLLECTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.09726,
+    "sl": 0.09947,
+    "sl_pct": 2.27,
+    "tp": 0.094819,
+    "tp_pct": -2.51,
+    "impulso": 1.12,
+    "rsi": 76.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
