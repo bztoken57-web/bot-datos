@@ -4198,5 +4198,21 @@
     "return_pct": 0.98,
     "salida": 0.53236,
     "duracion": "10m"
+  },
+  {
+    "par": "LUNA2USDT",
+    "tipo": "SHORT",
+    "entrada": 0.04693,
+    "sl": 0.04707,
+    "sl_pct": 0.3,
+    "tp": 0.046809,
+    "tp_pct": -0.26,
+    "impulso": 0.53,
+    "rsi": 75.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
