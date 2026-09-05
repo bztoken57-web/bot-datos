@@ -4977,11 +4977,11 @@
     "tp_pct": -0.4,
     "impulso": 0.84,
     "rsi": 84.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.89,
+    "salida": 0.12176,
+    "duracion": "49m"
   },
   {
     "par": "牛来USDT",
