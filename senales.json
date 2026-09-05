@@ -4913,10 +4913,10 @@
     "tp_pct": -0.64,
     "impulso": 0.68,
     "rsi": 79.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.56,
+    "salida": 0.1773,
+    "duracion": "0m"
   }
 ]
