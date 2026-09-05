@@ -4321,11 +4321,11 @@
     "tp_pct": -2.89,
     "impulso": 1.75,
     "rsi": 78.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.98,
+    "salida": 0.232017,
+    "duracion": "7m"
   },
   {
     "par": "NAORISUSDT",
