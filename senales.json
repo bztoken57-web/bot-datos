@@ -4214,5 +4214,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "FORMUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2981,
+    "sl": 0.301,
+    "sl_pct": 0.97,
+    "tp": 0.296157,
+    "tp_pct": -0.65,
+    "impulso": 0.5,
+    "rsi": 76.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
