@@ -3713,11 +3713,11 @@
     "tp_pct": -0.41,
     "impulso": 0.67,
     "rsi": 86.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.41,
+    "salida": 0.109317,
+    "duracion": "41m"
   },
   {
     "par": "AKEUSDT",
