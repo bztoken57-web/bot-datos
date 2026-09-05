@@ -3905,11 +3905,11 @@
     "tp_pct": -2.63,
     "impulso": 2.28,
     "rsi": 92.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.7,
+    "salida": 0.055512,
+    "duracion": "24m"
   },
   {
     "par": "TUTUSDT",
