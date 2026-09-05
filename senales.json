@@ -4129,11 +4129,11 @@
     "tp_pct": -2.11,
     "impulso": 0.62,
     "rsi": 82.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.16,
+    "salida": 0.687483,
+    "duracion": "1h 13m"
   },
   {
     "par": "龙虾USDT",
