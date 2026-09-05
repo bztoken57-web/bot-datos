@@ -4945,11 +4945,11 @@
     "tp_pct": -0.79,
     "impulso": 0.96,
     "rsi": 76.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.8,
+    "salida": 0.01099,
+    "duracion": "4m"
   },
   {
     "par": "MONUSDT",
