@@ -3969,11 +3969,11 @@
     "tp_pct": -5.4,
     "impulso": 1.33,
     "rsi": 84.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 5.71,
+    "salida": 0.019332,
+    "duracion": "5m"
   },
   {
     "par": "KOMAUSDT",
