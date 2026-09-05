@@ -4417,10 +4417,10 @@
     "tp_pct": -2.51,
     "impulso": 1.12,
     "rsi": 76.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.22,
+    "salida": 0.09947,
+    "duracion": "1m"
   }
 ]
