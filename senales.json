@@ -3846,5 +3846,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "LAYERUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06958,
+    "sl": 0.0698,
+    "sl_pct": 0.32,
+    "tp": 0.069396,
+    "tp_pct": -0.26,
+    "impulso": 0.53,
+    "rsi": 85.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
