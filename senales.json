@@ -4785,11 +4785,11 @@
     "tp_pct": -0.94,
     "impulso": 0.55,
     "rsi": 77.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.31,
+    "salida": 0.003518,
+    "duracion": "15m"
   },
   {
     "par": "1000000BOBUSDT",
