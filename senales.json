@@ -4881,11 +4881,11 @@
     "tp_pct": -0.87,
     "impulso": 0.9,
     "rsi": 77.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.58,
+    "salida": 0.019214,
+    "duracion": "0m"
   },
   {
     "par": "BUSDT",
