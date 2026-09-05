@@ -3814,5 +3814,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "FIDAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01925,
+    "sl": 0.01933,
+    "sl_pct": 0.42,
+    "tp": 0.019183,
+    "tp_pct": -0.35,
+    "impulso": 0.57,
+    "rsi": 90.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
