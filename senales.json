@@ -3926,5 +3926,21 @@
     "return_pct": -0.46,
     "salida": 0.023419,
     "duracion": "2m"
+  },
+  {
+    "par": "龙虾USDT",
+    "tipo": "SHORT",
+    "entrada": 0.082561,
+    "sl": 0.083566,
+    "sl_pct": 1.22,
+    "tp": 0.081187,
+    "tp_pct": -1.66,
+    "impulso": 0.68,
+    "rsi": 80.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
