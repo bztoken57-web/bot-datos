@@ -4097,10 +4097,10 @@
     "tp_pct": -2.02,
     "impulso": 1.24,
     "rsi": 77.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.33,
+    "salida": 0.00148,
+    "duracion": "5m"
   }
 ]
