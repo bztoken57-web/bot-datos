@@ -4534,5 +4534,21 @@
     "return_pct": 1.34,
     "salida": 0.178613,
     "duracion": "51m"
+  },
+  {
+    "par": "币安人生USDT",
+    "tipo": "SHORT",
+    "entrada": 0.5555,
+    "sl": 0.5655,
+    "sl_pct": 1.8,
+    "tp": 0.549143,
+    "tp_pct": -1.14,
+    "impulso": 0.89,
+    "rsi": 80.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
