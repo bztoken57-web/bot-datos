@@ -4273,10 +4273,10 @@
     "tp_pct": -1.19,
     "impulso": 0.93,
     "rsi": 76.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.21,
+    "salida": 0.244602,
+    "duracion": "1m"
   }
 ]
