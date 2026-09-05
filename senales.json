@@ -4145,11 +4145,11 @@
     "tp_pct": -2.02,
     "impulso": 1.25,
     "rsi": 76.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.06,
+    "salida": 0.088939,
+    "duracion": "3m"
   },
   {
     "par": "LISTAUSDT",
