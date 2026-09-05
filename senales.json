@@ -4694,5 +4694,21 @@
     "return_pct": 4.78,
     "salida": 0.059734,
     "duracion": "8m"
+  },
+  {
+    "par": "SUSHIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2773,
+    "sl": 0.2828,
+    "sl_pct": 1.98,
+    "tp": 0.2707,
+    "tp_pct": -2.38,
+    "impulso": 1.48,
+    "rsi": 91.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
