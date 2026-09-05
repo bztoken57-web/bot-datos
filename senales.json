@@ -4401,11 +4401,11 @@
     "tp_pct": -2.14,
     "impulso": 1.75,
     "rsi": 82.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.43,
+    "salida": 0.0155,
+    "duracion": "34m"
   },
   {
     "par": "COLLECTUSDT",
