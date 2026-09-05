@@ -4230,5 +4230,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ELSAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05345,
+    "sl": 0.05395,
+    "sl_pct": 0.94,
+    "tp": 0.053105,
+    "tp_pct": -0.64,
+    "impulso": 0.6,
+    "rsi": 87.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
