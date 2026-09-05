@@ -4390,5 +4390,21 @@
     "return_pct": -0.39,
     "salida": 0.010719,
     "duracion": "1m"
+  },
+  {
+    "par": "我踏马来了USDT",
+    "tipo": "SHORT",
+    "entrada": 0.015278,
+    "sl": 0.0155,
+    "sl_pct": 1.45,
+    "tp": 0.014951,
+    "tp_pct": -2.14,
+    "impulso": 1.75,
+    "rsi": 82.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
