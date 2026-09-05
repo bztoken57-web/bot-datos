@@ -4438,5 +4438,21 @@
     "return_pct": -0.62,
     "salida": 0.01038,
     "duracion": "0m"
+  },
+  {
+    "par": "CTRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.010335,
+    "sl": 0.010541,
+    "sl_pct": 1.99,
+    "tp": 0.010182,
+    "tp_pct": -1.48,
+    "impulso": 1.36,
+    "rsi": 82.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
