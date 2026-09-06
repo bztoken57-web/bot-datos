@@ -5025,11 +5025,11 @@
     "tp_pct": -0.56,
     "impulso": 0.81,
     "rsi": 82.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.79,
+    "salida": 0.05963,
+    "duracion": "53m"
   },
   {
     "par": "AZTECUSDT",
