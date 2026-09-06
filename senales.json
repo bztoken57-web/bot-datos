@@ -5270,5 +5270,21 @@
     "return_pct": -1.4,
     "salida": 0.004704,
     "duracion": "1m"
+  },
+  {
+    "par": "TAIKOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.08171,
+    "sl": 0.08233,
+    "sl_pct": 0.76,
+    "tp": 0.081073,
+    "tp_pct": -0.78,
+    "impulso": 0.93,
+    "rsi": 81.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
