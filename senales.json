@@ -6113,11 +6113,11 @@
     "tp_pct": -1.52,
     "impulso": 1.45,
     "rsi": 82.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.34,
+    "salida": 0.0374,
+    "duracion": "6m"
   },
   {
     "par": "BRUSDT",
