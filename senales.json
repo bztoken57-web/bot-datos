@@ -5281,10 +5281,10 @@
     "tp_pct": -0.78,
     "impulso": 0.93,
     "rsi": 81.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.79,
+    "salida": 0.081073,
+    "duracion": "8m"
   }
 ]
