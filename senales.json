@@ -6801,10 +6801,10 @@
     "tp_pct": -0.31,
     "impulso": 0.58,
     "rsi": 76.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.36,
+    "salida": 0.01922,
+    "duracion": "11m"
   }
 ]
