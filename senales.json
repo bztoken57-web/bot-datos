@@ -6161,10 +6161,10 @@
     "tp_pct": -2.52,
     "impulso": 0.99,
     "rsi": 90.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.59,
+    "salida": 0.037646,
+    "duracion": "4m"
   }
 ]
