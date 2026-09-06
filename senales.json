@@ -5366,5 +5366,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ASTRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.005993,
+    "sl": 0.006011,
+    "sl_pct": 0.3,
+    "tp": 0.00598,
+    "tp_pct": -0.22,
+    "impulso": 0.5,
+    "rsi": 92.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
