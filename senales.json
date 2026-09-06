@@ -6177,11 +6177,11 @@
     "tp_pct": -1.06,
     "impulso": 0.5,
     "rsi": 77.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.07,
+    "salida": 5.510233,
+    "duracion": "4m"
   },
   {
     "par": "BRUSDT",
