@@ -6790,5 +6790,21 @@
     "return_pct": 0.64,
     "salida": 0.060314,
     "duracion": "47m"
+  },
+  {
+    "par": "BROCCOLI714USDT",
+    "tipo": "SHORT",
+    "entrada": 0.01915,
+    "sl": 0.01922,
+    "sl_pct": 0.37,
+    "tp": 0.019091,
+    "tp_pct": -0.31,
+    "impulso": 0.58,
+    "rsi": 76.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
