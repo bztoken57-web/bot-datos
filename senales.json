@@ -3649,11 +3649,11 @@
     "tp_pct": 2.02,
     "impulso": 6.22,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": 0.0,
+    "salida": 0.01622,
+    "duracion": "0m"
   },
   {
     "par": "FLUIDUSDT",
