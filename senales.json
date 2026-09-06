@@ -5526,5 +5526,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "FLOCKUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.07244,
+    "sl": 0.0734,
+    "sl_pct": 1.33,
+    "tp": 0.071,
+    "tp_pct": -1.99,
+    "impulso": 0.73,
+    "rsi": 91.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
