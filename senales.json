@@ -5382,5 +5382,21 @@
     "return_pct": -0.3,
     "salida": 0.006011,
     "duracion": "25m"
+  },
+  {
+    "par": "PEOPLEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.008545,
+    "sl": 0.008602,
+    "sl_pct": 0.67,
+    "tp": 0.008496,
+    "tp_pct": -0.58,
+    "impulso": 0.74,
+    "rsi": 78.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
