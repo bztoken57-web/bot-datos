@@ -5441,11 +5441,11 @@
     "tp_pct": -1.27,
     "impulso": 0.89,
     "rsi": 80.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.88,
+    "salida": 0.272,
+    "duracion": "2m"
   },
   {
     "par": "CYSUSDT",
