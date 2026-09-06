@@ -6561,11 +6561,11 @@
     "tp_pct": -1.12,
     "impulso": 0.95,
     "rsi": 79.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.33,
+    "salida": 1233.67,
+    "duracion": "1h 8m"
   },
   {
     "par": "TRIAUSDT",
