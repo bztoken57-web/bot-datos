@@ -5334,5 +5334,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "CELOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.08108,
+    "sl": 0.08202,
+    "sl_pct": 1.16,
+    "tp": 0.080576,
+    "tp_pct": -0.62,
+    "impulso": 1.1,
+    "rsi": 87.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
