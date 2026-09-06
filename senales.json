@@ -6913,11 +6913,11 @@
     "tp_pct": -1.37,
     "impulso": 0.88,
     "rsi": 91.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.39,
+    "salida": 0.039471,
+    "duracion": "15m"
   },
   {
     "par": "FIDAUSDT",
