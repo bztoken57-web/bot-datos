@@ -6369,11 +6369,11 @@
     "tp_pct": -1.18,
     "impulso": 1.52,
     "rsi": 77.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.19,
+    "salida": 0.011219,
+    "duracion": "35m"
   },
   {
     "par": "PHAUSDT",
