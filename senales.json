@@ -6401,11 +6401,11 @@
     "tp_pct": -0.37,
     "impulso": 0.66,
     "rsi": 79.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.38,
+    "salida": 0.1825,
+    "duracion": "28m"
   },
   {
     "par": "WOOUSDT",
