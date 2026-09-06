@@ -6097,11 +6097,11 @@
     "tp_pct": -0.81,
     "impulso": 0.83,
     "rsi": 78.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.72,
+    "salida": 0.001949,
+    "duracion": "4m"
   },
   {
     "par": "NAORISUSDT",
