@@ -6049,10 +6049,10 @@
     "tp_pct": -0.52,
     "impulso": 0.77,
     "rsi": 83.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.53,
+    "salida": 0.08833,
+    "duracion": "1m"
   }
 ]
