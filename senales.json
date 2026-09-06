@@ -6481,10 +6481,10 @@
     "tp_pct": -1.14,
     "impulso": 0.83,
     "rsi": 78.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.15,
+    "salida": 0.038199,
+    "duracion": "1m"
   }
 ]
