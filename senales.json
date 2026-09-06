@@ -5617,10 +5617,10 @@
     "tp_pct": -0.86,
     "impulso": 0.51,
     "rsi": 85.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.87,
+    "salida": 0.232775,
+    "duracion": "2m"
   }
 ]
