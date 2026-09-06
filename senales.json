@@ -6822,5 +6822,21 @@
     "return_pct": 0.63,
     "salida": 0.185932,
     "duracion": "9m"
+  },
+  {
+    "par": "VELVETUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0808,
+    "sl": 0.0811,
+    "sl_pct": 0.37,
+    "tp": 0.080469,
+    "tp_pct": -0.41,
+    "impulso": 0.62,
+    "rsi": 84.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
