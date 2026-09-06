@@ -5734,5 +5734,21 @@
     "return_pct": 0.45,
     "salida": 0.051172,
     "duracion": "2m"
+  },
+  {
+    "par": "METUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.209,
+    "sl": 0.2108,
+    "sl_pct": 0.86,
+    "tp": 0.20672,
+    "tp_pct": -1.09,
+    "impulso": 0.57,
+    "rsi": 76.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
