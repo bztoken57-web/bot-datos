@@ -6033,10 +6033,10 @@
     "tp_pct": -0.54,
     "impulso": 0.88,
     "rsi": 90.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.51,
+    "salida": 0.137,
+    "duracion": "1m"
   }
 ]
