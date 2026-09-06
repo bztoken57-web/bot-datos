@@ -6257,11 +6257,11 @@
     "tp_pct": -0.82,
     "impulso": 1.11,
     "rsi": 81.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.1,
+    "salida": 0.5373,
+    "duracion": "4h 11m"
   },
   {
     "par": "TRIAUSDT",
