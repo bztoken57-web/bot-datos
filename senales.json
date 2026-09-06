@@ -6406,5 +6406,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "WOOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.01248,
+    "sl": 0.01259,
+    "sl_pct": 0.88,
+    "tp": 0.012348,
+    "tp_pct": -1.06,
+    "impulso": 1.13,
+    "rsi": 85.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
