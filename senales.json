@@ -5190,5 +5190,21 @@
     "return_pct": -0.95,
     "salida": 0.055204,
     "duracion": "0m"
+  },
+  {
+    "par": "TUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.00445,
+    "sl": 0.004487,
+    "sl_pct": 0.83,
+    "tp": 0.004395,
+    "tp_pct": -1.24,
+    "impulso": 0.58,
+    "rsi": 87.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
