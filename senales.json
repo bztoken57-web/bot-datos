@@ -5633,11 +5633,11 @@
     "tp_pct": -0.44,
     "impulso": 0.81,
     "rsi": 86.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.45,
+    "salida": 0.098551,
+    "duracion": "46m"
   },
   {
     "par": "ORCAUSDT",
