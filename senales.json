@@ -5574,5 +5574,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "ZESTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.13136,
+    "sl": 0.13193,
+    "sl_pct": 0.43,
+    "tp": 0.130577,
+    "tp_pct": -0.6,
+    "impulso": 0.57,
+    "rsi": 85.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
