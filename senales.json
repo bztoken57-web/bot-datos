@@ -5606,5 +5606,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "JUPUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.2348,
+    "sl": 0.23615,
+    "sl_pct": 0.58,
+    "tp": 0.232775,
+    "tp_pct": -0.86,
+    "impulso": 0.51,
+    "rsi": 85.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
