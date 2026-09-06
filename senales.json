@@ -5761,10 +5761,10 @@
     "tp_pct": -0.68,
     "impulso": 0.72,
     "rsi": 86.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.66,
+    "salida": 2.6074,
+    "duracion": "0m"
   }
 ]
