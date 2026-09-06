@@ -5793,11 +5793,11 @@
     "tp_pct": -2.44,
     "impulso": 2.82,
     "rsi": 91.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -3.3,
+    "salida": 1176.95,
+    "duracion": "7h 9m"
   },
   {
     "par": "GRTUSDT",
