@@ -6337,11 +6337,11 @@
     "tp_pct": -3.98,
     "impulso": 5.0,
     "rsi": 91.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 4.15,
+    "salida": 0.07447,
+    "duracion": "48m"
   },
   {
     "par": "XANUSDT",
