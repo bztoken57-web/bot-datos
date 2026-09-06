@@ -5361,11 +5361,11 @@
     "tp_pct": -3.03,
     "impulso": 4.33,
     "rsi": 79.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -3.34,
+    "salida": 0.083869,
+    "duracion": "30m"
   },
   {
     "par": "ASTRUSDT",
