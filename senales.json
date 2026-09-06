@@ -6758,5 +6758,21 @@
     "return_pct": -0.85,
     "salida": 0.02109,
     "duracion": "1m"
+  },
+  {
+    "par": "JASMYUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.004403,
+    "sl": 0.004453,
+    "sl_pct": 1.14,
+    "tp": 0.004362,
+    "tp_pct": -0.92,
+    "impulso": 0.66,
+    "rsi": 93.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
