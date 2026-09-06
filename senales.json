@@ -5921,10 +5921,10 @@
     "tp_pct": -1.95,
     "impulso": 2.09,
     "rsi": 84.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.99,
+    "salida": 0.077686,
+    "duracion": "0m"
   }
 ]
