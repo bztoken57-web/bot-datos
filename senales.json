@@ -5329,11 +5329,11 @@
     "tp_pct": -2.54,
     "impulso": 0.62,
     "rsi": 81.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.61,
+    "salida": 0.063202,
+    "duracion": "3m"
   },
   {
     "par": "CELOUSDT",
