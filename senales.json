@@ -5425,11 +5425,11 @@
     "tp_pct": -2.22,
     "impulso": 1.0,
     "rsi": 97.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.27,
+    "salida": 0.061356,
+    "duracion": "16m"
   },
   {
     "par": "SUSHIUSDT",
