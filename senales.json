@@ -5510,5 +5510,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "SUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0306,
+    "sl": 0.030738,
+    "sl_pct": 0.45,
+    "tp": 0.030392,
+    "tp_pct": -0.68,
+    "impulso": 0.66,
+    "rsi": 86.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
