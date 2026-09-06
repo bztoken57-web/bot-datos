@@ -5313,11 +5313,11 @@
     "tp_pct": -1.77,
     "impulso": 1.49,
     "rsi": 82.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.8,
+    "salida": 0.189993,
+    "duracion": "15m"
   },
   {
     "par": "TAKEUSDT",
