@@ -6689,11 +6689,11 @@
     "tp_pct": -0.56,
     "impulso": 0.54,
     "rsi": 81.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.57,
+    "salida": 0.015941,
+    "duracion": "2m"
   },
   {
     "par": "HEMIUSDT",
