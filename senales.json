@@ -6209,11 +6209,11 @@
     "tp_pct": -0.82,
     "impulso": 0.76,
     "rsi": 78.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.75,
+    "salida": 0.003732,
+    "duracion": "7m"
   },
   {
     "par": "KAVAUSDT",
