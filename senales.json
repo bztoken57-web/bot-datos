@@ -5990,5 +5990,21 @@
     "return_pct": 1.95,
     "salida": 0.035705,
     "duracion": "1m"
+  },
+  {
+    "par": "TOWNSUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.002188,
+    "sl": 0.0022,
+    "sl_pct": 0.55,
+    "tp": 0.00218,
+    "tp_pct": -0.38,
+    "impulso": 0.87,
+    "rsi": 79.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
