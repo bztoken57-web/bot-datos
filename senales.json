@@ -6374,5 +6374,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "PHAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.02716,
+    "sl": 0.02781,
+    "sl_pct": 2.39,
+    "tp": 0.026634,
+    "tp_pct": -1.94,
+    "impulso": 0.7,
+    "rsi": 77.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
