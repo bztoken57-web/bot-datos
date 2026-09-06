@@ -6022,5 +6022,21 @@
     "return_pct": -1.22,
     "salida": 1.478024,
     "duracion": "1m"
+  },
+  {
+    "par": "IOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1363,
+    "sl": 0.137,
+    "sl_pct": 0.51,
+    "tp": 0.135563,
+    "tp_pct": -0.54,
+    "impulso": 0.88,
+    "rsi": 90.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
