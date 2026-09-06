@@ -6470,5 +6470,21 @@
     "return_pct": -0.63,
     "salida": 0.27,
     "duracion": "8m"
+  },
+  {
+    "par": "NAORISUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.03864,
+    "sl": 0.038934,
+    "sl_pct": 0.76,
+    "tp": 0.038199,
+    "tp_pct": -1.14,
+    "impulso": 0.83,
+    "rsi": 78.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
