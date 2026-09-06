@@ -6550,5 +6550,21 @@
     "return_pct": -0.66,
     "salida": 0.01087,
     "duracion": "9m"
+  },
+  {
+    "par": "ZECUSDT",
+    "tipo": "SHORT",
+    "entrada": 1204.96,
+    "sl": 1233.67,
+    "sl_pct": 2.38,
+    "tp": 1191.514955,
+    "tp_pct": -1.12,
+    "impulso": 0.95,
+    "rsi": 79.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
