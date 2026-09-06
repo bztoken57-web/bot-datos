@@ -6321,11 +6321,11 @@
     "tp_pct": -0.97,
     "impulso": 0.76,
     "rsi": 75.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.98,
+    "salida": 0.111628,
+    "duracion": "6m"
   },
   {
     "par": "BULLAUSDT",
