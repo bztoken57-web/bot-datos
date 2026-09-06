@@ -6438,5 +6438,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "MARSCOINUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.18876,
+    "sl": 0.19144,
+    "sl_pct": 1.42,
+    "tp": 0.185327,
+    "tp_pct": -1.82,
+    "impulso": 1.98,
+    "rsi": 85.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
