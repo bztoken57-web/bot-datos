@@ -6193,11 +6193,11 @@
     "tp_pct": -1.74,
     "impulso": 0.91,
     "rsi": 79.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.15,
+    "salida": 0.254414,
+    "duracion": "3m"
   },
   {
     "par": "SOLVUSDT",
