@@ -5777,11 +5777,11 @@
     "tp_pct": -0.97,
     "impulso": 1.02,
     "rsi": 82.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.98,
+    "salida": 0.089356,
+    "duracion": "3h 31m"
   },
   {
     "par": "ZECUSDT",
