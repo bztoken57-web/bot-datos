@@ -6529,11 +6529,11 @@
     "tp_pct": -1.64,
     "impulso": 0.97,
     "rsi": 77.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.66,
+    "salida": 0.042021,
+    "duracion": "17m"
   },
   {
     "par": "SIGNUSDT",
