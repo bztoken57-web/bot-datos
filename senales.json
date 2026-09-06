@@ -5537,11 +5537,11 @@
     "tp_pct": -1.99,
     "impulso": 0.73,
     "rsi": 91.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.31,
+    "salida": 0.0734,
+    "duracion": "27m"
   },
   {
     "par": "BUSDT",
