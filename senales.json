@@ -6977,11 +6977,11 @@
     "tp_pct": -0.5,
     "impulso": 1.16,
     "rsi": 92.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.5,
+    "salida": 0.076584,
+    "duracion": "32m"
   },
   {
     "par": "SOLVUSDT",
