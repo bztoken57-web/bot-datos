@@ -5569,11 +5569,11 @@
     "tp_pct": -1.16,
     "impulso": 1.26,
     "rsi": 85.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -3.01,
+    "salida": 0.11624,
+    "duracion": "9h 5m"
   },
   {
     "par": "ZESTUSDT",
