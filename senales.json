@@ -6854,5 +6854,21 @@
     "return_pct": 0.52,
     "salida": 0.057044,
     "duracion": "5m"
+  },
+  {
+    "par": "METISUSDT",
+    "tipo": "SHORT",
+    "entrada": 3.538,
+    "sl": 3.574,
+    "sl_pct": 1.02,
+    "tp": 3.49965,
+    "tp_pct": -1.08,
+    "impulso": 0.51,
+    "rsi": 76.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
