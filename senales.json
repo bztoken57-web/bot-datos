@@ -5089,11 +5089,11 @@
     "tp_pct": -1.94,
     "impulso": 2.3,
     "rsi": 82.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.46,
+    "salida": 0.06492,
+    "duracion": "21m"
   },
   {
     "par": "SUPERUSDT",
