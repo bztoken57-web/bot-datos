@@ -6294,5 +6294,21 @@
     "return_pct": -1.54,
     "salida": 1.3979,
     "duracion": "0m"
+  },
+  {
+    "par": "RAYSOLUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.3842,
+    "sl": 1.403512,
+    "sl_pct": 1.4,
+    "tp": 1.355232,
+    "tp_pct": -2.09,
+    "impulso": 1.2,
+    "rsi": 77.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
