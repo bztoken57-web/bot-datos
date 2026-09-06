@@ -5393,11 +5393,11 @@
     "tp_pct": -0.58,
     "impulso": 0.74,
     "rsi": 78.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.66,
+    "salida": 0.008602,
+    "duracion": "15m"
   },
   {
     "par": "UAIUSDT",
