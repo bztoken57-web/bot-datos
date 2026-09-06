@@ -6598,5 +6598,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "TAOUSDT",
+    "tipo": "SHORT",
+    "entrada": 255.89,
+    "sl": 258.0,
+    "sl_pct": 0.82,
+    "tp": 253.97298,
+    "tp_pct": -0.75,
+    "impulso": 0.82,
+    "rsi": 77.0,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
