@@ -5302,5 +5302,21 @@
     "return_pct": -0.77,
     "salida": 0.05581,
     "duracion": "1m"
+  },
+  {
+    "par": "ARBUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.19341,
+    "sl": 0.19642,
+    "sl_pct": 1.56,
+    "tp": 0.189993,
+    "tp_pct": -1.77,
+    "impulso": 1.49,
+    "rsi": 82.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
