@@ -6897,10 +6897,10 @@
     "tp_pct": -1.0,
     "impulso": 0.77,
     "rsi": 88.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.21,
+    "salida": 0.03974,
+    "duracion": "1m"
   }
 ]
