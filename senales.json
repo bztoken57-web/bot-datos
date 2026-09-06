@@ -6065,11 +6065,11 @@
     "tp_pct": -1.85,
     "impulso": 0.94,
     "rsi": 76.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.88,
+    "salida": 0.001674,
+    "duracion": "9m"
   },
   {
     "par": "HYPERUSDT",
