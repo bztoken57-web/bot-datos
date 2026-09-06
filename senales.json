@@ -6534,5 +6534,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "SIGNUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.010798,
+    "sl": 0.01087,
+    "sl_pct": 0.67,
+    "tp": 0.010719,
+    "tp_pct": -0.73,
+    "impulso": 0.75,
+    "rsi": 76.1,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
