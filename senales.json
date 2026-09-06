@@ -6081,11 +6081,11 @@
     "tp_pct": -0.46,
     "impulso": 0.98,
     "rsi": 82.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.47,
+    "salida": 0.069576,
+    "duracion": "29m"
   },
   {
     "par": "JCTUSDT",
