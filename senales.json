@@ -6705,11 +6705,11 @@
     "tp_pct": -0.82,
     "impulso": 0.77,
     "rsi": 75.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.61,
+    "salida": 0.011558,
+    "duracion": "6m"
   },
   {
     "par": "MEMEUSDT",
