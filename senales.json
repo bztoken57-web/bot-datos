@@ -6433,11 +6433,11 @@
     "tp_pct": -0.26,
     "impulso": 0.53,
     "rsi": 88.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.26,
+    "salida": 0.006445,
+    "duracion": "1h 20m"
   },
   {
     "par": "MARSCOINUSDT",
