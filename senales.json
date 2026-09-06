@@ -5158,5 +5158,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "SOPHUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.004107,
+    "sl": 0.004149,
+    "sl_pct": 1.02,
+    "tp": 0.004066,
+    "tp_pct": -0.99,
+    "impulso": 0.88,
+    "rsi": 87.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
