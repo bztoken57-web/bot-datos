@@ -5942,5 +5942,21 @@
     "return_pct": 0.6,
     "salida": 0.074969,
     "duracion": "2m"
+  },
+  {
+    "par": "ORCAUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.424,
+    "sl": 1.443,
+    "sl_pct": 1.33,
+    "tp": 1.404781,
+    "tp_pct": -1.35,
+    "impulso": 1.62,
+    "rsi": 88.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
