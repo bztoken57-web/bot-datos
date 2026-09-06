@@ -5622,5 +5622,21 @@
     "return_pct": 0.87,
     "salida": 0.232775,
     "duracion": "2m"
+  },
+  {
+    "par": "PUNDIXUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.09899,
+    "sl": 0.0995,
+    "sl_pct": 0.52,
+    "tp": 0.098551,
+    "tp_pct": -0.44,
+    "impulso": 0.81,
+    "rsi": 86.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
