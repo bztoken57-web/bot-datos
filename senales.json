@@ -6273,11 +6273,11 @@
     "tp_pct": -0.99,
     "impulso": 0.81,
     "rsi": 81.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.0,
+    "salida": 0.00468,
+    "duracion": "26m"
   },
   {
     "par": "RAYSOLUSDT",
