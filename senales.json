@@ -5318,5 +5318,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "TAKEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.06485,
+    "sl": 0.06648,
+    "sl_pct": 2.51,
+    "tp": 0.063202,
+    "tp_pct": -2.54,
+    "impulso": 0.62,
+    "rsi": 81.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
