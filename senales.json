@@ -5713,10 +5713,10 @@
     "tp_pct": -0.43,
     "impulso": 0.52,
     "rsi": 84.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.37,
+    "salida": 0.1352,
+    "duracion": "0m"
   }
 ]
