@@ -5766,5 +5766,21 @@
     "return_pct": -0.66,
     "salida": 2.6074,
     "duracion": "0m"
+  },
+  {
+    "par": "STARUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.09023,
+    "sl": 0.09091,
+    "sl_pct": 0.75,
+    "tp": 0.089356,
+    "tp_pct": -0.97,
+    "impulso": 1.02,
+    "rsi": 82.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
