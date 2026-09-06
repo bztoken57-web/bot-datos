@@ -6241,11 +6241,11 @@
     "tp_pct": -1.54,
     "impulso": 1.22,
     "rsi": 88.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.02,
+    "salida": 0.018055,
+    "duracion": "16m"
   },
   {
     "par": "币安人生USDT",
