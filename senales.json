@@ -6609,10 +6609,10 @@
     "tp_pct": -0.75,
     "impulso": 0.82,
     "rsi": 77.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.82,
+    "salida": 258.0,
+    "duracion": "1m"
   }
 ]
