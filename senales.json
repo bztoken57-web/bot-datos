@@ -5505,11 +5505,11 @@
     "tp_pct": -0.6,
     "impulso": 0.53,
     "rsi": 77.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.6,
+    "salida": 0.050308,
+    "duracion": "18m"
   },
   {
     "par": "SUSDT",
