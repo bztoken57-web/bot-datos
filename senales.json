@@ -5521,11 +5521,11 @@
     "tp_pct": -0.68,
     "impulso": 0.66,
     "rsi": 86.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.68,
+    "salida": 0.030392,
+    "duracion": "16m"
   },
   {
     "par": "FLOCKUSDT",
