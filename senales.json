@@ -6145,11 +6145,11 @@
     "tp_pct": -0.66,
     "impulso": 0.58,
     "rsi": 79.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.67,
+    "salida": 0.136491,
+    "duracion": "10m"
   },
   {
     "par": "NAORISUSDT",
