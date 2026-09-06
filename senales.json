@@ -6305,10 +6305,10 @@
     "tp_pct": -2.09,
     "impulso": 1.2,
     "rsi": 77.7,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.14,
+    "salida": 1.355232,
+    "duracion": "23m"
   }
 ]
