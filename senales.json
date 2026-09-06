@@ -5841,11 +5841,11 @@
     "tp_pct": -1.53,
     "impulso": 0.59,
     "rsi": 79.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.5,
+    "salida": 0.11436,
+    "duracion": "7m"
   },
   {
     "par": "BULLAUSDT",
