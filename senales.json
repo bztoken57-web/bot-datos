@@ -5729,10 +5729,10 @@
     "tp_pct": -0.44,
     "impulso": 0.7,
     "rsi": 78.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.45,
+    "salida": 0.051172,
+    "duracion": "2m"
   }
 ]
