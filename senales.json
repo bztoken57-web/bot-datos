@@ -5857,11 +5857,11 @@
     "tp_pct": -1.76,
     "impulso": 0.52,
     "rsi": 79.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.16,
+    "salida": 0.072626,
+    "duracion": "9m"
   },
   {
     "par": "LDOUSDT",
