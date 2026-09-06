@@ -6961,10 +6961,10 @@
     "tp_pct": -1.46,
     "impulso": 1.17,
     "rsi": 97.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.25,
+    "salida": 0.0607,
+    "duracion": "0m"
   }
 ]
