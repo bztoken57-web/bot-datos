@@ -6342,5 +6342,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "XANUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.018123,
+    "sl": 0.018265,
+    "sl_pct": 0.78,
+    "tp": 0.017931,
+    "tp_pct": -1.06,
+    "impulso": 1.07,
+    "rsi": 77.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
