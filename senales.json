@@ -6214,5 +6214,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "KAVAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05303,
+    "sl": 0.05369,
+    "sl_pct": 1.24,
+    "tp": 0.052656,
+    "tp_pct": -0.71,
+    "impulso": 1.23,
+    "rsi": 95.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
