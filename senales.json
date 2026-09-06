@@ -5926,5 +5926,21 @@
     "return_pct": 1.99,
     "salida": 0.077686,
     "duracion": "0m"
+  },
+  {
+    "par": "HUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.07542,
+    "sl": 0.07576,
+    "sl_pct": 0.45,
+    "tp": 0.074969,
+    "tp_pct": -0.6,
+    "impulso": 0.6,
+    "rsi": 79.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
