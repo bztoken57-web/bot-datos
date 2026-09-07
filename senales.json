@@ -7350,5 +7350,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "EULUSDT",
+    "tipo": "SHORT",
+    "entrada": 1.324,
+    "sl": 1.3315,
+    "sl_pct": 0.57,
+    "tp": 1.318762,
+    "tp_pct": -0.4,
+    "impulso": 0.6,
+    "rsi": 88.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
