@@ -7041,11 +7041,11 @@
     "tp_pct": -0.45,
     "impulso": 0.55,
     "rsi": 84.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.45,
+    "salida": 0.036555,
+    "duracion": "1h 10m"
   },
   {
     "par": "1000XECUSDT",
