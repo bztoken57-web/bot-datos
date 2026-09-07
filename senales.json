@@ -7361,10 +7361,10 @@
     "tp_pct": -0.4,
     "impulso": 0.6,
     "rsi": 88.6,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.4,
+    "salida": 1.318762,
+    "duracion": "7m"
   }
 ]
