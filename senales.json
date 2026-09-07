@@ -7457,11 +7457,11 @@
     "tp_pct": -1.62,
     "impulso": 0.67,
     "rsi": 88.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.65,
+    "salida": 0.001899,
+    "duracion": "11m"
   },
   {
     "par": "TLMUSDT",
