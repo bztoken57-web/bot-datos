@@ -7542,5 +7542,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "CFGUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1335,
+    "sl": 0.136398,
+    "sl_pct": 2.17,
+    "tp": 0.129153,
+    "tp_pct": -3.26,
+    "impulso": 0.9,
+    "rsi": 90.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
