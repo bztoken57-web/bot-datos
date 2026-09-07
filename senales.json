@@ -7265,11 +7265,11 @@
     "tp_pct": -2.05,
     "impulso": 0.67,
     "rsi": 77.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.32,
+    "salida": 1.682,
+    "duracion": "13m"
   },
   {
     "par": "TACUSDT",
