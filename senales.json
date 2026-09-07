@@ -7558,5 +7558,23 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "BROCCOLIF3BUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.007545,
+    "sl": 0.007723,
+    "sl_pct": 2.36,
+    "tp": 0.00732,
+    "tp_pct": -2.98,
+    "impulso": 3.51,
+    "rsi": 79.9,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-07",
+    "hora": "05:32"
   }
 ]
