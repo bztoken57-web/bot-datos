@@ -7025,11 +7025,11 @@
     "tp_pct": -1.03,
     "impulso": 1.03,
     "rsi": 88.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.04,
+    "salida": 0.024071,
+    "duracion": "1h 21m"
   },
   {
     "par": "CARVUSDT",
