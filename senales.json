@@ -7425,11 +7425,11 @@
     "tp_pct": -0.54,
     "impulso": 0.66,
     "rsi": 86.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -0.43,
+    "salida": 3.038,
+    "duracion": "7m"
   },
   {
     "par": "GMTUSDT",
