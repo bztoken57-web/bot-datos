@@ -7094,5 +7094,21 @@
     "return_pct": 0.52,
     "salida": 0.006674,
     "duracion": "0m"
+  },
+  {
+    "par": "TACUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.002446,
+    "sl": 0.002459,
+    "sl_pct": 0.53,
+    "tp": 0.002435,
+    "tp_pct": -0.46,
+    "impulso": 0.53,
+    "rsi": 79.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
