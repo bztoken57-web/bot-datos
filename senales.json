@@ -7137,11 +7137,11 @@
     "tp_pct": -0.73,
     "impulso": 0.59,
     "rsi": 76.9,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.73,
+    "salida": 0.042379,
+    "duracion": "3m"
   },
   {
     "par": "牛来USDT",
