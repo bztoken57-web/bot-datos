@@ -7201,11 +7201,11 @@
     "tp_pct": -1.49,
     "impulso": 0.69,
     "rsi": 75.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.52,
+    "salida": 0.218366,
+    "duracion": "9m"
   },
   {
     "par": "DOODUSDT",
