@@ -7462,5 +7462,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "TLMUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.001451,
+    "sl": 0.001483,
+    "sl_pct": 2.21,
+    "tp": 0.001441,
+    "tp_pct": -0.7,
+    "impulso": 0.62,
+    "rsi": 84.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
