@@ -7521,11 +7521,11 @@
     "tp_pct": -1.96,
     "impulso": 1.74,
     "rsi": 81.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.4,
+    "salida": 0.6765,
+    "duracion": "19m"
   },
   {
     "par": "USELESSUSDT",
