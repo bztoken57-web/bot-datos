@@ -7505,11 +7505,11 @@
     "tp_pct": -0.37,
     "impulso": 0.66,
     "rsi": 85.2,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.38,
+    "salida": 21.100738,
+    "duracion": "3m"
   },
   {
     "par": "UAIUSDT",
