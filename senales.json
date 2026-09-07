@@ -7046,5 +7046,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "1000XECUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.00745,
+    "sl": 0.007494,
+    "sl_pct": 0.59,
+    "tp": 0.007416,
+    "tp_pct": -0.46,
+    "impulso": 0.58,
+    "rsi": 90.5,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
