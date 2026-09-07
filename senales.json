@@ -7446,5 +7446,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "DOODUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.00193,
+    "sl": 0.00196,
+    "sl_pct": 1.55,
+    "tp": 0.001899,
+    "tp_pct": -1.62,
+    "impulso": 0.67,
+    "rsi": 88.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
