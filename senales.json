@@ -7345,11 +7345,11 @@
     "tp_pct": -0.32,
     "impulso": 0.6,
     "rsi": 80.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 0.32,
+    "salida": 0.085419,
+    "duracion": "19m"
   },
   {
     "par": "EULUSDT",
