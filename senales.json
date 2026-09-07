@@ -7366,5 +7366,21 @@
     "return_pct": 0.4,
     "salida": 1.318762,
     "duracion": "7m"
+  },
+  {
+    "par": "哈基米USDT",
+    "tipo": "SHORT",
+    "entrada": 0.0656,
+    "sl": 0.06698,
+    "sl_pct": 2.1,
+    "tp": 0.064407,
+    "tp_pct": -1.82,
+    "impulso": 1.54,
+    "rsi": 82.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
