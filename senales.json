@@ -7398,5 +7398,21 @@
     "return_pct": -0.5,
     "salida": 0.2384,
     "duracion": "2m"
+  },
+  {
+    "par": "ALCHUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.03085,
+    "sl": 0.03095,
+    "sl_pct": 0.32,
+    "tp": 0.030734,
+    "tp_pct": -0.38,
+    "impulso": 0.52,
+    "rsi": 88.1,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
