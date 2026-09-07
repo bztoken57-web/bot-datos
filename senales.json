@@ -7174,5 +7174,21 @@
     "return_pct": 1.73,
     "salida": 0.01213,
     "duracion": "0m"
+  },
+  {
+    "par": "COTIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.017034,
+    "sl": 0.017176,
+    "sl_pct": 0.83,
+    "tp": 0.016909,
+    "tp_pct": -0.73,
+    "impulso": 0.99,
+    "rsi": 81.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
