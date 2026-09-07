@@ -7281,11 +7281,11 @@
     "tp_pct": -3.02,
     "impulso": 0.92,
     "rsi": 97.8,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.97,
+    "salida": 0.002789,
+    "duracion": "9m"
   },
   {
     "par": "QUSDT",
