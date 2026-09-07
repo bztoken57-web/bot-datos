@@ -7430,5 +7430,21 @@
     "return_pct": null,
     "salida": null,
     "duracion": null
+  },
+  {
+    "par": "GMTUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.007572,
+    "sl": 0.007592,
+    "sl_pct": 0.26,
+    "tp": 0.007548,
+    "tp_pct": -0.31,
+    "impulso": 0.5,
+    "rsi": 79.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null
   }
 ]
