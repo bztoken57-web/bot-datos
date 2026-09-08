@@ -7612,5 +7612,23 @@
     "duracion": null,
     "fecha": "2026-09-07",
     "hora": "13:33"
+  },
+  {
+    "par": "BLUAIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.011016,
+    "sl": 0.011296,
+    "sl_pct": 2.54,
+    "tp": 0.010798,
+    "tp_pct": -1.98,
+    "impulso": 4.75,
+    "rsi": 85.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-07",
+    "hora": "20:04"
   }
 ]
