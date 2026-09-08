@@ -7641,11 +7641,11 @@
     "tp_pct": -5.75,
     "impulso": 3.25,
     "rsi": 91.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -6.25,
+    "salida": 0.3234,
+    "duracion": "1m",
     "fecha": "2026-09-07",
     "hora": "23:38"
   }
