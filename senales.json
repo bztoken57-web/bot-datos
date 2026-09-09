@@ -7702,5 +7702,23 @@
     "duracion": "10h 16m",
     "fecha": "2026-09-08",
     "hora": "08:51"
+  },
+  {
+    "par": "HUMAUSDT",
+    "tipo": "LONG",
+    "entrada": 0.022859,
+    "sl": 0.022304,
+    "sl_pct": -2.43,
+    "tp": 0.023692,
+    "tp_pct": 3.64,
+    "impulso": 7.49,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-09",
+    "hora": "17:17"
   }
 ]
