@@ -7738,5 +7738,23 @@
     "duracion": "20m",
     "fecha": "2026-09-09",
     "hora": "17:17"
+  },
+  {
+    "par": "BTRUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.05901,
+    "sl": 0.06268,
+    "sl_pct": 6.22,
+    "tp": 0.056029,
+    "tp_pct": -5.05,
+    "impulso": 3.36,
+    "rsi": 89.1,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-09",
+    "hora": "17:44"
   }
 ]
