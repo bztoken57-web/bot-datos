@@ -7731,11 +7731,11 @@
     "tp_pct": 2.95,
     "impulso": 5.82,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.95,
+    "salida": 0.081746,
+    "duracion": "20m",
     "fecha": "2026-09-09",
     "hora": "17:17"
   }
