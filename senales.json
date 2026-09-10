@@ -7553,11 +7553,11 @@
     "tp_pct": -3.26,
     "impulso": 0.9,
     "rsi": 90.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.61,
+    "salida": 0.1179,
+    "duracion": "30m"
   },
   {
     "par": "BROCCOLIF3BUSDT",
