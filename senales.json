@@ -7756,5 +7756,23 @@
     "duracion": null,
     "fecha": "2026-09-09",
     "hora": "17:44"
+  },
+  {
+    "par": "MINAUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0936,
+    "sl": 0.09692,
+    "sl_pct": 3.55,
+    "tp": 0.091705,
+    "tp_pct": -2.02,
+    "impulso": 3.21,
+    "rsi": 91.7,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-09",
+    "hora": "19:00"
   }
 ]
