@@ -7821,11 +7821,11 @@
     "tp_pct": -3.07,
     "impulso": 3.12,
     "rsi": 87.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 3.17,
+    "salida": 0.06475,
+    "duracion": "8m",
     "fecha": "2026-09-09",
     "hora": "20:37"
   }
