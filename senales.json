@@ -7828,5 +7828,23 @@
     "duracion": "8m",
     "fecha": "2026-09-09",
     "hora": "20:37"
+  },
+  {
+    "par": "UAIUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.7272,
+    "sl": 0.7498,
+    "sl_pct": 3.11,
+    "tp": 0.710641,
+    "tp_pct": -2.28,
+    "impulso": 3.71,
+    "rsi": 90.8,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-09",
+    "hora": "22:53"
   }
 ]
