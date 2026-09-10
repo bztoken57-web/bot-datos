@@ -7792,5 +7792,23 @@
     "duracion": "2m",
     "fecha": "2026-09-09",
     "hora": "20:31"
+  },
+  {
+    "par": "VTHOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.000607,
+    "sl": 0.000646,
+    "sl_pct": 6.39,
+    "tp": 0.000577,
+    "tp_pct": -4.85,
+    "impulso": 3.58,
+    "rsi": 75.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-09",
+    "hora": "20:35"
   }
 ]
