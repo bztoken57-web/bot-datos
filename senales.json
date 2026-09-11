@@ -9,7 +9,9 @@
     "resultado": "TP",
     "return_pct": 0.41,
     "salida": 0.583797,
-    "duracion": "57m"
+    "duracion": "57m",
+    "fecha": "2026-09-02",
+    "hora": "01:18"
   },
   {
     "par": "ETHFIUSDT",
@@ -21,7 +23,9 @@
     "resultado": "SL",
     "return_pct": -0.62,
     "salida": 0.5809,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "00:32"
   },
   {
     "par": "牛来USDT",
@@ -33,7 +37,9 @@
     "resultado": "SL",
     "return_pct": -1.05,
     "salida": 0.09019,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-02",
+    "hora": "00:38"
   },
   {
     "par": "OUSDT",
@@ -45,7 +51,9 @@
     "resultado": "TP",
     "return_pct": 0.97,
     "salida": 0.542322,
-    "duracion": "3h 53m"
+    "duracion": "3h 53m",
+    "fecha": "2026-09-02",
+    "hora": "04:30"
   },
   {
     "par": "BULLAUSDT",
@@ -57,7 +65,9 @@
     "resultado": "TP",
     "return_pct": 2.12,
     "salida": 0.018753,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "00:41"
   },
   {
     "par": "ICNTUSDT",
@@ -69,7 +79,9 @@
     "resultado": "SL",
     "return_pct": -1.21,
     "salida": 0.1154,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-02",
+    "hora": "00:54"
   },
   {
     "par": "ARCUSDT",
@@ -81,7 +93,9 @@
     "resultado": "SL",
     "return_pct": -0.72,
     "salida": 0.06656,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-02",
+    "hora": "01:00"
   },
   {
     "par": "HIVEUSDT",
@@ -93,7 +107,9 @@
     "resultado": "TP",
     "return_pct": 0.61,
     "salida": 0.04577,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-02",
+    "hora": "01:11"
   },
   {
     "par": "BULLAUSDT",
@@ -105,7 +121,9 @@
     "resultado": "SL",
     "return_pct": -1.51,
     "salida": 0.019376,
-    "duracion": "1h 53m"
+    "duracion": "1h 53m",
+    "fecha": "2026-09-02",
+    "hora": "03:05"
   },
   {
     "par": "SONICUSDT",
@@ -117,7 +135,9 @@
     "resultado": "TP",
     "return_pct": 0.76,
     "salida": 0.022002,
-    "duracion": "1h 25m"
+    "duracion": "1h 25m",
+    "fecha": "2026-09-02",
+    "hora": "02:44"
   },
   {
     "par": "FORMUSDT",
@@ -129,7 +149,9 @@
     "resultado": "SL",
     "return_pct": -0.41,
     "salida": 0.2706,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-02",
+    "hora": "03:04"
   },
   {
     "par": "USUSDT",
@@ -141,7 +163,9 @@
     "resultado": "TP",
     "return_pct": 0.8,
     "salida": 0.016891,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "03:08"
   },
   {
     "par": "ZKPUSDT",
@@ -153,7 +177,9 @@
     "resultado": "TP",
     "return_pct": 0.64,
     "salida": 0.044404,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-02",
+    "hora": "03:17"
   },
   {
     "par": "ORDERUSDT",
@@ -165,7 +191,9 @@
     "resultado": "SL",
     "return_pct": -1.06,
     "salida": 0.03482,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-02",
+    "hora": "03:16"
   },
   {
     "par": "ORDERUSDT",
@@ -177,7 +205,9 @@
     "resultado": "TP",
     "return_pct": 1.03,
     "salida": 0.034239,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "03:19"
   },
   {
     "par": "UAIUSDT",
@@ -189,7 +219,9 @@
     "resultado": "TP",
     "return_pct": 1.97,
     "salida": 0.556903,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "03:49"
   },
   {
     "par": "ZKCUSDT",
@@ -201,7 +233,9 @@
     "resultado": "SL",
     "return_pct": -0.49,
     "salida": 0.049594,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "03:56"
   },
   {
     "par": "ACHUSDT",
@@ -213,7 +247,9 @@
     "resultado": "TP",
     "return_pct": 0.78,
     "salida": 0.004928,
-    "duracion": "1h 10m"
+    "duracion": "1h 10m",
+    "fecha": "2026-09-02",
+    "hora": "05:07"
   },
   {
     "par": "MAGMAUSDT",
@@ -225,7 +261,9 @@
     "resultado": "TP",
     "return_pct": 1.7,
     "salida": 0.532916,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "04:12"
   },
   {
     "par": "SOPHUSDT",
@@ -237,7 +275,9 @@
     "resultado": "SL",
     "return_pct": -0.62,
     "salida": 0.004305,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-02",
+    "hora": "04:22"
   },
   {
     "par": "ORDERUSDT",
@@ -249,7 +289,9 @@
     "resultado": "TP",
     "return_pct": 0.73,
     "salida": 0.034578,
-    "duracion": "21m"
+    "duracion": "21m",
+    "fecha": "2026-09-02",
+    "hora": "04:46"
   },
   {
     "par": "PROMUSDT",
@@ -261,7 +303,9 @@
     "resultado": "SL",
     "return_pct": -0.78,
     "salida": 4.767,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-02",
+    "hora": "04:35"
   },
   {
     "par": "CELOUSDT",
@@ -273,7 +317,9 @@
     "resultado": "TP",
     "return_pct": 0.61,
     "salida": 0.07696,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-02",
+    "hora": "04:52"
   },
   {
     "par": "FORMUSDT",
@@ -285,7 +331,9 @@
     "resultado": "TP",
     "return_pct": 2.34,
     "salida": 0.26614,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-02",
+    "hora": "05:01"
   },
   {
     "par": "ARCUSDT",
@@ -297,7 +345,9 @@
     "resultado": "TP",
     "return_pct": 0.63,
     "salida": 0.066071,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-02",
+    "hora": "05:03"
   },
   {
     "par": "FFUSDT",
@@ -309,7 +359,9 @@
     "resultado": "TP",
     "return_pct": 1.07,
     "salida": 0.107134,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-02",
+    "hora": "05:04"
   },
   {
     "par": "LAUSDT",
@@ -321,7 +373,9 @@
     "resultado": "SL",
     "return_pct": -1.05,
     "salida": 0.06448,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-02",
+    "hora": "05:19"
   },
   {
     "par": "HEMIUSDT",
@@ -333,7 +387,9 @@
     "resultado": "TP",
     "return_pct": 1.14,
     "salida": 0.014671,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "05:13"
   },
   {
     "par": "XPINUSDT",
@@ -345,7 +401,9 @@
     "resultado": "SL",
     "return_pct": -0.67,
     "salida": 0.001043,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-02",
+    "hora": "05:37"
   },
   {
     "par": "TUSDT",
@@ -357,7 +415,9 @@
     "resultado": "SL",
     "return_pct": -1.6,
     "salida": 0.005018,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "13:42"
   },
   {
     "par": "LAUSDT",
@@ -369,7 +429,9 @@
     "resultado": "SL",
     "return_pct": -0.71,
     "salida": 0.065311,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "05:24"
   },
   {
     "par": "TUSDT",
@@ -381,7 +443,9 @@
     "resultado": "SL",
     "return_pct": -2.15,
     "salida": 0.005067,
-    "duracion": "37m"
+    "duracion": "37m",
+    "fecha": "2026-09-02",
+    "hora": "14:02"
   },
   {
     "par": "NAORISUSDT",
@@ -393,7 +457,9 @@
     "resultado": "TP",
     "return_pct": 0.72,
     "salida": 0.024543,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "05:32"
   },
   {
     "par": "4USDT",
@@ -405,7 +471,9 @@
     "resultado": "SL",
     "return_pct": -1.83,
     "salida": 0.013918,
-    "duracion": "23m"
+    "duracion": "23m",
+    "fecha": "2026-09-02",
+    "hora": "05:58"
   },
   {
     "par": "ZESTUSDT",
@@ -417,7 +485,9 @@
     "resultado": "SL",
     "return_pct": -0.52,
     "salida": 0.137254,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "05:59"
   },
   {
     "par": "TUSDT",
@@ -429,7 +499,9 @@
     "resultado": "SL",
     "return_pct": -1.65,
     "salida": 0.005569,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-02",
+    "hora": "06:51"
   },
   {
     "par": "BEAMXUSDT",
@@ -441,7 +513,9 @@
     "resultado": "SL",
     "return_pct": -0.78,
     "salida": 0.001541,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-02",
+    "hora": "07:02"
   },
   {
     "par": "USELESSUSDT",
@@ -453,7 +527,9 @@
     "resultado": "SL",
     "return_pct": -0.83,
     "salida": 0.102092,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "06:56"
   },
   {
     "par": "LITUSDT",
@@ -465,7 +541,9 @@
     "resultado": "TP",
     "return_pct": 0.66,
     "salida": 3.590337,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-09-02",
+    "hora": "07:25"
   },
   {
     "par": "USELESSUSDT",
@@ -477,7 +555,9 @@
     "resultado": "SL",
     "return_pct": -1.22,
     "salida": 0.105374,
-    "duracion": "49m"
+    "duracion": "49m",
+    "fecha": "2026-09-02",
+    "hora": "07:50"
   },
   {
     "par": "PORTALUSDT",
@@ -489,7 +569,9 @@
     "resultado": "SL",
     "return_pct": -0.5,
     "salida": 0.014141,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "07:12"
   },
   {
     "par": "NAORISUSDT",
@@ -501,7 +583,9 @@
     "resultado": "SL",
     "return_pct": -0.56,
     "salida": 0.02509,
-    "duracion": "1h 13m"
+    "duracion": "1h 13m",
+    "fecha": "2026-09-02",
+    "hora": "08:29"
   },
   {
     "par": "SKRUSDT",
@@ -517,7 +601,9 @@
     "resultado": "SL",
     "return_pct": -1.16,
     "salida": 0.022429,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-02",
+    "hora": "07:54"
   },
   {
     "par": "RUNEUSDT",
@@ -533,7 +619,9 @@
     "resultado": "TP",
     "return_pct": 0.46,
     "salida": 0.472619,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "08:51"
   },
   {
     "par": "SPXUSDT",
@@ -549,7 +637,9 @@
     "resultado": "TP",
     "return_pct": 0.64,
     "salida": 0.540458,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "08:49"
   },
   {
     "par": "AKEUSDT",
@@ -565,7 +655,9 @@
     "resultado": "SL",
     "return_pct": -1.85,
     "salida": 0.009912,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "08:50"
   },
   {
     "par": "AKEUSDT",
@@ -581,7 +673,9 @@
     "resultado": "SL",
     "return_pct": -2.59,
     "salida": 0.010812,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "09:05"
   },
   {
     "par": "ZKCUSDT",
@@ -597,7 +691,9 @@
     "resultado": "TP",
     "return_pct": 1.58,
     "salida": 0.052658,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "09:10"
   },
   {
     "par": "AKEUSDT",
@@ -613,7 +709,9 @@
     "resultado": "TP",
     "return_pct": 3.85,
     "salida": 0.010608,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-02",
+    "hora": "09:26"
   },
   {
     "par": "ARBUSDT",
@@ -629,7 +727,9 @@
     "resultado": "SL",
     "return_pct": -0.57,
     "salida": 0.114041,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-02",
+    "hora": "09:41"
   },
   {
     "par": "BROCCOLI714USDT",
@@ -645,7 +745,9 @@
     "resultado": "TP",
     "return_pct": 0.75,
     "salida": 0.016834,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-02",
+    "hora": "09:35"
   },
   {
     "par": "ASTERUSDT",
@@ -661,7 +763,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.7348,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "09:37"
   },
   {
     "par": "BULLAUSDT",
@@ -677,7 +781,9 @@
     "resultado": "TP",
     "return_pct": 1.09,
     "salida": 0.020384,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "09:42"
   },
   {
     "par": "ROBOUSDT",
@@ -693,7 +799,9 @@
     "resultado": "TP",
     "return_pct": 1.17,
     "salida": 0.014501,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-02",
+    "hora": "09:59"
   },
   {
     "par": "XPINUSDT",
@@ -709,7 +817,9 @@
     "resultado": "TP",
     "return_pct": 0.78,
     "salida": 0.001045,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-04",
+    "hora": "21:11"
   },
   {
     "par": "TSTUSDT",
@@ -725,7 +835,9 @@
     "resultado": "TP",
     "return_pct": 0.69,
     "salida": 0.015821,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "09:58"
   },
   {
     "par": "XVGUSDT",
@@ -741,7 +853,9 @@
     "resultado": "TP",
     "return_pct": 0.7,
     "salida": 0.002623,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-02",
+    "hora": "10:12"
   },
   {
     "par": "BMTUSDT",
@@ -757,7 +871,9 @@
     "resultado": "SL",
     "return_pct": -1.9,
     "salida": 0.02003,
-    "duracion": "3h 57m"
+    "duracion": "3h 57m",
+    "fecha": "2026-09-02",
+    "hora": "14:04"
   },
   {
     "par": "AKEUSDT",
@@ -773,7 +889,9 @@
     "resultado": "SL",
     "return_pct": -3.91,
     "salida": 0.009854,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-02",
+    "hora": "10:24"
   },
   {
     "par": "0GUSDT",
@@ -789,7 +907,9 @@
     "resultado": "SL",
     "return_pct": -0.33,
     "salida": 0.1828,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "10:25"
   },
   {
     "par": "GIGGLEUSDT",
@@ -805,7 +925,9 @@
     "resultado": "SL",
     "return_pct": -0.69,
     "salida": 36.34,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "10:30"
   },
   {
     "par": "4USDT",
@@ -821,7 +943,9 @@
     "resultado": "TP",
     "return_pct": 1.4,
     "salida": 0.014415,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "10:31"
   },
   {
     "par": "FFUSDT",
@@ -837,7 +961,9 @@
     "resultado": "TP",
     "return_pct": 0.74,
     "salida": 0.107322,
-    "duracion": "1h 13m"
+    "duracion": "1h 13m",
+    "fecha": "2026-09-02",
+    "hora": "11:48"
   },
   {
     "par": "LAUSDT",
@@ -853,7 +979,9 @@
     "resultado": "SL",
     "return_pct": -0.92,
     "salida": 0.06835,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "10:37"
   },
   {
     "par": "SKRUSDT",
@@ -869,7 +997,9 @@
     "resultado": "SL",
     "return_pct": -1.14,
     "salida": 0.024166,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "10:59"
   },
   {
     "par": "SKYAIUSDT",
@@ -885,7 +1015,9 @@
     "resultado": "SL",
     "return_pct": -0.87,
     "salida": 0.05751,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "11:05"
   },
   {
     "par": "MUBARAKUSDT",
@@ -901,7 +1033,9 @@
     "resultado": "TP",
     "return_pct": 1.9,
     "salida": 0.027743,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-02",
+    "hora": "11:12"
   },
   {
     "par": "USELESSUSDT",
@@ -917,7 +1051,9 @@
     "resultado": "TP",
     "return_pct": 2.82,
     "salida": 0.130671,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "11:16"
   },
   {
     "par": "TUSDT",
@@ -933,7 +1069,9 @@
     "resultado": "SL",
     "return_pct": -1.1,
     "salida": 0.005193,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-02",
+    "hora": "11:29"
   },
   {
     "par": "1000000BOBUSDT",
@@ -949,7 +1087,9 @@
     "resultado": "TP",
     "return_pct": 0.36,
     "salida": 0.016142,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-02",
+    "hora": "11:53"
   },
   {
     "par": "BLESSUSDT",
@@ -965,7 +1105,9 @@
     "resultado": "SL",
     "return_pct": -0.46,
     "salida": 0.008673,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-02",
+    "hora": "12:22"
   },
   {
     "par": "MARSCOINUSDT",
@@ -981,7 +1123,9 @@
     "resultado": "TP",
     "return_pct": 2.35,
     "salida": 0.058396,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-02",
+    "hora": "13:06"
   },
   {
     "par": "XVGUSDT",
@@ -997,7 +1141,9 @@
     "resultado": "SL",
     "return_pct": -3.24,
     "salida": 0.00275,
-    "duracion": "51m"
+    "duracion": "51m",
+    "fecha": "2026-09-02",
+    "hora": "13:43"
   },
   {
     "par": "MARSCOINUSDT",
@@ -1013,7 +1159,9 @@
     "resultado": "SL",
     "return_pct": -1.93,
     "salida": 0.061,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-02",
+    "hora": "13:06"
   },
   {
     "par": "BASEDUSDT",
@@ -1029,7 +1177,9 @@
     "resultado": "TP",
     "return_pct": 0.51,
     "salida": 0.06825,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-02",
+    "hora": "13:15"
   },
   {
     "par": "ZORAUSDT",
@@ -1045,7 +1195,9 @@
     "resultado": "TP",
     "return_pct": 0.64,
     "salida": 0.007329,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "18:16"
   },
   {
     "par": "TUSDT",
@@ -1061,7 +1213,9 @@
     "resultado": "TP",
     "return_pct": 1.37,
     "salida": 0.00488,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-02",
+    "hora": "13:42"
   },
   {
     "par": "AKEUSDT",
@@ -1077,7 +1231,9 @@
     "resultado": "SL",
     "return_pct": -2.27,
     "salida": 0.018344,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-02",
+    "hora": "14:04"
   },
   {
     "par": "XVGUSDT",
@@ -1093,7 +1249,9 @@
     "resultado": "SL",
     "return_pct": -1.57,
     "salida": 0.002799,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-02",
+    "hora": "13:57"
   },
   {
     "par": "TUSDT",
@@ -1109,7 +1267,9 @@
     "resultado": "SL",
     "return_pct": -0.81,
     "salida": 0.005034,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "14:02"
   },
   {
     "par": "MAGMAUSDT",
@@ -1125,7 +1285,9 @@
     "resultado": "TP",
     "return_pct": 1.68,
     "salida": 0.54389,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-02",
+    "hora": "14:20"
   },
   {
     "par": "JUPUSDT",
@@ -1141,7 +1303,9 @@
     "resultado": "SL",
     "return_pct": -0.69,
     "salida": 0.2167,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "14:06"
   },
   {
     "par": "TAKEUSDT",
@@ -1157,7 +1321,9 @@
     "resultado": "SL",
     "return_pct": -1.34,
     "salida": 0.05949,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-02",
+    "hora": "14:14"
   },
   {
     "par": "CYSUSDT",
@@ -1173,7 +1339,9 @@
     "resultado": "TP",
     "return_pct": 1.31,
     "salida": 0.35791,
-    "duracion": "35m"
+    "duracion": "35m",
+    "fecha": "2026-09-02",
+    "hora": "14:45"
   },
   {
     "par": "XVGUSDT",
@@ -1189,7 +1357,9 @@
     "resultado": "TP",
     "return_pct": 2.35,
     "salida": 0.00285,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "14:18"
   },
   {
     "par": "BRUSDT",
@@ -1205,7 +1375,9 @@
     "resultado": "TP",
     "return_pct": 0.56,
     "salida": 0.212101,
-    "duracion": "42m"
+    "duracion": "42m",
+    "fecha": "2026-09-02",
+    "hora": "16:09"
   },
   {
     "par": "OUSDT",
@@ -1221,7 +1393,9 @@
     "resultado": "TP",
     "return_pct": 1.33,
     "salida": 0.550201,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "15:50"
   },
   {
     "par": "XNYUSDT",
@@ -1237,7 +1411,9 @@
     "resultado": "TP",
     "return_pct": 1.19,
     "salida": 0.006494,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "15:53"
   },
   {
     "par": "JELLYJELLYUSDT",
@@ -1253,7 +1429,9 @@
     "resultado": "TP",
     "return_pct": 0.4,
     "salida": 0.05725,
-    "duracion": "1h 53m"
+    "duracion": "1h 53m",
+    "fecha": "2026-09-02",
+    "hora": "17:49"
   },
   {
     "par": "MARSCOINUSDT",
@@ -1269,7 +1447,9 @@
     "resultado": "TP",
     "return_pct": 1.17,
     "salida": 0.065435,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-02",
+    "hora": "16:11"
   },
   {
     "par": "DASHUSDT",
@@ -1285,7 +1465,9 @@
     "resultado": "SL",
     "return_pct": -0.58,
     "salida": 43.13,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "16:20"
   },
   {
     "par": "RESOLVUSDT",
@@ -1301,7 +1483,9 @@
     "resultado": "TP",
     "return_pct": 0.42,
     "salida": 0.016701,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-02",
+    "hora": "16:33"
   },
   {
     "par": "BULLAUSDT",
@@ -1317,7 +1501,9 @@
     "resultado": "SL",
     "return_pct": -2.24,
     "salida": 0.027263,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "16:37"
   },
   {
     "par": "AKEUSDT",
@@ -1333,7 +1519,9 @@
     "resultado": "SL",
     "return_pct": -2.59,
     "salida": 0.025139,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "16:41"
   },
   {
     "par": "AKEUSDT",
@@ -1349,7 +1537,9 @@
     "resultado": "SL",
     "return_pct": -14.03,
     "salida": 0.030677,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "16:44"
   },
   {
     "par": "BULLAUSDT",
@@ -1365,7 +1555,9 @@
     "resultado": "SL",
     "return_pct": -1.61,
     "salida": 0.028264,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "16:44"
   },
   {
     "par": "LAUSDT",
@@ -1381,7 +1573,9 @@
     "resultado": "TP",
     "return_pct": 0.76,
     "salida": 0.062545,
-    "duracion": "28m"
+    "duracion": "28m",
+    "fecha": "2026-09-02",
+    "hora": "17:14"
   },
   {
     "par": "AKEUSDT",
@@ -1397,7 +1591,9 @@
     "resultado": "TP",
     "return_pct": 26.9,
     "salida": 0.02336,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "16:48"
   },
   {
     "par": "COLLECTUSDT",
@@ -1413,7 +1609,9 @@
     "resultado": "TP",
     "return_pct": 4.6,
     "salida": 0.08042,
-    "duracion": "58m"
+    "duracion": "58m",
+    "fecha": "2026-09-02",
+    "hora": "17:47"
   },
   {
     "par": "BRUSDT",
@@ -1429,7 +1627,9 @@
     "resultado": "SL",
     "return_pct": -0.86,
     "salida": 0.239268,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "17:15"
   },
   {
     "par": "ZORAUSDT",
@@ -1445,7 +1645,9 @@
     "resultado": "TP",
     "return_pct": 0.52,
     "salida": 0.007334,
-    "duracion": "1h 0m"
+    "duracion": "1h 0m",
+    "fecha": "2026-09-02",
+    "hora": "18:16"
   },
   {
     "par": "牛来USDT",
@@ -1461,7 +1663,9 @@
     "resultado": "SL",
     "return_pct": -3.44,
     "salida": 0.0767,
-    "duracion": "23m"
+    "duracion": "23m",
+    "fecha": "2026-09-02",
+    "hora": "18:30"
   },
   {
     "par": "PYTHUSDT",
@@ -1477,7 +1681,9 @@
     "resultado": "TP",
     "return_pct": 0.43,
     "salida": 0.056877,
-    "duracion": "21m"
+    "duracion": "21m",
+    "fecha": "2026-09-02",
+    "hora": "18:32"
   },
   {
     "par": "FLOCKUSDT",
@@ -1493,7 +1699,9 @@
     "resultado": "SL",
     "return_pct": -1.61,
     "salida": 0.03781,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "18:27"
   },
   {
     "par": "FLOCKUSDT",
@@ -1509,7 +1717,9 @@
     "resultado": "TP",
     "return_pct": 2.75,
     "salida": 0.038347,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "18:35"
   },
   {
     "par": "牛来USDT",
@@ -1525,7 +1735,9 @@
     "resultado": "SL",
     "return_pct": -1.68,
     "salida": 0.07863,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-02",
+    "hora": "18:59"
   },
   {
     "par": "BULLAUSDT",
@@ -1541,7 +1753,9 @@
     "resultado": "SL",
     "return_pct": -2.04,
     "salida": 0.021811,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "18:48"
   },
   {
     "par": "AIAUSDT",
@@ -1557,7 +1771,9 @@
     "resultado": "SL",
     "return_pct": -2.21,
     "salida": 0.07929,
-    "duracion": "25h 29m"
+    "duracion": "25h 29m",
+    "fecha": "2026-09-03",
+    "hora": "20:21"
   },
   {
     "par": "ESPORTSUSDT",
@@ -1573,7 +1789,9 @@
     "resultado": "TP",
     "return_pct": 0.53,
     "salida": 0.014781,
-    "duracion": "29m"
+    "duracion": "29m",
+    "fecha": "2026-09-02",
+    "hora": "19:21"
   },
   {
     "par": "FHEUSDT",
@@ -1589,7 +1807,9 @@
     "resultado": "SL",
     "return_pct": -1.16,
     "salida": 0.02151,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "19:03"
   },
   {
     "par": "HEIUSDT",
@@ -1605,7 +1825,9 @@
     "resultado": "SL",
     "return_pct": -0.46,
     "salida": 0.14346,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-02",
+    "hora": "19:12"
   },
   {
     "par": "KERNELUSDT",
@@ -1621,7 +1843,9 @@
     "resultado": "TP",
     "return_pct": 0.36,
     "salida": 0.036707,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "19:15"
   },
   {
     "par": "PUNDIXUSDT",
@@ -1637,7 +1861,9 @@
     "resultado": "TP",
     "return_pct": 0.68,
     "salida": 0.090184,
-    "duracion": "43m"
+    "duracion": "43m",
+    "fecha": "2026-09-02",
+    "hora": "20:02"
   },
   {
     "par": "ORDERUSDT",
@@ -1653,7 +1879,9 @@
     "resultado": "TP",
     "return_pct": 0.91,
     "salida": 0.035013,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-02",
+    "hora": "19:34"
   },
   {
     "par": "BULLAUSDT",
@@ -1669,7 +1897,9 @@
     "resultado": "SL",
     "return_pct": -1.65,
     "salida": 0.02328,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "19:47"
   },
   {
     "par": "SKRUSDT",
@@ -1685,7 +1915,9 @@
     "resultado": "TP",
     "return_pct": 2.0,
     "salida": 0.022636,
-    "duracion": "50m"
+    "duracion": "50m",
+    "fecha": "2026-09-02",
+    "hora": "20:40"
   },
   {
     "par": "TUTUSDT",
@@ -1701,7 +1933,9 @@
     "resultado": "SL",
     "return_pct": -0.45,
     "salida": 0.024951,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "20:14"
   },
   {
     "par": "REDUSDT",
@@ -1717,7 +1951,9 @@
     "resultado": "SL",
     "return_pct": -1.55,
     "salida": 0.1222,
-    "duracion": "27m"
+    "duracion": "27m",
+    "fecha": "2026-09-02",
+    "hora": "20:52"
   },
   {
     "par": "LISTAUSDT",
@@ -1733,7 +1969,9 @@
     "resultado": "SL",
     "return_pct": -1.37,
     "salida": 0.06954,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "20:51"
   },
   {
     "par": "BTRUSDT",
@@ -1749,7 +1987,9 @@
     "resultado": "SL",
     "return_pct": -0.81,
     "salida": 0.04584,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "20:52"
   },
   {
     "par": "SOLVUSDT",
@@ -1765,7 +2005,9 @@
     "resultado": "TP",
     "return_pct": 0.43,
     "salida": 0.003012,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "21:09"
   },
   {
     "par": "CGPTUSDT",
@@ -1781,7 +2023,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.01945,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-02",
+    "hora": "21:23"
   },
   {
     "par": "TSTUSDT",
@@ -1797,7 +2041,9 @@
     "resultado": "SL",
     "return_pct": -0.77,
     "salida": 0.01697,
-    "duracion": "24m"
+    "duracion": "24m",
+    "fecha": "2026-09-02",
+    "hora": "21:44"
   },
   {
     "par": "SUIUSDT",
@@ -1813,7 +2059,9 @@
     "resultado": "TP",
     "return_pct": 0.66,
     "salida": 0.769339,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-02",
+    "hora": "21:26"
   },
   {
     "par": "BULLAUSDT",
@@ -1829,7 +2077,9 @@
     "resultado": "TP",
     "return_pct": 1.22,
     "salida": 0.023589,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "21:27"
   },
   {
     "par": "MERLUSDT",
@@ -1845,7 +2095,9 @@
     "resultado": "TP",
     "return_pct": 0.68,
     "salida": 0.021047,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-02",
+    "hora": "21:37"
   },
   {
     "par": "DOODUSDT",
@@ -1861,7 +2113,9 @@
     "resultado": "TP",
     "return_pct": 0.4,
     "salida": 0.001327,
-    "duracion": "2h 43m"
+    "duracion": "2h 43m",
+    "fecha": "2026-09-03",
+    "hora": "00:24"
   },
   {
     "par": "MUBARAKUSDT",
@@ -1877,7 +2131,9 @@
     "resultado": "SL",
     "return_pct": -1.58,
     "salida": 0.02969,
-    "duracion": "12m"
+    "duracion": "12m",
+    "fecha": "2026-09-02",
+    "hora": "21:56"
   },
   {
     "par": "ELSAUSDT",
@@ -1893,7 +2149,9 @@
     "resultado": "TP",
     "return_pct": 0.44,
     "salida": 0.04571,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-02",
+    "hora": "22:10"
   },
   {
     "par": "BTRUSDT",
@@ -1909,7 +2167,9 @@
     "resultado": "TP",
     "return_pct": 1.31,
     "salida": 0.044725,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-02",
+    "hora": "22:18"
   },
   {
     "par": "CGPTUSDT",
@@ -1925,7 +2185,9 @@
     "resultado": "TP",
     "return_pct": 0.86,
     "salida": 0.019581,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-02",
+    "hora": "22:21"
   },
   {
     "par": "CYSUSDT",
@@ -1941,7 +2203,9 @@
     "resultado": "TP",
     "return_pct": 1.17,
     "salida": 0.324317,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-09-02",
+    "hora": "22:49"
   },
   {
     "par": "MAGMAUSDT",
@@ -1957,7 +2221,9 @@
     "resultado": "TP",
     "return_pct": 2.22,
     "salida": 0.416185,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-02",
+    "hora": "23:02"
   },
   {
     "par": "BTWUSDT",
@@ -1973,7 +2239,9 @@
     "resultado": "TP",
     "return_pct": 0.8,
     "salida": 0.482474,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-02",
+    "hora": "23:12"
   },
   {
     "par": "ESPORTSUSDT",
@@ -1989,7 +2257,9 @@
     "resultado": "TP",
     "return_pct": 0.72,
     "salida": 0.014604,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-02",
+    "hora": "23:30"
   },
   {
     "par": "KOMAUSDT",
@@ -2005,7 +2275,9 @@
     "resultado": "SL",
     "return_pct": -3.24,
     "salida": 0.013827,
-    "duracion": "42h 7m"
+    "duracion": "42h 7m",
+    "fecha": "2026-09-04",
+    "hora": "17:40"
   },
   {
     "par": "CAPUSDT",
@@ -2021,7 +2293,9 @@
     "resultado": "TP",
     "return_pct": 1.44,
     "salida": 0.06752,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-03",
+    "hora": "00:42"
   },
   {
     "par": "TAGUSDT",
@@ -2037,7 +2311,9 @@
     "resultado": "TP",
     "return_pct": 1.42,
     "salida": 0.000687,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "00:47"
   },
   {
     "par": "MARSCOINUSDT",
@@ -2053,7 +2329,9 @@
     "resultado": "SL",
     "return_pct": -3.32,
     "salida": 0.09492,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-03",
+    "hora": "00:58"
   },
   {
     "par": "STBLUSDT",
@@ -2069,7 +2347,9 @@
     "resultado": "SL",
     "return_pct": -1.12,
     "salida": 0.02583,
-    "duracion": "1h 13m"
+    "duracion": "1h 13m",
+    "fecha": "2026-09-03",
+    "hora": "02:13"
   },
   {
     "par": "MARSCOINUSDT",
@@ -2085,7 +2365,9 @@
     "resultado": "SL",
     "return_pct": -1.93,
     "salida": 0.102581,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "02:17"
   },
   {
     "par": "AGTUSDT",
@@ -2101,7 +2383,9 @@
     "resultado": "SL",
     "return_pct": -0.5,
     "salida": 0.017029,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-03",
+    "hora": "02:22"
   },
   {
     "par": "MARSCOINUSDT",
@@ -2117,7 +2401,9 @@
     "resultado": "TP",
     "return_pct": 3.73,
     "salida": 0.103297,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "02:25"
   },
   {
     "par": "UAIUSDT",
@@ -2133,7 +2419,9 @@
     "resultado": "SL",
     "return_pct": -2.7,
     "salida": 0.386742,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-03",
+    "hora": "02:32"
   },
   {
     "par": "UAIUSDT",
@@ -2149,7 +2437,9 @@
     "resultado": "TP",
     "return_pct": 5.03,
     "salida": 0.391327,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-03",
+    "hora": "02:44"
   },
   {
     "par": "MEWUSDT",
@@ -2165,7 +2455,9 @@
     "resultado": "TP",
     "return_pct": 0.33,
     "salida": 0.000413,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "02:47"
   },
   {
     "par": "RECALLUSDT",
@@ -2181,7 +2473,9 @@
     "resultado": "TP",
     "return_pct": 0.77,
     "salida": 0.038562,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "02:49"
   },
   {
     "par": "FLOCKUSDT",
@@ -2197,7 +2491,9 @@
     "resultado": "TP",
     "return_pct": 0.92,
     "salida": 0.036534,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "03:01"
   },
   {
     "par": "LSKUSDT",
@@ -2213,7 +2509,9 @@
     "resultado": "TP",
     "return_pct": 0.34,
     "salida": 0.101204,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-03",
+    "hora": "03:13"
   },
   {
     "par": "BTRUSDT",
@@ -2229,7 +2527,9 @@
     "resultado": "SL",
     "return_pct": -0.76,
     "salida": 0.045306,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "03:31"
   },
   {
     "par": "BTWUSDT",
@@ -2245,7 +2545,9 @@
     "resultado": "TP",
     "return_pct": 2.62,
     "salida": 0.441112,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-03",
+    "hora": "03:47"
   },
   {
     "par": "BRUSDT",
@@ -2261,7 +2563,9 @@
     "resultado": "SL",
     "return_pct": -1.09,
     "salida": 0.301004,
-    "duracion": "28m"
+    "duracion": "28m",
+    "fecha": "2026-09-03",
+    "hora": "04:17"
   },
   {
     "par": "FLOCKUSDT",
@@ -2277,7 +2581,9 @@
     "resultado": "SL",
     "return_pct": -2.21,
     "salida": 0.03756,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-03",
+    "hora": "04:23"
   },
   {
     "par": "WETUSDT",
@@ -2293,7 +2599,9 @@
     "resultado": "SL",
     "return_pct": -1.46,
     "salida": 0.06172,
-    "duracion": "1h 29m"
+    "duracion": "1h 29m",
+    "fecha": "2026-09-03",
+    "hora": "05:59"
   },
   {
     "par": "ROBOUSDT",
@@ -2309,7 +2617,9 @@
     "resultado": "TP",
     "return_pct": 0.81,
     "salida": 0.011616,
-    "duracion": "56m"
+    "duracion": "56m",
+    "fecha": "2026-09-03",
+    "hora": "07:16"
   },
   {
     "par": "OUSDT",
@@ -2325,7 +2635,9 @@
     "resultado": "TP",
     "return_pct": 0.95,
     "salida": 0.569392,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-03",
+    "hora": "07:28"
   },
   {
     "par": "ONGUSDT",
@@ -2341,7 +2653,9 @@
     "resultado": "TP",
     "return_pct": 2.16,
     "salida": 0.101374,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-03",
+    "hora": "08:21"
   },
   {
     "par": "JCTUSDT",
@@ -2357,7 +2671,9 @@
     "resultado": "TP",
     "return_pct": 0.89,
     "salida": 0.001895,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "08:04"
   },
   {
     "par": "SKYAIUSDT",
@@ -2373,7 +2689,9 @@
     "resultado": "TP",
     "return_pct": 0.66,
     "salida": 0.057371,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-03",
+    "hora": "08:49"
   },
   {
     "par": "PORTALUSDT",
@@ -2389,7 +2707,9 @@
     "resultado": "TP",
     "return_pct": 2.1,
     "salida": 0.015358,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "08:51"
   },
   {
     "par": "PORTALUSDT",
@@ -2405,7 +2725,9 @@
     "resultado": "SL",
     "return_pct": -1.57,
     "salida": 0.0166,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "09:09"
   },
   {
     "par": "PORTALUSDT",
@@ -2421,7 +2743,9 @@
     "resultado": "TP",
     "return_pct": 2.5,
     "salida": 0.016302,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "09:17"
   },
   {
     "par": "ETHFIUSDT",
@@ -2437,7 +2761,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.5754,
-    "duracion": "31m"
+    "duracion": "31m",
+    "fecha": "2026-09-03",
+    "hora": "09:55"
   },
   {
     "par": "MEMEUSDT",
@@ -2453,7 +2779,9 @@
     "resultado": "TP",
     "return_pct": 0.78,
     "salida": 0.000542,
-    "duracion": "35m"
+    "duracion": "35m",
+    "fecha": "2026-09-03",
+    "hora": "10:37"
   },
   {
     "par": "UNIUSDT",
@@ -2469,7 +2797,9 @@
     "resultado": "TP",
     "return_pct": 0.67,
     "salida": 6.225415,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-03",
+    "hora": "10:49"
   },
   {
     "par": "UMAUSDT",
@@ -2485,7 +2815,9 @@
     "resultado": "TP",
     "return_pct": 0.91,
     "salida": 0.371509,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "11:02"
   },
   {
     "par": "CTKUSDT",
@@ -2501,7 +2833,9 @@
     "resultado": "TP",
     "return_pct": 0.72,
     "salida": 0.11656,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-09-03",
+    "hora": "11:28"
   },
   {
     "par": "TAUSDT",
@@ -2517,7 +2851,9 @@
     "resultado": "SL",
     "return_pct": -0.7,
     "salida": 0.0625,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "11:39"
   },
   {
     "par": "龙虾USDT",
@@ -2533,7 +2869,9 @@
     "resultado": "TP",
     "return_pct": 0.75,
     "salida": 0.073021,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-03",
+    "hora": "11:44"
   },
   {
     "par": "TOWNSUSDT",
@@ -2549,7 +2887,9 @@
     "resultado": "TP",
     "return_pct": 0.4,
     "salida": 0.002527,
-    "duracion": "1h 6m"
+    "duracion": "1h 6m",
+    "fecha": "2026-09-03",
+    "hora": "13:00"
   },
   {
     "par": "LITUSDT",
@@ -2565,7 +2905,9 @@
     "resultado": "SL",
     "return_pct": -0.44,
     "salida": 4.271531,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "13:10"
   },
   {
     "par": "牛来USDT",
@@ -2581,7 +2923,9 @@
     "resultado": "TP",
     "return_pct": 1.43,
     "salida": 0.090863,
-    "duracion": "20m"
+    "duracion": "20m",
+    "fecha": "2026-09-03",
+    "hora": "14:14"
   },
   {
     "par": "BTWUSDT",
@@ -2597,7 +2941,9 @@
     "resultado": "SL",
     "return_pct": -1.0,
     "salida": 0.404516,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-08-28",
+    "hora": "19:31"
   },
   {
     "par": "EDGEUSDT",
@@ -2613,7 +2959,9 @@
     "resultado": "SL",
     "return_pct": -1.1,
     "salida": 0.383501,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-08-28",
+    "hora": "21:46"
   },
   {
     "par": "AGTUSDT",
@@ -2629,7 +2977,9 @@
     "resultado": "SL",
     "return_pct": -1.38,
     "salida": 0.01567,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-08-29",
+    "hora": "06:36"
   },
   {
     "par": "ONTUSDT",
@@ -2645,7 +2995,9 @@
     "resultado": "TP",
     "return_pct": 1.93,
     "salida": 0.057968,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-08-29",
+    "hora": "09:22"
   },
   {
     "par": "GRVTUSDT",
@@ -2661,7 +3013,9 @@
     "resultado": "TP",
     "return_pct": 2.63,
     "salida": 0.177533,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-08-29",
+    "hora": "11:38"
   },
   {
     "par": "BMTUSDT",
@@ -2677,7 +3031,9 @@
     "resultado": "SL",
     "return_pct": -1.66,
     "salida": 0.022278,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-08-29",
+    "hora": "14:03"
   },
   {
     "par": "BMTUSDT",
@@ -2693,7 +3049,9 @@
     "resultado": "SL",
     "return_pct": -1.66,
     "salida": 0.022278,
-    "duracion": "3h 5m"
+    "duracion": "3h 5m",
+    "fecha": "2026-08-29",
+    "hora": "14:03"
   },
   {
     "par": "LISTAUSDT",
@@ -2709,7 +3067,9 @@
     "resultado": "TP",
     "return_pct": 2.88,
     "salida": 0.070252,
-    "duracion": "41m"
+    "duracion": "41m",
+    "fecha": "2026-08-29",
+    "hora": "16:49"
   },
   {
     "par": "MANTRAUSDT",
@@ -2725,7 +3085,9 @@
     "resultado": "SL",
     "return_pct": -0.95,
     "salida": 0.004274,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-08-29",
+    "hora": "16:49"
   },
   {
     "par": "DOLOUSDT",
@@ -2741,7 +3103,9 @@
     "resultado": "SL",
     "return_pct": -2.06,
     "salida": 0.024981,
-    "duracion": "11h 21m"
+    "duracion": "11h 21m",
+    "fecha": "2026-08-29",
+    "hora": "21:31"
   },
   {
     "par": "UAIUSDT",
@@ -2757,7 +3121,9 @@
     "resultado": "TP",
     "return_pct": 1.38,
     "salida": 0.283438,
-    "duracion": "46m"
+    "duracion": "46m",
+    "fecha": "2026-08-29",
+    "hora": "22:47"
   },
   {
     "par": "ACUUSDT",
@@ -2773,7 +3139,9 @@
     "resultado": "TP",
     "return_pct": 1.85,
     "salida": 0.129507,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-08-29",
+    "hora": "23:53"
   },
   {
     "par": "ZAMAUSDT",
@@ -2789,7 +3157,9 @@
     "resultado": "SL",
     "return_pct": -0.65,
     "salida": 0.05683,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-03",
+    "hora": "14:37"
   },
   {
     "par": "UAIUSDT",
@@ -2805,7 +3175,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.277323,
-    "duracion": "29m"
+    "duracion": "29m",
+    "fecha": "2026-08-29",
+    "hora": "22:47"
   },
   {
     "par": "ACUUSDT",
@@ -2821,7 +3193,9 @@
     "resultado": "TP",
     "return_pct": 1.87,
     "salida": 0.129576,
-    "duracion": "20m"
+    "duracion": "20m",
+    "fecha": "2026-08-29",
+    "hora": "23:53"
   },
   {
     "par": "B2USDT",
@@ -2837,7 +3211,9 @@
     "resultado": "TP",
     "return_pct": 1.33,
     "salida": 0.455001,
-    "duracion": "8h 14m"
+    "duracion": "8h 14m",
+    "fecha": "2026-08-30",
+    "hora": "11:11"
   },
   {
     "par": "LAUSDT",
@@ -2853,7 +3229,9 @@
     "resultado": "TP",
     "return_pct": 2.77,
     "salida": 0.058204,
-    "duracion": "26m"
+    "duracion": "26m",
+    "fecha": "2026-08-30",
+    "hora": "19:13"
   },
   {
     "par": "JCTUSDT",
@@ -2869,7 +3247,9 @@
     "resultado": "TP",
     "return_pct": 3.72,
     "salida": 0.00191,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-08-31",
+    "hora": "00:18"
   },
   {
     "par": "WALUSDT",
@@ -2885,7 +3265,9 @@
     "resultado": "TP",
     "return_pct": 2.1,
     "salida": 0.024739,
-    "duracion": "4h 1m"
+    "duracion": "4h 1m",
+    "fecha": "2026-09-01",
+    "hora": "08:33"
   },
   {
     "par": "AKEUSDT",
@@ -2901,7 +3283,9 @@
     "resultado": "TP",
     "return_pct": 2.37,
     "salida": 0.016554,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-03",
+    "hora": "14:56"
   },
   {
     "par": "UAIUSDT",
@@ -2917,7 +3301,9 @@
     "resultado": "TP",
     "return_pct": 0.73,
     "salida": 0.347562,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-03",
+    "hora": "15:33"
   },
   {
     "par": "HUSDT",
@@ -2933,7 +3319,9 @@
     "resultado": "TP",
     "return_pct": 0.34,
     "salida": 0.078772,
-    "duracion": "22m"
+    "duracion": "22m",
+    "fecha": "2026-09-03",
+    "hora": "16:31"
   },
   {
     "par": "UNIUSDT",
@@ -2949,7 +3337,9 @@
     "resultado": "TP",
     "return_pct": 0.99,
     "salida": 6.387718,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "16:35"
   },
   {
     "par": "CHIPUSDT",
@@ -2965,7 +3355,9 @@
     "resultado": "TP",
     "return_pct": 0.74,
     "salida": 0.056137,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-03",
+    "hora": "17:06"
   },
   {
     "par": "CLOUSDT",
@@ -2981,7 +3373,9 @@
     "resultado": "SL",
     "return_pct": -2.28,
     "salida": 0.147,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "18:47"
   },
   {
     "par": "PROMUSDT",
@@ -2997,7 +3391,9 @@
     "resultado": "SL",
     "return_pct": -0.77,
     "salida": 5.036,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-03",
+    "hora": "18:50"
   },
   {
     "par": "MARSCOINUSDT",
@@ -3013,7 +3409,9 @@
     "resultado": "TP",
     "return_pct": 4.22,
     "salida": 0.122577,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-03",
+    "hora": "19:11"
   },
   {
     "par": "LAUSDT",
@@ -3029,7 +3427,9 @@
     "resultado": "SL",
     "return_pct": -1.35,
     "salida": 0.06433,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "19:14"
   },
   {
     "par": "VANAUSDT",
@@ -3045,7 +3445,9 @@
     "resultado": "SL",
     "return_pct": -0.7,
     "salida": 0.9303,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "19:18"
   },
   {
     "par": "BIRBUSDT",
@@ -3061,7 +3463,9 @@
     "resultado": "TP",
     "return_pct": 0.86,
     "salida": 0.059061,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-03",
+    "hora": "19:28"
   },
   {
     "par": "UAIUSDT",
@@ -3077,7 +3481,9 @@
     "resultado": "SL",
     "return_pct": -0.53,
     "salida": 0.360598,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "19:39"
   },
   {
     "par": "龙虾USDT",
@@ -3093,7 +3499,9 @@
     "resultado": "TP",
     "return_pct": 1.03,
     "salida": 0.074282,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "19:51"
   },
   {
     "par": "REUSDT",
@@ -3109,7 +3517,9 @@
     "resultado": "SL",
     "return_pct": -0.4,
     "salida": 0.4715,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "20:16"
   },
   {
     "par": "BTRUSDT",
@@ -3125,7 +3535,9 @@
     "resultado": "TP",
     "return_pct": 2.03,
     "salida": 0.052768,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-03",
+    "hora": "20:30"
   },
   {
     "par": "牛来USDT",
@@ -3141,7 +3553,9 @@
     "resultado": "SL",
     "return_pct": -1.02,
     "salida": 0.095544,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-03",
+    "hora": "20:50"
   },
   {
     "par": "CYSUSDT",
@@ -3157,7 +3571,9 @@
     "resultado": "TP",
     "return_pct": 1.43,
     "salida": 0.251894,
-    "duracion": "29m"
+    "duracion": "29m",
+    "fecha": "2026-09-03",
+    "hora": "21:14"
   },
   {
     "par": "4USDT",
@@ -3173,7 +3589,9 @@
     "resultado": "SL",
     "return_pct": -0.78,
     "salida": 0.016912,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-03",
+    "hora": "21:14"
   },
   {
     "par": "FLOCKUSDT",
@@ -3189,7 +3607,9 @@
     "resultado": "TP",
     "return_pct": 1.2,
     "salida": 0.041688,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "21:24"
   },
   {
     "par": "EDGEUSDT",
@@ -3205,7 +3625,9 @@
     "resultado": "TP",
     "return_pct": 2.15,
     "salida": 0.638652,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "21:30"
   },
   {
     "par": "GRIFFAINUSDT",
@@ -3221,7 +3643,9 @@
     "resultado": "SL",
     "return_pct": -0.37,
     "salida": 0.012523,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "21:31"
   },
   {
     "par": "AZTECUSDT",
@@ -3237,7 +3661,9 @@
     "resultado": "TP",
     "return_pct": 0.56,
     "salida": 0.013962,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-03",
+    "hora": "21:43"
   },
   {
     "par": "GRIFFAINUSDT",
@@ -3253,7 +3679,9 @@
     "resultado": "SL",
     "return_pct": -0.84,
     "salida": 0.012888,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "21:46"
   },
   {
     "par": "MANTAUSDT",
@@ -3269,7 +3697,9 @@
     "resultado": "TP",
     "return_pct": 2.13,
     "salida": 0.060012,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-03",
+    "hora": "22:08"
   },
   {
     "par": "CAPUSDT",
@@ -3285,7 +3715,9 @@
     "resultado": "SL",
     "return_pct": -2.05,
     "salida": 0.04921,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-09-03",
+    "hora": "22:17"
   },
   {
     "par": "TRIAUSDT",
@@ -3301,7 +3733,9 @@
     "resultado": "SL",
     "return_pct": -0.95,
     "salida": 0.004506,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "12:44"
   },
   {
     "par": "TRIAUSDT",
@@ -3317,7 +3751,9 @@
     "resultado": "SL",
     "return_pct": -0.91,
     "salida": 0.004642,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-03",
+    "hora": "22:46"
   },
   {
     "par": "ALCHUSDT",
@@ -3333,7 +3769,9 @@
     "resultado": "SL",
     "return_pct": -0.87,
     "salida": 0.03115,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "22:44"
   },
   {
     "par": "BLESSUSDT",
@@ -3349,7 +3787,9 @@
     "resultado": "TP",
     "return_pct": 0.77,
     "salida": 0.008881,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-03",
+    "hora": "23:51"
   },
   {
     "par": "DUSKUSDT",
@@ -3365,7 +3805,9 @@
     "resultado": "TP",
     "return_pct": 0.59,
     "salida": 0.072742,
-    "duracion": "24m"
+    "duracion": "24m",
+    "fecha": "2026-09-03",
+    "hora": "23:26"
   },
   {
     "par": "ENSOUSDT",
@@ -3381,7 +3823,9 @@
     "resultado": "TP",
     "return_pct": 0.41,
     "salida": 0.876532,
-    "duracion": "31m"
+    "duracion": "31m",
+    "fecha": "2026-09-03",
+    "hora": "23:44"
   },
   {
     "par": "ELSAUSDT",
@@ -3397,7 +3841,9 @@
     "resultado": "TP",
     "return_pct": 1.33,
     "salida": 0.049246,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-03",
+    "hora": "23:42"
   },
   {
     "par": "USELESSUSDT",
@@ -3413,7 +3859,9 @@
     "resultado": "TP",
     "return_pct": 1.69,
     "salida": 0.217577,
-    "duracion": "17m"
+    "duracion": "17m",
+    "fecha": "2026-09-04",
+    "hora": "00:04"
   },
   {
     "par": "BLESSUSDT",
@@ -3429,7 +3877,9 @@
     "resultado": "TP",
     "return_pct": 0.76,
     "salida": 0.008822,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-03",
+    "hora": "23:51"
   },
   {
     "par": "AINUSDT",
@@ -3445,7 +3895,9 @@
     "resultado": "TP",
     "return_pct": 0.8,
     "salida": 0.070903,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-03",
+    "hora": "23:53"
   },
   {
     "par": "TRIAUSDT",
@@ -3461,7 +3913,9 @@
     "resultado": "SL",
     "return_pct": -2.91,
     "salida": 0.004632,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-06",
+    "hora": "12:44"
   },
   {
     "par": "DIAUSDT",
@@ -3477,7 +3931,9 @@
     "resultado": "TP",
     "return_pct": 0.36,
     "salida": 0.136806,
-    "duracion": "39m"
+    "duracion": "39m",
+    "fecha": "2026-09-04",
+    "hora": "00:46"
   },
   {
     "par": "BTRUSDT",
@@ -3493,7 +3949,9 @@
     "resultado": "TP",
     "return_pct": 2.96,
     "salida": 0.056187,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-04",
+    "hora": "00:17"
   },
   {
     "par": "FLOCKUSDT",
@@ -3509,7 +3967,9 @@
     "resultado": "TP",
     "return_pct": 0.97,
     "salida": 0.040656,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-04",
+    "hora": "00:20"
   },
   {
     "par": "龙虾USDT",
@@ -3525,7 +3985,9 @@
     "resultado": "SL",
     "return_pct": -0.64,
     "salida": 0.074466,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-04",
+    "hora": "00:39"
   },
   {
     "par": "UAIUSDT",
@@ -3541,7 +4003,9 @@
     "resultado": "SL",
     "return_pct": -0.69,
     "salida": 0.3629,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-04",
+    "hora": "00:45"
   },
   {
     "par": "UAIUSDT",
@@ -3557,7 +4021,9 @@
     "resultado": "TP",
     "return_pct": 1.22,
     "salida": 0.365339,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-04",
+    "hora": "00:50"
   },
   {
     "par": "TOWNSUSDT",
@@ -3573,7 +4039,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.002202,
-    "duracion": "12m"
+    "duracion": "12m",
+    "fecha": "2026-09-06",
+    "hora": "07:52"
   },
   {
     "par": "DASHUSDT",
@@ -3589,7 +4057,9 @@
     "resultado": "TP",
     "return_pct": 1.1,
     "salida": 60.086225,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-04",
+    "hora": "17:57"
   },
   {
     "par": "AINUSDT",
@@ -3605,7 +4075,9 @@
     "resultado": "SL",
     "return_pct": -0.6,
     "salida": 0.07135,
-    "duracion": "2h 33m"
+    "duracion": "2h 33m",
+    "fecha": "2026-09-04",
+    "hora": "20:30"
   },
   {
     "par": "PTBUSDT",
@@ -3621,7 +4093,9 @@
     "resultado": "SL",
     "return_pct": -0.33,
     "salida": 0.000781,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-04",
+    "hora": "18:44"
   },
   {
     "par": "4USDT",
@@ -3637,7 +4111,9 @@
     "resultado": "SL",
     "return_pct": -5.84,
     "salida": 0.02528,
-    "duracion": "2h 5m"
+    "duracion": "2h 5m",
+    "fecha": "2026-09-04",
+    "hora": "20:50"
   },
   {
     "par": "AGTUSDT",
@@ -3653,7 +4129,9 @@
     "resultado": "SL",
     "return_pct": 0.0,
     "salida": 0.01622,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "08:22"
   },
   {
     "par": "FLUIDUSDT",
@@ -3669,7 +4147,9 @@
     "resultado": "TP",
     "return_pct": 0.76,
     "salida": 1.225711,
-    "duracion": "45m"
+    "duracion": "45m",
+    "fecha": "2026-09-04",
+    "hora": "19:48"
   },
   {
     "par": "DUSKUSDT",
@@ -3685,7 +4165,9 @@
     "resultado": "TP",
     "return_pct": 1.04,
     "salida": 0.082256,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-04",
+    "hora": "20:01"
   },
   {
     "par": "TAKEUSDT",
@@ -3701,7 +4183,9 @@
     "resultado": "SL",
     "return_pct": -1.24,
     "salida": 0.05464,
-    "duracion": "12m"
+    "duracion": "12m",
+    "fecha": "2026-09-04",
+    "hora": "20:16"
   },
   {
     "par": "MELANIAUSDT",
@@ -3717,7 +4201,9 @@
     "resultado": "TP",
     "return_pct": 0.41,
     "salida": 0.109317,
-    "duracion": "41m"
+    "duracion": "41m",
+    "fecha": "2026-09-04",
+    "hora": "21:04"
   },
   {
     "par": "AKEUSDT",
@@ -3733,7 +4219,9 @@
     "resultado": "SL",
     "return_pct": -2.89,
     "salida": 0.01757,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-04",
+    "hora": "20:51"
   },
   {
     "par": "BROCCOLI714USDT",
@@ -3749,7 +4237,9 @@
     "resultado": "TP",
     "return_pct": 0.68,
     "salida": 0.020123,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-04",
+    "hora": "21:07"
   },
   {
     "par": "BTWUSDT",
@@ -3765,7 +4255,9 @@
     "resultado": "SL",
     "return_pct": -0.56,
     "salida": 0.44941,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-04",
+    "hora": "20:58"
   },
   {
     "par": "SKRUSDT",
@@ -3781,7 +4273,9 @@
     "resultado": "TP",
     "return_pct": 1.02,
     "salida": 0.02182,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-04",
+    "hora": "21:13"
   },
   {
     "par": "XPINUSDT",
@@ -3797,7 +4291,9 @@
     "resultado": "SL",
     "return_pct": -0.46,
     "salida": 0.001091,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-04",
+    "hora": "21:11"
   },
   {
     "par": "TRIAUSDT",
@@ -3813,7 +4309,9 @@
     "resultado": "TP",
     "return_pct": 1.06,
     "salida": 0.005037,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-04",
+    "hora": "21:19"
   },
   {
     "par": "FIDAUSDT",
@@ -3829,7 +4327,9 @@
     "resultado": "TP",
     "return_pct": 0.35,
     "salida": 0.019183,
-    "duracion": "51m"
+    "duracion": "51m",
+    "fecha": "2026-09-04",
+    "hora": "22:07"
   },
   {
     "par": "KSMUSDT",
@@ -3845,7 +4345,9 @@
     "resultado": "TP",
     "return_pct": 0.76,
     "salida": 3.715839,
-    "duracion": "1h 39m"
+    "duracion": "1h 39m",
+    "fecha": "2026-09-04",
+    "hora": "22:55"
   },
   {
     "par": "LAYERUSDT",
@@ -3861,7 +4363,9 @@
     "resultado": "TP",
     "return_pct": 0.26,
     "salida": 0.069396,
-    "duracion": "1h 12m"
+    "duracion": "1h 12m",
+    "fecha": "2026-09-04",
+    "hora": "22:43"
   },
   {
     "par": "龙虾USDT",
@@ -3877,7 +4381,9 @@
     "resultado": "SL",
     "return_pct": -3.38,
     "salida": 0.082862,
-    "duracion": "51m"
+    "duracion": "51m",
+    "fecha": "2026-09-04",
+    "hora": "23:01"
   },
   {
     "par": "币安人生USDT",
@@ -3893,7 +4399,9 @@
     "resultado": "SL",
     "return_pct": -0.64,
     "salida": 0.521137,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-04",
+    "hora": "22:45"
   },
   {
     "par": "TAKEUSDT",
@@ -3909,7 +4417,9 @@
     "resultado": "TP",
     "return_pct": 2.7,
     "salida": 0.055512,
-    "duracion": "24m"
+    "duracion": "24m",
+    "fecha": "2026-09-04",
+    "hora": "23:13"
   },
   {
     "par": "TUTUSDT",
@@ -3925,7 +4435,9 @@
     "resultado": "SL",
     "return_pct": -0.46,
     "salida": 0.023419,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-04",
+    "hora": "23:01"
   },
   {
     "par": "龙虾USDT",
@@ -3941,7 +4453,9 @@
     "resultado": "TP",
     "return_pct": 1.69,
     "salida": 0.081187,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-04",
+    "hora": "23:16"
   },
   {
     "par": "COOKIEUSDT",
@@ -3957,7 +4471,9 @@
     "resultado": "TP",
     "return_pct": 0.71,
     "salida": 0.011953,
-    "duracion": "38m"
+    "duracion": "38m",
+    "fecha": "2026-09-04",
+    "hora": "23:43"
   },
   {
     "par": "AKEUSDT",
@@ -3973,7 +4489,9 @@
     "resultado": "TP",
     "return_pct": 5.71,
     "salida": 0.019332,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-04",
+    "hora": "23:22"
   },
   {
     "par": "KOMAUSDT",
@@ -3989,7 +4507,9 @@
     "resultado": "TP",
     "return_pct": 1.36,
     "salida": 0.015082,
-    "duracion": "23m"
+    "duracion": "23m",
+    "fecha": "2026-09-04",
+    "hora": "23:41"
   },
   {
     "par": "MAGMAUSDT",
@@ -4005,7 +4525,9 @@
     "resultado": "SL",
     "return_pct": -0.88,
     "salida": 0.271447,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-04",
+    "hora": "23:26"
   },
   {
     "par": "NOMUSDT",
@@ -4021,7 +4543,9 @@
     "resultado": "TP",
     "return_pct": 3.65,
     "salida": 0.001814,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-04",
+    "hora": "23:27"
   },
   {
     "par": "UAIUSDT",
@@ -4037,7 +4561,9 @@
     "resultado": "TP",
     "return_pct": 3.09,
     "salida": 0.449126,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-05",
+    "hora": "00:00"
   },
   {
     "par": "NAORISUSDT",
@@ -4053,7 +4579,9 @@
     "resultado": "SL",
     "return_pct": -1.27,
     "salida": 0.028918,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-05",
+    "hora": "01:33"
   },
   {
     "par": "ARIAUSDT",
@@ -4069,7 +4597,9 @@
     "resultado": "SL",
     "return_pct": -0.66,
     "salida": 0.03505,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-05",
+    "hora": "02:18"
   },
   {
     "par": "CHIPUSDT",
@@ -4085,7 +4615,9 @@
     "resultado": "TP",
     "return_pct": 1.29,
     "salida": 0.058258,
-    "duracion": "38m"
+    "duracion": "38m",
+    "fecha": "2026-09-05",
+    "hora": "02:57"
   },
   {
     "par": "DOODUSDT",
@@ -4101,7 +4633,9 @@
     "resultado": "SL",
     "return_pct": -1.33,
     "salida": 0.00148,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-05",
+    "hora": "15:23"
   },
   {
     "par": "KOMAUSDT",
@@ -4117,7 +4651,9 @@
     "resultado": "SL",
     "return_pct": -0.72,
     "salida": 0.0161,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "03:28"
   },
   {
     "par": "TRADOORUSDT",
@@ -4133,7 +4669,9 @@
     "resultado": "TP",
     "return_pct": 2.16,
     "salida": 0.687483,
-    "duracion": "1h 13m"
+    "duracion": "1h 13m",
+    "fecha": "2026-09-05",
+    "hora": "04:51"
   },
   {
     "par": "龙虾USDT",
@@ -4149,7 +4687,9 @@
     "resultado": "TP",
     "return_pct": 2.06,
     "salida": 0.088939,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "03:54"
   },
   {
     "par": "LISTAUSDT",
@@ -4165,7 +4705,9 @@
     "resultado": "SL",
     "return_pct": -1.43,
     "salida": 0.08055,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-05",
+    "hora": "04:09"
   },
   {
     "par": "CYSUSDT",
@@ -4181,7 +4723,9 @@
     "resultado": "SL",
     "return_pct": -3.04,
     "salida": 0.2432,
-    "duracion": "2h 53m"
+    "duracion": "2h 53m",
+    "fecha": "2026-09-05",
+    "hora": "06:52"
   },
   {
     "par": "币安人生USDT",
@@ -4197,7 +4741,9 @@
     "resultado": "TP",
     "return_pct": 0.98,
     "salida": 0.53236,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-05",
+    "hora": "04:22"
   },
   {
     "par": "LUNA2USDT",
@@ -4213,7 +4759,9 @@
     "resultado": "SL",
     "return_pct": -0.3,
     "salida": 0.04707,
-    "duracion": "33m"
+    "duracion": "33m",
+    "fecha": "2026-09-05",
+    "hora": "04:56"
   },
   {
     "par": "FORMUSDT",
@@ -4229,7 +4777,9 @@
     "resultado": "TP",
     "return_pct": 0.66,
     "salida": 0.296157,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-05",
+    "hora": "05:02"
   },
   {
     "par": "ELSAUSDT",
@@ -4245,7 +4795,9 @@
     "resultado": "TP",
     "return_pct": 0.65,
     "salida": 0.053105,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-05",
+    "hora": "05:06"
   },
   {
     "par": "SCRUSDT",
@@ -4261,7 +4813,9 @@
     "resultado": "TP",
     "return_pct": 0.44,
     "salida": 0.021605,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "05:09"
   },
   {
     "par": "USELESSUSDT",
@@ -4277,7 +4831,9 @@
     "resultado": "TP",
     "return_pct": 1.21,
     "salida": 0.244602,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "05:09"
   },
   {
     "par": "ARIAUSDT",
@@ -4293,7 +4849,9 @@
     "resultado": "TP",
     "return_pct": 0.69,
     "salida": 0.035755,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-05",
+    "hora": "05:22"
   },
   {
     "par": "FLOCKUSDT",
@@ -4309,7 +4867,9 @@
     "resultado": "SL",
     "return_pct": -1.59,
     "salida": 0.05477,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-05",
+    "hora": "05:15"
   },
   {
     "par": "MARSCOINUSDT",
@@ -4325,7 +4885,9 @@
     "resultado": "TP",
     "return_pct": 2.98,
     "salida": 0.232017,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-05",
+    "hora": "16:44"
   },
   {
     "par": "NAORISUSDT",
@@ -4341,7 +4903,9 @@
     "resultado": "TP",
     "return_pct": 1.26,
     "salida": 0.030179,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-05",
+    "hora": "05:29"
   },
   {
     "par": "PRLUSDT",
@@ -4357,7 +4921,9 @@
     "resultado": "TP",
     "return_pct": 0.92,
     "salida": 0.130302,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "05:26"
   },
   {
     "par": "LIGHTUSDT",
@@ -4373,7 +4939,9 @@
     "resultado": "TP",
     "return_pct": 0.51,
     "salida": 0.197297,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-05",
+    "hora": "05:36"
   },
   {
     "par": "GPSUSDT",
@@ -4389,7 +4957,9 @@
     "resultado": "SL",
     "return_pct": -0.39,
     "salida": 0.010719,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "05:34"
   },
   {
     "par": "我踏马来了USDT",
@@ -4405,7 +4975,9 @@
     "resultado": "SL",
     "return_pct": -1.43,
     "salida": 0.0155,
-    "duracion": "34m"
+    "duracion": "34m",
+    "fecha": "2026-09-05",
+    "hora": "06:10"
   },
   {
     "par": "COLLECTUSDT",
@@ -4421,7 +4993,9 @@
     "resultado": "SL",
     "return_pct": -2.22,
     "salida": 0.09947,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "05:39"
   },
   {
     "par": "CTRUSDT",
@@ -4437,7 +5011,9 @@
     "resultado": "SL",
     "return_pct": -0.62,
     "salida": 0.01038,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "06:23"
   },
   {
     "par": "CTRUSDT",
@@ -4453,7 +5029,9 @@
     "resultado": "TP",
     "return_pct": 1.5,
     "salida": 0.010182,
-    "duracion": "35m"
+    "duracion": "35m",
+    "fecha": "2026-09-05",
+    "hora": "06:23"
   },
   {
     "par": "1000000BOBUSDT",
@@ -4469,7 +5047,9 @@
     "resultado": "SL",
     "return_pct": -0.63,
     "salida": 0.01905,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "06:20"
   },
   {
     "par": "SOPHUSDT",
@@ -4485,7 +5065,9 @@
     "resultado": "TP",
     "return_pct": 0.93,
     "salida": 0.004389,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "06:28"
   },
   {
     "par": "ZEREBROUSDT",
@@ -4501,7 +5083,9 @@
     "resultado": "TP",
     "return_pct": 0.5,
     "salida": 0.038754,
-    "duracion": "1h 50m"
+    "duracion": "1h 50m",
+    "fecha": "2026-09-05",
+    "hora": "08:22"
   },
   {
     "par": "ZORAUSDT",
@@ -4517,7 +5101,9 @@
     "resultado": "SL",
     "return_pct": -0.83,
     "salida": 0.009424,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "06:33"
   },
   {
     "par": "BUSDT",
@@ -4533,7 +5119,9 @@
     "resultado": "TP",
     "return_pct": 1.34,
     "salida": 0.178613,
-    "duracion": "51m"
+    "duracion": "51m",
+    "fecha": "2026-09-05",
+    "hora": "07:33"
   },
   {
     "par": "币安人生USDT",
@@ -4549,7 +5137,9 @@
     "resultado": "TP",
     "return_pct": 1.16,
     "salida": 0.549143,
-    "duracion": "45m"
+    "duracion": "45m",
+    "fecha": "2026-09-05",
+    "hora": "08:59"
   },
   {
     "par": "牛来USDT",
@@ -4565,7 +5155,9 @@
     "resultado": "SL",
     "return_pct": -2.38,
     "salida": 0.13557,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "12:12"
   },
   {
     "par": "AKEUSDT",
@@ -4581,7 +5173,9 @@
     "resultado": "TP",
     "return_pct": 2.71,
     "salida": 0.020147,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "13:06"
   },
   {
     "par": "FLOCKUSDT",
@@ -4597,7 +5191,9 @@
     "resultado": "TP",
     "return_pct": 1.04,
     "salida": 0.051249,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "13:27"
   },
   {
     "par": "UAIUSDT",
@@ -4613,7 +5209,9 @@
     "resultado": "SL",
     "return_pct": -0.54,
     "salida": 0.49067,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "13:33"
   },
   {
     "par": "MAGMAUSDT",
@@ -4629,7 +5227,9 @@
     "resultado": "TP",
     "return_pct": 1.68,
     "salida": 0.285322,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "13:32"
   },
   {
     "par": "FLOCKUSDT",
@@ -4645,7 +5245,9 @@
     "resultado": "SL",
     "return_pct": -2.5,
     "salida": 0.057855,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "13:39"
   },
   {
     "par": "UAIUSDT",
@@ -4661,7 +5263,9 @@
     "resultado": "SL",
     "return_pct": -0.91,
     "salida": 0.5047,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-05",
+    "hora": "14:00"
   },
   {
     "par": "CUSDT",
@@ -4677,7 +5281,9 @@
     "resultado": "TP",
     "return_pct": 0.22,
     "salida": 0.060534,
-    "duracion": "14m"
+    "duracion": "14m",
+    "fecha": "2026-09-05",
+    "hora": "14:01"
   },
   {
     "par": "FLOCKUSDT",
@@ -4693,7 +5299,9 @@
     "resultado": "TP",
     "return_pct": 4.78,
     "salida": 0.059734,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-05",
+    "hora": "13:57"
   },
   {
     "par": "SUSHIUSDT",
@@ -4709,7 +5317,9 @@
     "resultado": "TP",
     "return_pct": 2.44,
     "salida": 0.2707,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-05",
+    "hora": "14:35"
   },
   {
     "par": "MYXUSDT",
@@ -4725,7 +5335,9 @@
     "resultado": "SL",
     "return_pct": -1.65,
     "salida": 0.07562,
-    "duracion": "46m"
+    "duracion": "46m",
+    "fecha": "2026-09-05",
+    "hora": "15:37"
   },
   {
     "par": "OPUSDT",
@@ -4741,7 +5353,9 @@
     "resultado": "TP",
     "return_pct": 0.92,
     "salida": 0.104628,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "15:21"
   },
   {
     "par": "DOODUSDT",
@@ -4757,7 +5371,9 @@
     "resultado": "TP",
     "return_pct": 0.37,
     "salida": 0.001455,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "15:23"
   },
   {
     "par": "1000SATSUSDT",
@@ -4773,7 +5389,9 @@
     "resultado": "SL",
     "return_pct": -0.61,
     "salida": 1.2e-05,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "15:24"
   },
   {
     "par": "SOLVUSDT",
@@ -4789,7 +5407,9 @@
     "resultado": "SL",
     "return_pct": -1.31,
     "salida": 0.003518,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-05",
+    "hora": "15:40"
   },
   {
     "par": "1000000BOBUSDT",
@@ -4805,7 +5425,9 @@
     "resultado": "SL",
     "return_pct": -0.9,
     "salida": 0.02009,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-05",
+    "hora": "15:46"
   },
   {
     "par": "ALPINEUSDT",
@@ -4821,7 +5443,9 @@
     "resultado": "TP",
     "return_pct": 0.33,
     "salida": 0.355726,
-    "duracion": "27m"
+    "duracion": "27m",
+    "fecha": "2026-09-05",
+    "hora": "16:08"
   },
   {
     "par": "XANUSDT",
@@ -4837,7 +5461,9 @@
     "resultado": "TP",
     "return_pct": 1.31,
     "salida": 0.016309,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-05",
+    "hora": "15:58"
   },
   {
     "par": "SUSHIUSDT",
@@ -4853,7 +5479,9 @@
     "resultado": "TP",
     "return_pct": 1.61,
     "salida": 0.261879,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-05",
+    "hora": "15:53"
   },
   {
     "par": "MARSCOINUSDT",
@@ -4869,7 +5497,9 @@
     "resultado": "SL",
     "return_pct": -1.21,
     "salida": 0.241824,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-05",
+    "hora": "16:44"
   },
   {
     "par": "AKEUSDT",
@@ -4885,7 +5515,9 @@
     "resultado": "SL",
     "return_pct": -0.58,
     "salida": 0.019214,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "16:34"
   },
   {
     "par": "BUSDT",
@@ -4901,7 +5533,9 @@
     "resultado": "SL",
     "return_pct": -0.68,
     "salida": 0.1759,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-05",
+    "hora": "16:40"
   },
   {
     "par": "BUSDT",
@@ -4917,7 +5551,9 @@
     "resultado": "SL",
     "return_pct": -0.56,
     "salida": 0.1773,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "16:42"
   },
   {
     "par": "4USDT",
@@ -4933,7 +5569,9 @@
     "resultado": "TP",
     "return_pct": 1.32,
     "salida": 0.033472,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-05",
+    "hora": "16:54"
   },
   {
     "par": "HEMIUSDT",
@@ -4949,7 +5587,9 @@
     "resultado": "TP",
     "return_pct": 0.8,
     "salida": 0.01099,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-05",
+    "hora": "16:49"
   },
   {
     "par": "MONUSDT",
@@ -4965,7 +5605,9 @@
     "resultado": "TP",
     "return_pct": 1.29,
     "salida": 0.025559,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-05",
+    "hora": "16:51"
   },
   {
     "par": "CLOUSDT",
@@ -4981,7 +5623,9 @@
     "resultado": "SL",
     "return_pct": -0.89,
     "salida": 0.12176,
-    "duracion": "49m"
+    "duracion": "49m",
+    "fecha": "2026-09-05",
+    "hora": "17:50"
   },
   {
     "par": "牛来USDT",
@@ -4997,7 +5641,9 @@
     "resultado": "SL",
     "return_pct": -0.85,
     "salida": 0.121728,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "17:16"
   },
   {
     "par": "FHEUSDT",
@@ -5013,7 +5659,9 @@
     "resultado": "TP",
     "return_pct": 0.62,
     "salida": 0.025205,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-05",
+    "hora": "18:00"
   },
   {
     "par": "CHIPUSDT",
@@ -5029,7 +5677,9 @@
     "resultado": "SL",
     "return_pct": -0.79,
     "salida": 0.05963,
-    "duracion": "53m"
+    "duracion": "53m",
+    "fecha": "2026-09-05",
+    "hora": "19:02"
   },
   {
     "par": "AZTECUSDT",
@@ -5045,7 +5695,9 @@
     "resultado": "TP",
     "return_pct": 0.32,
     "salida": 0.014823,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-05",
+    "hora": "18:24"
   },
   {
     "par": "MARSCOINUSDT",
@@ -5061,7 +5713,9 @@
     "resultado": "TP",
     "return_pct": 1.22,
     "salida": 0.249776,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "18:38"
   },
   {
     "par": "COLLECTUSDT",
@@ -5077,7 +5731,9 @@
     "resultado": "TP",
     "return_pct": 1.3,
     "salida": 0.059141,
-    "duracion": "12m"
+    "duracion": "12m",
+    "fecha": "2026-09-05",
+    "hora": "18:50"
   },
   {
     "par": "FLOCKUSDT",
@@ -5093,7 +5749,9 @@
     "resultado": "SL",
     "return_pct": -1.46,
     "salida": 0.06492,
-    "duracion": "21m"
+    "duracion": "21m",
+    "fecha": "2026-09-05",
+    "hora": "19:00"
   },
   {
     "par": "SUPERUSDT",
@@ -5109,7 +5767,9 @@
     "resultado": "TP",
     "return_pct": 0.37,
     "salida": 0.117047,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "18:56"
   },
   {
     "par": "BOMEUSDT",
@@ -5125,7 +5785,9 @@
     "resultado": "TP",
     "return_pct": 1.05,
     "salida": 0.000928,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "19:00"
   },
   {
     "par": "FLOCKUSDT",
@@ -5141,7 +5803,9 @@
     "resultado": "TP",
     "return_pct": 2.0,
     "salida": 0.064677,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-05",
+    "hora": "19:20"
   },
   {
     "par": "METISUSDT",
@@ -5157,7 +5821,9 @@
     "resultado": "SL",
     "return_pct": -0.67,
     "salida": 2.984,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "19:06"
   },
   {
     "par": "SOPHUSDT",
@@ -5173,7 +5839,9 @@
     "resultado": "TP",
     "return_pct": 1.0,
     "salida": 0.004066,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-05",
+    "hora": "19:11"
   },
   {
     "par": "ELSAUSDT",
@@ -5189,7 +5857,9 @@
     "resultado": "SL",
     "return_pct": -0.95,
     "salida": 0.055204,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "19:09"
   },
   {
     "par": "TUSDT",
@@ -5205,7 +5875,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.004487,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "19:10"
   },
   {
     "par": "TUSDT",
@@ -5221,7 +5893,9 @@
     "resultado": "SL",
     "return_pct": -1.46,
     "salida": 0.004521,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-05",
+    "hora": "19:19"
   },
   {
     "par": "ZESTUSDT",
@@ -5237,7 +5911,9 @@
     "resultado": "TP",
     "return_pct": 0.85,
     "salida": 0.129077,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-05",
+    "hora": "19:26"
   },
   {
     "par": "SHELLUSDT",
@@ -5253,7 +5929,9 @@
     "resultado": "SL",
     "return_pct": -0.41,
     "salida": 0.02421,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "19:29"
   },
   {
     "par": "TUSDT",
@@ -5269,7 +5947,9 @@
     "resultado": "SL",
     "return_pct": -1.4,
     "salida": 0.004704,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "19:27"
   },
   {
     "par": "TAIKOUSDT",
@@ -5285,7 +5965,9 @@
     "resultado": "TP",
     "return_pct": 0.79,
     "salida": 0.081073,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-05",
+    "hora": "19:40"
   },
   {
     "par": "ELSAUSDT",
@@ -5301,7 +5983,9 @@
     "resultado": "SL",
     "return_pct": -0.77,
     "salida": 0.05581,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "19:53"
   },
   {
     "par": "ARBUSDT",
@@ -5317,7 +6001,9 @@
     "resultado": "TP",
     "return_pct": 1.8,
     "salida": 0.189993,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-05",
+    "hora": "20:09"
   },
   {
     "par": "TAKEUSDT",
@@ -5333,7 +6019,9 @@
     "resultado": "TP",
     "return_pct": 2.61,
     "salida": 0.063202,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "20:04"
   },
   {
     "par": "CELOUSDT",
@@ -5349,7 +6037,9 @@
     "resultado": "TP",
     "return_pct": 0.63,
     "salida": 0.080576,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "20:06"
   },
   {
     "par": "BULLAUSDT",
@@ -5365,7 +6055,9 @@
     "resultado": "SL",
     "return_pct": -3.34,
     "salida": 0.083869,
-    "duracion": "30m"
+    "duracion": "30m",
+    "fecha": "2026-09-05",
+    "hora": "20:36"
   },
   {
     "par": "ASTRUSDT",
@@ -5381,7 +6073,9 @@
     "resultado": "SL",
     "return_pct": -0.3,
     "salida": 0.006011,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-09-05",
+    "hora": "20:36"
   },
   {
     "par": "PEOPLEUSDT",
@@ -5397,7 +6091,9 @@
     "resultado": "SL",
     "return_pct": -0.66,
     "salida": 0.008602,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-05",
+    "hora": "21:05"
   },
   {
     "par": "UAIUSDT",
@@ -5413,7 +6109,9 @@
     "resultado": "SL",
     "return_pct": -1.04,
     "salida": 0.617813,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-05",
+    "hora": "20:58"
   },
   {
     "par": "COLLECTUSDT",
@@ -5429,7 +6127,9 @@
     "resultado": "TP",
     "return_pct": 2.27,
     "salida": 0.061356,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-05",
+    "hora": "21:15"
   },
   {
     "par": "SUSHIUSDT",
@@ -5445,7 +6145,9 @@
     "resultado": "SL",
     "return_pct": -0.88,
     "salida": 0.272,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "21:07"
   },
   {
     "par": "CYSUSDT",
@@ -5461,7 +6163,9 @@
     "resultado": "TP",
     "return_pct": 0.9,
     "salida": 0.241424,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-05",
+    "hora": "21:15"
   },
   {
     "par": "MAGMAUSDT",
@@ -5477,7 +6181,9 @@
     "resultado": "SL",
     "return_pct": -0.85,
     "salida": 0.278731,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "21:11"
   },
   {
     "par": "BULLAUSDT",
@@ -5493,7 +6199,9 @@
     "resultado": "TP",
     "return_pct": 1.34,
     "salida": 0.08214,
-    "duracion": "24m"
+    "duracion": "24m",
+    "fecha": "2026-09-05",
+    "hora": "21:48"
   },
   {
     "par": "ZKCUSDT",
@@ -5509,7 +6217,9 @@
     "resultado": "TP",
     "return_pct": 0.6,
     "salida": 0.050308,
-    "duracion": "18m"
+    "duracion": "18m",
+    "fecha": "2026-09-05",
+    "hora": "21:44"
   },
   {
     "par": "SUSDT",
@@ -5525,7 +6235,9 @@
     "resultado": "TP",
     "return_pct": 0.68,
     "salida": 0.030392,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-05",
+    "hora": "21:47"
   },
   {
     "par": "FLOCKUSDT",
@@ -5541,7 +6253,9 @@
     "resultado": "SL",
     "return_pct": -1.31,
     "salida": 0.0734,
-    "duracion": "27m"
+    "duracion": "27m",
+    "fecha": "2026-09-05",
+    "hora": "22:14"
   },
   {
     "par": "BUSDT",
@@ -5557,7 +6271,9 @@
     "resultado": "TP",
     "return_pct": 0.62,
     "salida": 0.173819,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "21:54"
   },
   {
     "par": "BSBUSDT",
@@ -5573,7 +6289,9 @@
     "resultado": "SL",
     "return_pct": -3.01,
     "salida": 0.11624,
-    "duracion": "9h 5m"
+    "duracion": "9h 5m",
+    "fecha": "2026-09-06",
+    "hora": "07:00"
   },
   {
     "par": "ZESTUSDT",
@@ -5589,7 +6307,9 @@
     "resultado": "SL",
     "return_pct": -0.43,
     "salida": 0.13193,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-05",
+    "hora": "22:20"
   },
   {
     "par": "PUMPUSDT",
@@ -5605,7 +6325,9 @@
     "resultado": "TP",
     "return_pct": 0.61,
     "salida": 0.004065,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-05",
+    "hora": "22:32"
   },
   {
     "par": "JUPUSDT",
@@ -5621,7 +6343,9 @@
     "resultado": "TP",
     "return_pct": 0.87,
     "salida": 0.232775,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "22:32"
   },
   {
     "par": "PUNDIXUSDT",
@@ -5637,7 +6361,9 @@
     "resultado": "TP",
     "return_pct": 0.45,
     "salida": 0.098551,
-    "duracion": "46m"
+    "duracion": "46m",
+    "fecha": "2026-09-05",
+    "hora": "23:22"
   },
   {
     "par": "ORCAUSDT",
@@ -5653,7 +6379,9 @@
     "resultado": "SL",
     "return_pct": -0.7,
     "salida": 1.383732,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-05",
+    "hora": "22:45"
   },
   {
     "par": "WOOUSDT",
@@ -5669,7 +6397,9 @@
     "resultado": "TP",
     "return_pct": 1.01,
     "salida": 0.012029,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-05",
+    "hora": "22:50"
   },
   {
     "par": "GOATUSDT",
@@ -5685,7 +6415,9 @@
     "resultado": "SL",
     "return_pct": -0.72,
     "salida": 0.01674,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "22:54"
   },
   {
     "par": "1000BONKUSDT",
@@ -5701,7 +6433,9 @@
     "resultado": "TP",
     "return_pct": 0.52,
     "salida": 0.003336,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-05",
+    "hora": "22:57"
   },
   {
     "par": "IMXUSDT",
@@ -5717,7 +6451,9 @@
     "resultado": "SL",
     "return_pct": -0.37,
     "salida": 0.1352,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "23:00"
   },
   {
     "par": "AIOUSDT",
@@ -5733,7 +6469,9 @@
     "resultado": "TP",
     "return_pct": 0.45,
     "salida": 0.051172,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "23:03"
   },
   {
     "par": "METUSDT",
@@ -5749,7 +6487,9 @@
     "resultado": "TP",
     "return_pct": 1.1,
     "salida": 0.20672,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-05",
+    "hora": "23:07"
   },
   {
     "par": "MORPHOUSDT",
@@ -5765,7 +6505,9 @@
     "resultado": "SL",
     "return_pct": -0.66,
     "salida": 2.6074,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-05",
+    "hora": "23:08"
   },
   {
     "par": "STARUSDT",
@@ -5781,7 +6523,9 @@
     "resultado": "TP",
     "return_pct": 0.98,
     "salida": 0.089356,
-    "duracion": "3h 31m"
+    "duracion": "3h 31m",
+    "fecha": "2026-09-06",
+    "hora": "03:16"
   },
   {
     "par": "ZECUSDT",
@@ -5797,7 +6541,9 @@
     "resultado": "SL",
     "return_pct": -3.3,
     "salida": 1176.95,
-    "duracion": "7h 9m"
+    "duracion": "7h 9m",
+    "fecha": "2026-09-06",
+    "hora": "06:58"
   },
   {
     "par": "GRTUSDT",
@@ -5813,7 +6559,9 @@
     "resultado": "TP",
     "return_pct": 0.98,
     "salida": 0.02028,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "03:16"
   },
   {
     "par": "1000000BOBUSDT",
@@ -5829,7 +6577,9 @@
     "resultado": "TP",
     "return_pct": 4.93,
     "salida": 0.022395,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "07:10"
   },
   {
     "par": "CLOUSDT",
@@ -5845,7 +6595,9 @@
     "resultado": "SL",
     "return_pct": -1.5,
     "salida": 0.11436,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "09:20"
   },
   {
     "par": "BULLAUSDT",
@@ -5861,7 +6613,9 @@
     "resultado": "SL",
     "return_pct": -1.16,
     "salida": 0.072626,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-06",
+    "hora": "07:17"
   },
   {
     "par": "LDOUSDT",
@@ -5877,7 +6631,9 @@
     "resultado": "SL",
     "return_pct": -0.37,
     "salida": 0.4102,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-06",
+    "hora": "07:18"
   },
   {
     "par": "CLOUSDT",
@@ -5893,7 +6649,9 @@
     "resultado": "SL",
     "return_pct": -1.05,
     "salida": 0.115307,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "07:16"
   },
   {
     "par": "BULLAUSDT",
@@ -5909,7 +6667,9 @@
     "resultado": "SL",
     "return_pct": -1.7,
     "salida": 0.076996,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "07:22"
   },
   {
     "par": "FLOCKUSDT",
@@ -5925,7 +6685,9 @@
     "resultado": "TP",
     "return_pct": 1.99,
     "salida": 0.077686,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "07:27"
   },
   {
     "par": "HUSDT",
@@ -5941,7 +6703,9 @@
     "resultado": "TP",
     "return_pct": 0.6,
     "salida": 0.074969,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "07:32"
   },
   {
     "par": "ORCAUSDT",
@@ -5957,7 +6721,9 @@
     "resultado": "SL",
     "return_pct": -1.32,
     "salida": 1.443,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "07:35"
   },
   {
     "par": "XVSUSDT",
@@ -5973,7 +6739,9 @@
     "resultado": "SL",
     "return_pct": -0.57,
     "salida": 3.321,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-06",
+    "hora": "07:46"
   },
   {
     "par": "NAORISUSDT",
@@ -5989,7 +6757,9 @@
     "resultado": "TP",
     "return_pct": 1.95,
     "salida": 0.035705,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "07:38"
   },
   {
     "par": "TOWNSUSDT",
@@ -6005,7 +6775,9 @@
     "resultado": "TP",
     "return_pct": 0.38,
     "salida": 0.00218,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-06",
+    "hora": "07:52"
   },
   {
     "par": "ORCAUSDT",
@@ -6021,7 +6793,9 @@
     "resultado": "SL",
     "return_pct": -1.22,
     "salida": 1.478024,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "07:43"
   },
   {
     "par": "IOUSDT",
@@ -6037,7 +6811,9 @@
     "resultado": "SL",
     "return_pct": -0.51,
     "salida": 0.137,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "07:45"
   },
   {
     "par": "AIAUSDT",
@@ -6053,7 +6829,9 @@
     "resultado": "SL",
     "return_pct": -0.53,
     "salida": 0.08833,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "07:47"
   },
   {
     "par": "DOODUSDT",
@@ -6069,7 +6847,9 @@
     "resultado": "TP",
     "return_pct": 1.88,
     "salida": 0.001674,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-06",
+    "hora": "08:00"
   },
   {
     "par": "HYPERUSDT",
@@ -6085,7 +6865,9 @@
     "resultado": "TP",
     "return_pct": 0.47,
     "salida": 0.069576,
-    "duracion": "29m"
+    "duracion": "29m",
+    "fecha": "2026-09-06",
+    "hora": "08:24"
   },
   {
     "par": "JCTUSDT",
@@ -6101,7 +6883,9 @@
     "resultado": "SL",
     "return_pct": -0.72,
     "salida": 0.001949,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "08:04"
   },
   {
     "par": "NAORISUSDT",
@@ -6117,7 +6901,9 @@
     "resultado": "SL",
     "return_pct": -1.34,
     "salida": 0.0374,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-06",
+    "hora": "08:08"
   },
   {
     "par": "BRUSDT",
@@ -6133,7 +6919,9 @@
     "resultado": "TP",
     "return_pct": 1.96,
     "salida": 0.241299,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "08:08"
   },
   {
     "par": "IOUSDT",
@@ -6149,7 +6937,9 @@
     "resultado": "TP",
     "return_pct": 0.67,
     "salida": 0.136491,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-06",
+    "hora": "08:20"
   },
   {
     "par": "NAORISUSDT",
@@ -6165,7 +6955,9 @@
     "resultado": "TP",
     "return_pct": 2.59,
     "salida": 0.037646,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "11:47"
   },
   {
     "par": "PROMUSDT",
@@ -6181,7 +6973,9 @@
     "resultado": "TP",
     "return_pct": 1.07,
     "salida": 5.510233,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "08:25"
   },
   {
     "par": "BRUSDT",
@@ -6197,7 +6991,9 @@
     "resultado": "SL",
     "return_pct": -1.15,
     "salida": 0.254414,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "08:27"
   },
   {
     "par": "SOLVUSDT",
@@ -6213,7 +7009,9 @@
     "resultado": "SL",
     "return_pct": -0.75,
     "salida": 0.003732,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "08:32"
   },
   {
     "par": "KAVAUSDT",
@@ -6229,7 +7027,9 @@
     "resultado": "TP",
     "return_pct": 0.71,
     "salida": 0.052656,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-06",
+    "hora": "08:33"
   },
   {
     "par": "XANUSDT",
@@ -6245,7 +7045,9 @@
     "resultado": "SL",
     "return_pct": -1.02,
     "salida": 0.018055,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-06",
+    "hora": "08:45"
   },
   {
     "par": "币安人生USDT",
@@ -6261,7 +7063,9 @@
     "resultado": "SL",
     "return_pct": -2.1,
     "salida": 0.5373,
-    "duracion": "4h 11m"
+    "duracion": "4h 11m",
+    "fecha": "2026-09-06",
+    "hora": "12:53"
   },
   {
     "par": "TRIAUSDT",
@@ -6277,7 +7081,9 @@
     "resultado": "TP",
     "return_pct": 1.0,
     "salida": 0.00468,
-    "duracion": "26m"
+    "duracion": "26m",
+    "fecha": "2026-09-06",
+    "hora": "09:11"
   },
   {
     "par": "RAYSOLUSDT",
@@ -6293,7 +7099,9 @@
     "resultado": "SL",
     "return_pct": -1.54,
     "salida": 1.3979,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "08:46"
   },
   {
     "par": "RAYSOLUSDT",
@@ -6309,7 +7117,9 @@
     "resultado": "TP",
     "return_pct": 2.14,
     "salida": 1.355232,
-    "duracion": "23m"
+    "duracion": "23m",
+    "fecha": "2026-09-06",
+    "hora": "09:11"
   },
   {
     "par": "CLOUSDT",
@@ -6325,7 +7135,9 @@
     "resultado": "TP",
     "return_pct": 0.98,
     "salida": 0.111628,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-06",
+    "hora": "09:20"
   },
   {
     "par": "BULLAUSDT",
@@ -6341,7 +7153,9 @@
     "resultado": "TP",
     "return_pct": 4.15,
     "salida": 0.07447,
-    "duracion": "48m"
+    "duracion": "48m",
+    "fecha": "2026-09-06",
+    "hora": "10:04"
   },
   {
     "par": "XANUSDT",
@@ -6357,7 +7171,9 @@
     "resultado": "TP",
     "return_pct": 1.07,
     "salida": 0.017931,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "09:33"
   },
   {
     "par": "HEMIUSDT",
@@ -6373,7 +7189,9 @@
     "resultado": "TP",
     "return_pct": 1.19,
     "salida": 0.011219,
-    "duracion": "35m"
+    "duracion": "35m",
+    "fecha": "2026-09-06",
+    "hora": "10:30"
   },
   {
     "par": "PHAUSDT",
@@ -6389,7 +7207,9 @@
     "resultado": "SL",
     "return_pct": -2.34,
     "salida": 0.02781,
-    "duracion": "38m"
+    "duracion": "38m",
+    "fecha": "2026-09-06",
+    "hora": "10:45"
   },
   {
     "par": "LIGHTUSDT",
@@ -6405,7 +7225,9 @@
     "resultado": "SL",
     "return_pct": -0.38,
     "salida": 0.1825,
-    "duracion": "28m"
+    "duracion": "28m",
+    "fecha": "2026-09-06",
+    "hora": "11:09"
   },
   {
     "par": "WOOUSDT",
@@ -6421,7 +7243,9 @@
     "resultado": "SL",
     "return_pct": -0.87,
     "salida": 0.01259,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "10:48"
   },
   {
     "par": "ALTUSDT",
@@ -6437,7 +7261,9 @@
     "resultado": "TP",
     "return_pct": 0.26,
     "salida": 0.006445,
-    "duracion": "1h 20m"
+    "duracion": "1h 20m",
+    "fecha": "2026-09-06",
+    "hora": "12:10"
   },
   {
     "par": "MARSCOINUSDT",
@@ -6453,7 +7279,9 @@
     "resultado": "SL",
     "return_pct": -1.4,
     "salida": 0.19144,
-    "duracion": "16m"
+    "duracion": "16m",
+    "fecha": "2026-09-06",
+    "hora": "11:28"
   },
   {
     "par": "FORMUSDT",
@@ -6469,7 +7297,9 @@
     "resultado": "SL",
     "return_pct": -0.63,
     "salida": 0.27,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-06",
+    "hora": "11:40"
   },
   {
     "par": "NAORISUSDT",
@@ -6485,7 +7315,9 @@
     "resultado": "TP",
     "return_pct": 1.15,
     "salida": 0.038199,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "11:47"
   },
   {
     "par": "NAORISUSDT",
@@ -6501,7 +7333,9 @@
     "resultado": "SL",
     "return_pct": -1.46,
     "salida": 0.03899,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-06",
+    "hora": "11:59"
   },
   {
     "par": "FIDAUSDT",
@@ -6517,7 +7351,9 @@
     "resultado": "TP",
     "return_pct": 0.66,
     "salida": 0.020724,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "14:49"
   },
   {
     "par": "COLLECTUSDT",
@@ -6533,7 +7369,9 @@
     "resultado": "TP",
     "return_pct": 1.66,
     "salida": 0.042021,
-    "duracion": "17m"
+    "duracion": "17m",
+    "fecha": "2026-09-06",
+    "hora": "12:22"
   },
   {
     "par": "SIGNUSDT",
@@ -6549,7 +7387,9 @@
     "resultado": "SL",
     "return_pct": -0.66,
     "salida": 0.01087,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-06",
+    "hora": "12:23"
   },
   {
     "par": "ZECUSDT",
@@ -6565,7 +7405,9 @@
     "resultado": "SL",
     "return_pct": -2.33,
     "salida": 1233.67,
-    "duracion": "1h 8m"
+    "duracion": "1h 8m",
+    "fecha": "2026-09-06",
+    "hora": "13:43"
   },
   {
     "par": "TRIAUSDT",
@@ -6581,7 +7423,9 @@
     "resultado": "TP",
     "return_pct": 0.79,
     "salida": 0.004457,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "12:44"
   },
   {
     "par": "LDOUSDT",
@@ -6597,7 +7441,9 @@
     "resultado": "SL",
     "return_pct": -0.43,
     "salida": 0.4218,
-    "duracion": "25m"
+    "duracion": "25m",
+    "fecha": "2026-09-06",
+    "hora": "13:25"
   },
   {
     "par": "TAOUSDT",
@@ -6613,7 +7459,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 258.0,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "13:01"
   },
   {
     "par": "AKEUSDT",
@@ -6629,7 +7477,9 @@
     "resultado": "SL",
     "return_pct": -1.12,
     "salida": 0.014861,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "13:23"
   },
   {
     "par": "AKEUSDT",
@@ -6645,7 +7495,9 @@
     "resultado": "SL",
     "return_pct": -1.03,
     "salida": 0.015152,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "13:35"
   },
   {
     "par": "ROSEUSDT",
@@ -6661,7 +7513,9 @@
     "resultado": "TP",
     "return_pct": 0.6,
     "salida": 0.007523,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "13:31"
   },
   {
     "par": "PHAUSDT",
@@ -6677,7 +7531,9 @@
     "resultado": "TP",
     "return_pct": 0.77,
     "salida": 0.027251,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "14:03"
   },
   {
     "par": "CHILLGUYUSDT",
@@ -6693,7 +7549,9 @@
     "resultado": "TP",
     "return_pct": 0.57,
     "salida": 0.015941,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "14:19"
   },
   {
     "par": "HEMIUSDT",
@@ -6709,7 +7567,9 @@
     "resultado": "SL",
     "return_pct": -0.61,
     "salida": 0.011558,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-06",
+    "hora": "14:25"
   },
   {
     "par": "MEMEUSDT",
@@ -6725,7 +7585,9 @@
     "resultado": "SL",
     "return_pct": -1.16,
     "salida": 0.000562,
-    "duracion": "4h 12m"
+    "duracion": "4h 12m",
+    "fecha": "2026-09-06",
+    "hora": "18:32"
   },
   {
     "par": "4USDT",
@@ -6741,7 +7603,9 @@
     "resultado": "TP",
     "return_pct": 1.0,
     "salida": 0.025648,
-    "duracion": "45m"
+    "duracion": "45m",
+    "fecha": "2026-09-06",
+    "hora": "15:07"
   },
   {
     "par": "FIDAUSDT",
@@ -6757,7 +7621,9 @@
     "resultado": "SL",
     "return_pct": -0.85,
     "salida": 0.02109,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "14:49"
   },
   {
     "par": "JASMYUSDT",
@@ -6773,7 +7639,9 @@
     "resultado": "TP",
     "return_pct": 0.93,
     "salida": 0.004362,
-    "duracion": "2h 12m"
+    "duracion": "2h 12m",
+    "fecha": "2026-09-06",
+    "hora": "17:19"
   },
   {
     "par": "TAKEUSDT",
@@ -6789,7 +7657,9 @@
     "resultado": "TP",
     "return_pct": 0.64,
     "salida": 0.060314,
-    "duracion": "47m"
+    "duracion": "47m",
+    "fecha": "2026-09-06",
+    "hora": "16:03"
   },
   {
     "par": "BROCCOLI714USDT",
@@ -6805,7 +7675,9 @@
     "resultado": "SL",
     "return_pct": -0.36,
     "salida": 0.01922,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-06",
+    "hora": "16:17"
   },
   {
     "par": "ARBUSDT",
@@ -6821,7 +7693,9 @@
     "resultado": "TP",
     "return_pct": 0.63,
     "salida": 0.185932,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-06",
+    "hora": "16:30"
   },
   {
     "par": "VELVETUSDT",
@@ -6837,7 +7711,9 @@
     "resultado": "TP",
     "return_pct": 0.41,
     "salida": 0.080469,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "16:40"
   },
   {
     "par": "哈基米USDT",
@@ -6853,7 +7729,9 @@
     "resultado": "TP",
     "return_pct": 0.52,
     "salida": 0.057044,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-06",
+    "hora": "16:47"
   },
   {
     "par": "METISUSDT",
@@ -6869,7 +7747,9 @@
     "resultado": "TP",
     "return_pct": 1.1,
     "salida": 3.49965,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "17:22"
   },
   {
     "par": "XANUSDT",
@@ -6885,7 +7765,9 @@
     "resultado": "SL",
     "return_pct": -0.82,
     "salida": 0.020862,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "17:30"
   },
   {
     "par": "NAORISUSDT",
@@ -6901,7 +7783,9 @@
     "resultado": "SL",
     "return_pct": -1.21,
     "salida": 0.03974,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "17:37"
   },
   {
     "par": "NAORISUSDT",
@@ -6917,7 +7801,9 @@
     "resultado": "TP",
     "return_pct": 1.39,
     "salida": 0.039471,
-    "duracion": "15m"
+    "duracion": "15m",
+    "fecha": "2026-09-06",
+    "hora": "17:56"
   },
   {
     "par": "FIDAUSDT",
@@ -6933,7 +7819,9 @@
     "resultado": "SL",
     "return_pct": -0.65,
     "salida": 0.022859,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-06",
+    "hora": "17:49"
   },
   {
     "par": "DOODUSDT",
@@ -6949,7 +7837,9 @@
     "resultado": "TP",
     "return_pct": 1.08,
     "salida": 0.001921,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "22:01"
   },
   {
     "par": "哈基米USDT",
@@ -6965,7 +7855,9 @@
     "resultado": "SL",
     "return_pct": -1.25,
     "salida": 0.0607,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "18:23"
   },
   {
     "par": "MANAUSDT",
@@ -6981,7 +7873,9 @@
     "resultado": "TP",
     "return_pct": 0.5,
     "salida": 0.076584,
-    "duracion": "32m"
+    "duracion": "32m",
+    "fecha": "2026-09-06",
+    "hora": "18:56"
   },
   {
     "par": "SOLVUSDT",
@@ -6997,7 +7891,9 @@
     "resultado": "TP",
     "return_pct": 1.74,
     "salida": 0.003907,
-    "duracion": "8m"
+    "duracion": "8m",
+    "fecha": "2026-09-06",
+    "hora": "18:34"
   },
   {
     "par": "4USDT",
@@ -7013,7 +7909,9 @@
     "resultado": "SL",
     "return_pct": -0.98,
     "salida": 0.025462,
-    "duracion": "10m"
+    "duracion": "10m",
+    "fecha": "2026-09-06",
+    "hora": "19:01"
   },
   {
     "par": "NIGHTUSDT",
@@ -7029,7 +7927,9 @@
     "resultado": "TP",
     "return_pct": 1.04,
     "salida": 0.024071,
-    "duracion": "1h 21m"
+    "duracion": "1h 21m",
+    "fecha": "2026-09-06",
+    "hora": "20:12"
   },
   {
     "par": "CARVUSDT",
@@ -7045,7 +7945,9 @@
     "resultado": "TP",
     "return_pct": 0.45,
     "salida": 0.036555,
-    "duracion": "1h 10m"
+    "duracion": "1h 10m",
+    "fecha": "2026-09-06",
+    "hora": "20:09"
   },
   {
     "par": "1000XECUSDT",
@@ -7061,7 +7963,9 @@
     "resultado": "TP",
     "return_pct": 0.46,
     "salida": 0.007416,
-    "duracion": "1h 4m"
+    "duracion": "1h 4m",
+    "fecha": "2026-09-06",
+    "hora": "20:07"
   },
   {
     "par": "XANUSDT",
@@ -7077,7 +7981,9 @@
     "resultado": "SL",
     "return_pct": -0.81,
     "salida": 0.020224,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "20:22"
   },
   {
     "par": "XNYUSDT",
@@ -7093,7 +7999,9 @@
     "resultado": "TP",
     "return_pct": 0.52,
     "salida": 0.006674,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "20:28"
   },
   {
     "par": "TACUSDT",
@@ -7109,7 +8017,9 @@
     "resultado": "SL",
     "return_pct": -0.53,
     "salida": 0.002459,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "20:33"
   },
   {
     "par": "WOOUSDT",
@@ -7125,7 +8035,9 @@
     "resultado": "SL",
     "return_pct": -1.05,
     "salida": 0.01237,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "20:33"
   },
   {
     "par": "CAPUSDT",
@@ -7141,7 +8053,9 @@
     "resultado": "TP",
     "return_pct": 0.73,
     "salida": 0.042379,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "20:38"
   },
   {
     "par": "牛来USDT",
@@ -7157,7 +8071,9 @@
     "resultado": "SL",
     "return_pct": -1.11,
     "salida": 0.092737,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "20:37"
   },
   {
     "par": "WOOUSDT",
@@ -7173,7 +8089,9 @@
     "resultado": "TP",
     "return_pct": 1.73,
     "salida": 0.01213,
-    "duracion": "0m"
+    "duracion": "0m",
+    "fecha": "2026-09-06",
+    "hora": "20:36"
   },
   {
     "par": "COTIUSDT",
@@ -7189,7 +8107,9 @@
     "resultado": "TP",
     "return_pct": 0.74,
     "salida": 0.016909,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "20:39"
   },
   {
     "par": "USELESSUSDT",
@@ -7205,7 +8125,9 @@
     "resultado": "TP",
     "return_pct": 1.52,
     "salida": 0.218366,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-06",
+    "hora": "20:47"
   },
   {
     "par": "DOODUSDT",
@@ -7221,7 +8143,9 @@
     "resultado": "TP",
     "return_pct": 1.39,
     "salida": 0.001875,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-06",
+    "hora": "22:01"
   },
   {
     "par": "牛来USDT",
@@ -7237,7 +8161,9 @@
     "resultado": "TP",
     "return_pct": 1.31,
     "salida": 0.091575,
-    "duracion": "4m"
+    "duracion": "4m",
+    "fecha": "2026-09-06",
+    "hora": "20:47"
   },
   {
     "par": "AKEUSDT",
@@ -7253,7 +8179,9 @@
     "resultado": "TP",
     "return_pct": 1.57,
     "salida": 0.014169,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "20:52"
   },
   {
     "par": "ORCAUSDT",
@@ -7269,7 +8197,9 @@
     "resultado": "SL",
     "return_pct": -2.32,
     "salida": 1.682,
-    "duracion": "13m"
+    "duracion": "13m",
+    "fecha": "2026-09-06",
+    "hora": "21:04"
   },
   {
     "par": "TACUSDT",
@@ -7285,7 +8215,9 @@
     "resultado": "SL",
     "return_pct": -1.97,
     "salida": 0.002789,
-    "duracion": "9m"
+    "duracion": "9m",
+    "fecha": "2026-09-06",
+    "hora": "21:03"
   },
   {
     "par": "QUSDT",
@@ -7301,7 +8233,9 @@
     "resultado": "SL",
     "return_pct": -1.12,
     "salida": 0.028705,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "21:02"
   },
   {
     "par": "CFGUSDT",
@@ -7317,7 +8251,9 @@
     "resultado": "SL",
     "return_pct": -1.61,
     "salida": 0.1179,
-    "duracion": "30m"
+    "duracion": "30m",
+    "fecha": "2026-09-06",
+    "hora": "21:36"
   },
   {
     "par": "TACUSDT",
@@ -7333,7 +8269,9 @@
     "resultado": "TP",
     "return_pct": 2.19,
     "salida": 0.002737,
-    "duracion": "6m"
+    "duracion": "6m",
+    "fecha": "2026-09-06",
+    "hora": "21:11"
   },
   {
     "par": "ZBTUSDT",
@@ -7349,7 +8287,9 @@
     "resultado": "TP",
     "return_pct": 0.32,
     "salida": 0.085419,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-06",
+    "hora": "21:32"
   },
   {
     "par": "EULUSDT",
@@ -7365,7 +8305,9 @@
     "resultado": "TP",
     "return_pct": 0.4,
     "salida": 1.318762,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "21:26"
   },
   {
     "par": "哈基米USDT",
@@ -7381,7 +8323,9 @@
     "resultado": "TP",
     "return_pct": 1.85,
     "salida": 0.064407,
-    "duracion": "5m"
+    "duracion": "5m",
+    "fecha": "2026-09-06",
+    "hora": "21:34"
   },
   {
     "par": "API3USDT",
@@ -7397,7 +8341,9 @@
     "resultado": "SL",
     "return_pct": -0.5,
     "salida": 0.2384,
-    "duracion": "2m"
+    "duracion": "2m",
+    "fecha": "2026-09-06",
+    "hora": "21:38"
   },
   {
     "par": "ALCHUSDT",
@@ -7413,7 +8359,9 @@
     "resultado": "TP",
     "return_pct": 0.38,
     "salida": 0.030734,
-    "duracion": "12m"
+    "duracion": "12m",
+    "fecha": "2026-09-06",
+    "hora": "21:54"
   },
   {
     "par": "ARUSDT",
@@ -7429,7 +8377,9 @@
     "resultado": "SL",
     "return_pct": -0.43,
     "salida": 3.038,
-    "duracion": "7m"
+    "duracion": "7m",
+    "fecha": "2026-09-06",
+    "hora": "21:49"
   },
   {
     "par": "GMTUSDT",
@@ -7445,7 +8395,9 @@
     "resultado": "TP",
     "return_pct": 0.31,
     "salida": 0.007548,
-    "duracion": "12m"
+    "duracion": "12m",
+    "fecha": "2026-09-06",
+    "hora": "21:54"
   },
   {
     "par": "DOODUSDT",
@@ -7461,7 +8413,9 @@
     "resultado": "TP",
     "return_pct": 1.65,
     "salida": 0.001899,
-    "duracion": "11m"
+    "duracion": "11m",
+    "fecha": "2026-09-06",
+    "hora": "22:01"
   },
   {
     "par": "TLMUSDT",
@@ -7477,7 +8431,9 @@
     "resultado": "TP",
     "return_pct": 0.71,
     "salida": 0.001441,
-    "duracion": "1h 3m"
+    "duracion": "1h 3m",
+    "fecha": "2026-09-06",
+    "hora": "22:58"
   },
   {
     "par": "KASUSDT",
@@ -7493,7 +8449,9 @@
     "resultado": "TP",
     "return_pct": 0.54,
     "salida": 0.032544,
-    "duracion": "1m"
+    "duracion": "1m",
+    "fecha": "2026-09-06",
+    "hora": "21:58"
   },
   {
     "par": "COMPUSDT",
@@ -7509,7 +8467,9 @@
     "resultado": "TP",
     "return_pct": 0.38,
     "salida": 21.100738,
-    "duracion": "3m"
+    "duracion": "3m",
+    "fecha": "2026-09-06",
+    "hora": "22:08"
   },
   {
     "par": "UAIUSDT",
@@ -7525,7 +8485,9 @@
     "resultado": "SL",
     "return_pct": -1.4,
     "salida": 0.6765,
-    "duracion": "19m"
+    "duracion": "19m",
+    "fecha": "2026-09-06",
+    "hora": "22:24"
   },
   {
     "par": "USELESSUSDT",
@@ -7541,7 +8503,9 @@
     "resultado": "TP",
     "return_pct": 1.53,
     "salida": 0.219071,
-    "duracion": "27m"
+    "duracion": "27m",
+    "fecha": "2026-09-06",
+    "hora": "22:36"
   },
   {
     "par": "CFGUSDT",
