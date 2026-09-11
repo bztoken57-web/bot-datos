@@ -8864,5 +8864,23 @@
     "duracion": "16m",
     "fecha": "2026-09-11",
     "hora": "04:54"
+  },
+  {
+    "par": "牛来USDT",
+    "tipo": "SHORT",
+    "entrada": 0.15073,
+    "sl": 0.1556,
+    "sl_pct": 3.23,
+    "tp": 0.146535,
+    "tp_pct": -2.78,
+    "impulso": 3.72,
+    "rsi": 75.4,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-11",
+    "hora": "09:55"
   }
 ]
