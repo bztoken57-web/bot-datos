@@ -8875,11 +8875,11 @@
     "tp_pct": -2.78,
     "impulso": 3.72,
     "rsi": 75.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.86,
+    "salida": 0.146535,
+    "duracion": "20m",
     "fecha": "2026-09-11",
     "hora": "09:55"
   }
