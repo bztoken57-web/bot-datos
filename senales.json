@@ -8947,11 +8947,11 @@
     "tp_pct": -3.0,
     "impulso": 3.3,
     "rsi": 89.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.4,
+    "salida": 0.016635,
+    "duracion": "0m",
     "fecha": "2026-09-12",
     "hora": "12:26"
   }
