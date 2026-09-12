@@ -8929,11 +8929,11 @@
     "tp_pct": -4.14,
     "impulso": 6.59,
     "rsi": 89.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -5.05,
+    "salida": 0.1416,
+    "duracion": "1h 39m",
     "fecha": "2026-09-12",
     "hora": "05:44"
   }
