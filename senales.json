@@ -9001,11 +9001,11 @@
     "tp_pct": -24.58,
     "impulso": 25.95,
     "rsi": 92.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 32.59,
+    "salida": 1.35753,
+    "duracion": "20m",
     "fecha": "2026-09-12",
     "hora": "22:30"
   }
