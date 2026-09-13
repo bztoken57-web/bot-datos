@@ -8983,11 +8983,11 @@
     "tp_pct": -7.63,
     "impulso": 3.64,
     "rsi": 85.5,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -4.84,
+    "salida": 0.75803,
+    "duracion": "9m",
     "fecha": "2026-09-12",
     "hora": "22:02"
   }
