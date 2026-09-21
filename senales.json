@@ -9044,5 +9044,23 @@
     "duracion": null,
     "fecha": "2026-09-13",
     "hora": "19:03"
+  },
+  {
+    "par": "BULLAUSDT",
+    "tipo": "LONG",
+    "entrada": 0.104558,
+    "sl": 0.102761,
+    "sl_pct": -1.72,
+    "tp": 0.107253,
+    "tp_pct": 2.58,
+    "impulso": 7.03,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-20",
+    "hora": "20:47"
   }
 ]
