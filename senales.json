@@ -9127,11 +9127,11 @@
     "tp_pct": 3.35,
     "impulso": 7.67,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.23,
+    "salida": 4.241942,
+    "duracion": "7m",
     "fecha": "2026-09-23",
     "hora": "12:21"
   }
