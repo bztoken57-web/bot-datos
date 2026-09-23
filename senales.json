@@ -9109,11 +9109,11 @@
     "tp_pct": -9.66,
     "impulso": 7.31,
     "rsi": 98.0,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -10.11,
+    "salida": 0.1588,
+    "duracion": "10m",
     "fecha": "2026-09-23",
     "hora": "02:08"
   }
