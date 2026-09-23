@@ -9091,11 +9091,11 @@
     "tp_pct": -8.42,
     "impulso": 6.6,
     "rsi": 99.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -5.31,
+    "salida": 0.089241,
+    "duracion": "1m",
     "fecha": "2026-09-23",
     "hora": "01:02"
   }
