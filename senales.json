@@ -9116,5 +9116,23 @@
     "duracion": "10m",
     "fecha": "2026-09-23",
     "hora": "02:08"
+  },
+  {
+    "par": "EGLDUSDT",
+    "tipo": "LONG",
+    "entrada": 4.338915,
+    "sl": 4.241942,
+    "sl_pct": -2.23,
+    "tp": 4.484376,
+    "tp_pct": 3.35,
+    "impulso": 7.67,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-23",
+    "hora": "12:21"
   }
 ]
