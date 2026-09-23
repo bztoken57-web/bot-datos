@@ -9080,5 +9080,23 @@
     "duracion": "0m",
     "fecha": "2026-09-21",
     "hora": "20:29"
+  },
+  {
+    "par": "TAKEUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.0845,
+    "sl": 0.089241,
+    "sl_pct": 5.61,
+    "tp": 0.077388,
+    "tp_pct": -8.42,
+    "impulso": 6.6,
+    "rsi": 99.3,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-09-23",
+    "hora": "01:02"
   }
 ]
