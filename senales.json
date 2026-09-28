@@ -9145,11 +9145,11 @@
     "tp_pct": 2.41,
     "impulso": 6.48,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.61,
+    "salida": 0.011779,
+    "duracion": "3m",
     "fecha": "2026-09-27",
     "hora": "19:47"
   }
