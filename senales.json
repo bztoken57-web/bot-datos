@@ -9163,11 +9163,11 @@
     "tp_pct": -1.98,
     "impulso": 3.97,
     "rsi": 97.1,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 2.02,
+    "salida": 0.135367,
+    "duracion": "6m",
     "fecha": "2026-09-28",
     "hora": "19:02"
   }
