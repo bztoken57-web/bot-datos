@@ -9170,5 +9170,23 @@
     "duracion": "6m",
     "fecha": "2026-09-28",
     "hora": "19:02"
+  },
+  {
+    "par": "PUMPBTCUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.00827,
+    "sl": 0.00884,
+    "sl_pct": 6.89,
+    "tp": 0.007983,
+    "tp_pct": -3.47,
+    "impulso": 9.89,
+    "rsi": 95.6,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-01",
+    "hora": "19:16"
   }
 ]
