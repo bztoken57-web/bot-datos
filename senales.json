@@ -9199,11 +9199,11 @@
     "tp_pct": -2.47,
     "impulso": 3.87,
     "rsi": 90.4,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.77,
+    "salida": 0.5875,
+    "duracion": "18m",
     "fecha": "2026-10-02",
     "hora": "02:09"
   }
