@@ -9224,5 +9224,23 @@
     "duracion": "5m",
     "fecha": "2026-10-02",
     "hora": "20:15"
+  },
+  {
+    "par": "IMXUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.1917,
+    "sl": 0.2031,
+    "sl_pct": 5.95,
+    "tp": 0.186269,
+    "tp_pct": -2.83,
+    "impulso": 4.35,
+    "rsi": 88.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-03",
+    "hora": "01:24"
   }
 ]
