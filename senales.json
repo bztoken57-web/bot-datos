@@ -9242,5 +9242,23 @@
     "duracion": "55m",
     "fecha": "2026-10-03",
     "hora": "01:24"
+  },
+  {
+    "par": "ROBOUSDT",
+    "tipo": "SHORT",
+    "entrada": 0.00846,
+    "sl": 0.00906,
+    "sl_pct": 7.09,
+    "tp": 0.008241,
+    "tp_pct": -2.59,
+    "impulso": 5.47,
+    "rsi": 97.2,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-03",
+    "hora": "14:58"
   }
 ]
