@@ -9260,5 +9260,23 @@
     "duracion": null,
     "fecha": "2026-10-03",
     "hora": "14:58"
+  },
+  {
+    "par": "KITEUSDT",
+    "tipo": "LONG",
+    "entrada": 0.150512,
+    "sl": 0.14816,
+    "sl_pct": -1.56,
+    "tp": 0.154041,
+    "tp_pct": 2.34,
+    "impulso": 6.65,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-03",
+    "hora": "22:01"
   }
 ]
