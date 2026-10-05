@@ -9307,11 +9307,11 @@
     "tp_pct": 2.39,
     "impulso": 7.63,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.59,
+    "salida": 0.033886,
+    "duracion": "52m",
     "fecha": "2026-10-04",
     "hora": "22:47"
   }
