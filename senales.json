@@ -9296,5 +9296,23 @@
     "duracion": "5m",
     "fecha": "2026-10-04",
     "hora": "00:43"
+  },
+  {
+    "par": "HUMAUSDT",
+    "tipo": "LONG",
+    "entrada": 0.034434,
+    "sl": 0.033886,
+    "sl_pct": -1.59,
+    "tp": 0.035257,
+    "tp_pct": 2.39,
+    "impulso": 7.63,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-04",
+    "hora": "22:47"
   }
 ]
