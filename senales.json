@@ -9343,11 +9343,11 @@
     "tp_pct": 1.89,
     "impulso": 5.89,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.89,
+    "salida": 0.768351,
+    "duracion": "11m",
     "fecha": "2026-10-06",
     "hora": "21:19"
   }
