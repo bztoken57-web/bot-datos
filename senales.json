@@ -9332,5 +9332,23 @@
     "duracion": null,
     "fecha": "2026-10-06",
     "hora": "21:19"
+  },
+  {
+    "par": "ETHFIUSDT",
+    "tipo": "LONG",
+    "entrada": 0.754107,
+    "sl": 0.74461,
+    "sl_pct": -1.26,
+    "tp": 0.768351,
+    "tp_pct": 1.89,
+    "impulso": 5.89,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-06",
+    "hora": "21:19"
   }
 ]
