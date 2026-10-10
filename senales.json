@@ -9379,11 +9379,11 @@
     "tp_pct": -6.49,
     "impulso": 4.65,
     "rsi": 93.3,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -2.91,
+    "salida": 0.116926,
+    "duracion": "4m",
     "fecha": "2026-10-10",
     "hora": "02:19"
   }
