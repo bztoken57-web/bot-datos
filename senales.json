@@ -9386,5 +9386,23 @@
     "duracion": "4m",
     "fecha": "2026-10-10",
     "hora": "02:19"
+  },
+  {
+    "par": "LIGHTUSDT",
+    "tipo": "LONG",
+    "entrada": 0.202452,
+    "sl": 0.199544,
+    "sl_pct": -1.44,
+    "tp": 0.206814,
+    "tp_pct": 2.15,
+    "impulso": 7.15,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-10",
+    "hora": "13:02"
   }
 ]
