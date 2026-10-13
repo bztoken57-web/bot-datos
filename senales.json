@@ -9422,5 +9422,23 @@
     "duracion": null,
     "fecha": "2026-10-12",
     "hora": "18:16"
+  },
+  {
+    "par": "ONUSDT",
+    "tipo": "LONG",
+    "entrada": 0.126889,
+    "sl": 0.124733,
+    "sl_pct": -1.7,
+    "tp": 0.130125,
+    "tp_pct": 2.55,
+    "impulso": 6.55,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-12",
+    "hora": "19:02"
   }
 ]
