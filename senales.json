@@ -9433,11 +9433,11 @@
     "tp_pct": 2.55,
     "impulso": 6.55,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.7,
+    "salida": 0.124733,
+    "duracion": "14m",
     "fecha": "2026-10-12",
     "hora": "19:02"
   }
