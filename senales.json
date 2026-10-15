@@ -9458,5 +9458,23 @@
     "duracion": "13m",
     "fecha": "2026-10-14",
     "hora": "22:36"
+  },
+  {
+    "par": "BERAUSDT",
+    "tipo": "LONG",
+    "entrada": 0.234417,
+    "sl": 0.230076,
+    "sl_pct": -1.85,
+    "tp": 0.240929,
+    "tp_pct": 2.78,
+    "impulso": 7.62,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-10-15",
+    "hora": "05:17"
   }
 ]
