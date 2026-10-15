@@ -9469,11 +9469,11 @@
     "tp_pct": 2.78,
     "impulso": 7.62,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "SL",
+    "return_pct": -1.85,
+    "salida": 0.230076,
+    "duracion": "7m",
     "fecha": "2026-10-15",
     "hora": "05:17"
   }
