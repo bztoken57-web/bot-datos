@@ -9487,11 +9487,11 @@
     "tp_pct": 1.99,
     "impulso": 7.21,
     "rsi": null,
-    "estado": "Abierto",
-    "resultado": null,
-    "return_pct": null,
-    "salida": null,
-    "duracion": null,
+    "estado": "Cerrado",
+    "resultado": "TP",
+    "return_pct": 1.99,
+    "salida": 0.0176,
+    "duracion": "10m",
     "fecha": "2026-10-21",
     "hora": "04:50"
   }
