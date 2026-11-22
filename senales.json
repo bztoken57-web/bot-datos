@@ -9494,5 +9494,23 @@
     "duracion": "10m",
     "fecha": "2026-10-21",
     "hora": "04:50"
+  },
+  {
+    "par": "PHAUSDT",
+    "tipo": "LONG",
+    "entrada": 0.029223,
+    "sl": 0.028899,
+    "sl_pct": -1.11,
+    "tp": 0.029709,
+    "tp_pct": 1.66,
+    "impulso": 5.77,
+    "rsi": null,
+    "estado": "Abierto",
+    "resultado": null,
+    "return_pct": null,
+    "salida": null,
+    "duracion": null,
+    "fecha": "2026-11-22",
+    "hora": "17:35"
   }
 ]
